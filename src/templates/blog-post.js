@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Hero from "../components/hero"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -91,6 +92,11 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        hero {
+          childImageSharp {
+              gatsbyImageData(blurredOptions: {width: 1200}, height: 750, width: 1200)
+          }
+      }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

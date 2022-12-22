@@ -1,17 +1,20 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
-
+import { Link } from "gatsby"
+import '../sass/styles.scss'
 import Bio from "../components/bio"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import useBlogs from "../hooks/use-blogs"
+import useMetadata from "../hooks/use-metadata"
 
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
+const BlogIndex = ({ location }) => {
+  const posts = useBlogs();
+  const site = useMetadata();
+  const title = site.site.siteMetadata.title;
   if (posts.length === 0) {
     return (
-      <Layout location={location} title={siteTitle}>
+      <Layout location={location} title={title}>
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -21,42 +24,56 @@ const BlogIndex = ({ data, location }) => {
       </Layout>
     )
   }
+  let arrayOne = [];
+  posts.map( a => {
+    if(a.description === "My Ranking"){
+      const album = a.album;
+      let image = getImage(a.image);
+      arrayOne.push({
+        album: album,
+        src: image
+      });
+    }
+    console.log(a.slug)
+  })
 
+  for(const[key,value] of Object.entries(arrayOne[0])){
+    console.log(`${key}:${value}`)
+  }
   return (
-    <Layout location={location} title={siteTitle}>
-      <Bio />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
+    <Layout location={location} title={title}>
+      <ol className="main-list"
+      style={{ listStyle: `none` }}>
+        {arrayOne.map(post => {
+          let values = Object.values(post);
+          const title = values[0]
+          const slug = `/${values[0]}/`;
+          console.log(slug)
           return (
-            <li key={post.fields.slug}>
+            <li key={values[0]}>
               <article
                 className="post-list-item"
                 itemScope
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
+                  <div className="album">
+                    <Link to={slug} itemProp="url">
+                      <GatsbyImage image={values[1]} 
+                        alt=""
+                        className="album-cover" />
                     </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
+                    <h2>
+                      <span itemProp="headline">{title}</span>
+                    </h2>
+                  </div>
                 </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
               </article>
             </li>
           )
         })}
       </ol>
+      <Bio />
     </Layout>
   )
 }
@@ -70,25 +87,3 @@ export default BlogIndex
  */
 export const Head = () => <Seo title="All posts" />
 
-export const pageQuery = graphql`
-  {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
-      }
-    }
-  }
-`

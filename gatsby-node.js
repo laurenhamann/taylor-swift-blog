@@ -9,7 +9,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
-
+const albumView = path.resolve(`./src/templates/album-blog.js`)
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -22,6 +22,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
         nodes {
           id
+          frontmatter {
+            album
+          }
           fields {
             slug
           }
@@ -48,6 +51,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     posts.forEach((post, index) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
+      const album = post.frontmatter.album === null ? 'none' : post.frontmatter.album;
 
       createPage({
         path: post.fields.slug,
@@ -57,6 +61,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           previousPostId,
           nextPostId,
         },
+      })
+
+      createPage({
+        path: `/${album}`,
+        component: albumView
       })
     })
   }
@@ -116,6 +125,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      tags: [String]
+      album: String
     }
 
     type Fields {
