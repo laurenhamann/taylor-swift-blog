@@ -6,7 +6,6 @@ album: Red
 track: 24
 songwriters: ['Taylor Swift', 'Patrick T Monahan']
 tags: ['Upbeat', 'Pessimistic']
-billboardChart: 72
 billboardChart: 69
 ---
 <p className="intro">
