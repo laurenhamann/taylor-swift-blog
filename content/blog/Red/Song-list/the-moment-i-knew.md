@@ -1,5 +1,5 @@
 ---
-title: The Moment I Knew (Taylor's Version)
+title: \"The Moment I Knew (Taylor's Version)\"
 date: "2022-11-27"
 description: "Lyrics"
 album: Red

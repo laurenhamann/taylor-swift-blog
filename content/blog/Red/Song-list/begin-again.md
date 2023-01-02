@@ -1,5 +1,5 @@
 ---
-title: Begin Again (Taylor's Version)
+title: \"Begin Again (Taylor's Version)\"
 date: "2022-11-28"
 description: "Lyrics"
 album: Red

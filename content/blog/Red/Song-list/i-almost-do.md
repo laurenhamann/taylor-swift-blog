@@ -1,5 +1,5 @@
 ---
-title: I Almost Do (Taylor's Version)
+title: \"I Almost Do (Taylor's Version)\"
 date: "2022-12-07"
 description: "Lyrics"
 album: Red

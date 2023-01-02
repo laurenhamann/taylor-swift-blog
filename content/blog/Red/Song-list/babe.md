@@ -1,5 +1,5 @@
 ---
-title: Babe (Taylor's Version)
+title: \"Babe (Taylor's Version)\"
 date: "2022-11-21"
 description: "Lyrics"
 album: Red

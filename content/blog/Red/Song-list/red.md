@@ -1,5 +1,5 @@
 ---
-title: Red (Taylor's Version)
+title: \"Red (Taylor's Version)\"
 date: "2022-12-12"
 description: "Lyrics"
 album: Red

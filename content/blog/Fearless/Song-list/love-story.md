@@ -1,5 +1,5 @@
 ---
-title: Love Story (Taylor's Version)
+title: \"Love Story (Taylor's Version)\"
 date: "2022-11-16"
 description: "Lyrics"
 album: Fearless

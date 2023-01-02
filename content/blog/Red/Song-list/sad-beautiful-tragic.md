@@ -1,5 +1,5 @@
 ---
-title: Sad Beautiful Tragic (Taylor's Version)
+title: \"Sad Beautiful Tragic (Taylor's Version)\"
 date: "2022-12-02"
 description: "Lyrics"
 album: Red

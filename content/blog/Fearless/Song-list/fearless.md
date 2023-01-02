@@ -1,5 +1,5 @@
 ---
-title: Fearless (Taylor's Version)
+title: \"Fearless (Taylor's Version)\"
 date: "2022-11-18"
 description: "Lyrics"
 album: Fearless

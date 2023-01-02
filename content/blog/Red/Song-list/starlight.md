@@ -1,5 +1,5 @@
 ---
-title: Starlight (Taylor's Version)
+title: \"Starlight (Taylor's Version)\"
 date: "2022-11-29"
 description: "Lyrics"
 album: Red

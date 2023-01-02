@@ -1,5 +1,5 @@
 ---
-title: Change (Taylor's Version)
+title: \"Change (Taylor's Version)\"
 date: "2022-11-06"
 description: "Lyrics"
 album: Fearless

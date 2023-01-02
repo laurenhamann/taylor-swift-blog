@@ -1,5 +1,5 @@
 ---
-title: Don't Blame Me
+title: \"Don't Blame Me\"
 date: "2022-12-10"
 description: "Lyrics"
 album: Reputation

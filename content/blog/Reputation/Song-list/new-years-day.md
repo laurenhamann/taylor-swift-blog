@@ -1,5 +1,5 @@
 ---
-title: New Year's Day
+title: \"New Year's Day\"
 date: "2022-11-29"
 description: "Lyrics"
 album: Reputation

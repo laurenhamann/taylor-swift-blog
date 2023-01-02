@@ -1,5 +1,5 @@
 ---
-title: The Last Time (Taylor's Version)
+title: \"The Last Time (Taylor's Version)\"
 date: "2022-12-04"
 description: "Lyrics"
 album: Red

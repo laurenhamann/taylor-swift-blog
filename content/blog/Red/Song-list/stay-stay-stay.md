@@ -1,5 +1,5 @@
 ---
-title: Stay Stay Stay (Taylor's Version)
+title: \"Stay Stay Stay (Taylor's Version)\"
 date: "2022-12-05"
 description: "Lyrics"
 album: Red

@@ -1,5 +1,5 @@
 ---
-title: We Are Never Getting Back Together (Taylor's Version)
+title: \"We Are Never Getting Back Together (Taylor's Version)\"
 date: "2022-12-06"
 description: "Lyrics"
 album: Red

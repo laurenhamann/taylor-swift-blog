@@ -1,5 +1,5 @@
 ---
-title: I Bet You Think About Me (Taylor's Version)
+title: \"I Bet You Think About Me (Taylor's Version)\"
 date: "2022-11-19"
 description: "Lyrics"
 album: Red

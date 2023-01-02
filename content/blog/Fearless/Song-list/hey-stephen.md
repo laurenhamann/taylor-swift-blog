@@ -1,5 +1,5 @@
 ---
-title: Hey Stephen (Taylor's Version)
+title: \"Hey Stephen (Taylor's Version)\"
 date: "2022-11-15"
 description: "Lyrics"
 album: Fearless

@@ -1,5 +1,5 @@
 ---
-title: Ronan (Taylor's Version)
+title: \"Ronan (Taylor's Version)\"
 date: "2022-11-24"
 description: "Lyrics"
 album: Red

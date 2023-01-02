@@ -1,5 +1,5 @@
 ---
-title: it's time to go
+title: \"it's time to go\"
 date: "2022-11-03"
 description: "Lyrics"
 album: Evermore

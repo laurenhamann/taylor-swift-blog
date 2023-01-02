@@ -1,5 +1,5 @@
 ---
-title: The Lucky One (Taylor's Version)
+title: \"The Lucky One (Taylor's Version)\"
 date: "2022-12-01"
 description: "Lyrics"
 album: Red

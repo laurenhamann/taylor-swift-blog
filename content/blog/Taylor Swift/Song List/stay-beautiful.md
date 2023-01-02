@@ -9,13 +9,15 @@ tags: ['Upbeat', 'Bubblegum', 'Pop']
 billboardChartprev: 
 billboardChart: 
 ---
-
+<p className="verse-one">
 Corey's eyes are like a jungle <br />
 He smiles, it's like the radio <br />
 He whispers songs into my window in words that nobody knows <br />
 These pretty girls on every corner <br />
 They watch him as he's walking home, saying, "Does he know?" <br />
 Will you ever know? <br />
+</p>
+<p className="chorus">
 You're beautiful <br />
 Every little piece, love <br />
 And don't you know <br />
@@ -25,11 +27,15 @@ And when you find everything you looked for <br />
 I hope your life will lead you back to my door <br />
 Oh, but if it don't <br />
 Stay beautiful <br />
+</p>
+<p className="verse-two">
 Corey finds another way to be the highlight of my day <br />
 I'm taking pictures in my mind so I can save them for a rainy day <br />
 It's hard to make a conversation when he's taking my breath away <br />
 I should say <br />
 Hey, by the way <br />
+</p>
+<p className="chorus">
 You're beautiful <br />
 Every little piece, love <br />
 And don't you know <br />
@@ -39,11 +45,15 @@ And when you find everything you looked for <br />
 I hope your life will lead you back to my door <br />
 Oh, but if it don't <br />
 Stay beautiful <br />
+</p>
+<p className="bridge">
 If you and I are a story <br />
 That never gets told <br />
 If what you are is a daydream <br />
 I'll never get to hold <br />
 At least you'll know <br />
+</p>
+<p className="chorus">
 You're beautiful <br />
 Every little piece, love <br />
 And don't you know <br />
@@ -55,9 +65,12 @@ Oh, but if it don't <br />
 Will you stay <br />
 Beautiful, beautiful, beautiful? <br />
 Beautiful, beautiful, beautiful? <br />
+</p>
+<p className="outro">
 La la la la <br />
 Oh-oh-oh, oh <br />
 Oh, but if it don't <br />
 Stay beautiful <br />
 Stay beautiful <br />
 Na, na, na, na, na <br />
+</p>

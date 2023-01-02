@@ -1,5 +1,5 @@
 ---
-title: Message In A Bottle (Taylor's Version)
+title: \"Message In A Bottle (Taylor's Version)\"
 date: "2022-11-20"
 description: "Lyrics"
 album: Red

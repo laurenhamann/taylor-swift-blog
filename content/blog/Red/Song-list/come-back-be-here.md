@@ -1,5 +1,5 @@
 ---
-title: Come Back ... Be Here (Taylor's Version)
+title: \"Come Back ... Be Here (Taylor's Version)\"
 date: "2022-11-26"
 description: "Lyrics"
 album: Red

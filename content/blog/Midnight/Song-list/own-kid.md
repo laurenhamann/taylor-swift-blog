@@ -1,5 +1,5 @@
 ---
-title: You're On Your Own, Kid
+title: \"You're On Your Own, Kid\"
 date: "2022-12-10"
 description: "Lyrics"
 album: Midnights

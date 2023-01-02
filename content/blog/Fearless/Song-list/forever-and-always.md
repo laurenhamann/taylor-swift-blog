@@ -1,5 +1,5 @@
 ---
-title: Forever & Always (Taylor's Version)
+title: \"Forever & Always (Taylor's Version)\"
 date: "2022-11-08"
 description: "Lyrics"
 album: Fearless

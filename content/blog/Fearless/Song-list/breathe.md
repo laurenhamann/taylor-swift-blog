@@ -1,5 +1,5 @@
 ---
-title: Breathe(Taylor's Version)
+title: \"Breathe(Taylor's Version)\"
 date: "2022-11-12"
 description: "Lyrics"
 album: Fearless

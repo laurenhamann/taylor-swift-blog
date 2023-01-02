@@ -1,5 +1,5 @@
 ---
-title: This Is Why We Can't Have Nice Things
+title: \"This Is Why We Can't Have Nice Things\"
 date: "2022-12-01"
 description: "Lyrics"
 album: Reputation

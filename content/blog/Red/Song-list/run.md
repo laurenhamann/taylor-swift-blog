@@ -1,5 +1,5 @@
 ---
-title: Run (Taylor's Version)
+title: \"Run (Taylor's Version)\"
 date: "2022-11-17"
 description: "Lyrics"
 album: Red

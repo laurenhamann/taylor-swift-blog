@@ -1,5 +1,5 @@
 ---
-title: Forever Winter (Taylor's Version)
+title: \"Forever Winter (Taylor's Version)\"
 date: "2022-11-18"
 description: "Lyrics"
 album: Red

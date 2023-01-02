@@ -1,5 +1,5 @@
 ---
-title: Its Nice To Have A Friend
+title: \"It's Nice To Have A Friend\"
 date: "2022-10-28"
 description: "Lyrics"
 album: Lover

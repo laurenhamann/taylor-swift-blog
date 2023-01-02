@@ -1,5 +1,5 @@
 ---
-title: The Very First Night (Taylor's Version)
+title: \"The Very First Night (Taylor's Version)\"
 date: "2022-11-16"
 description: "Lyrics"
 album: Red

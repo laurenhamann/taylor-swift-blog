@@ -1,5 +1,5 @@
 ---
-title: State of Grace (Taylor's Version)
+title: \"State of Grace (Taylor's Version)\"
 date: "2022-12-13"
 description: "Lyrics"
 album: Red

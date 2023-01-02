@@ -1,5 +1,5 @@
 ---
-title: Mary's Song
+title: \"Mary's Song\"
 description: "Lyrics"
 album: Taylor Swift
 track: 10

@@ -1,5 +1,5 @@
 ---
-title: Treacherous (Taylor's Version)
+title: \"Treacherous (Taylor's Version)\"
 date: "2022-12-11"
 description: "Lyrics"
 album: Red

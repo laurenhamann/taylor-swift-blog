@@ -1,5 +1,5 @@
 ---
-title: All Too Well (Taylor's Version)
+title: \"All Too Well (Taylor's Version)\"
 date: "2022-12-09"
 description: "Lyrics"
 album: Red

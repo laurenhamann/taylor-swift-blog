@@ -9,6 +9,8 @@ billboardChartprev:
 billboardChart: 
 hero: tdomg-hero.png
 ---
+
+<p className="verse-one">
 Drew looks at me <br />
 I fake a smile so he won't see <br />
 What I want and I need <br />
@@ -25,10 +27,14 @@ He says he's so in love <br />
 He's finally got it right <br />
 I wonder if he knows <br />
 He's all I think about at night <br />
+</p>
+<p className="chorus">
 He's the reason for the teardrops on my guitar <br />
 The only thing that keeps me wishing on a wishing star <br />
 He's the song in the car I keep singing <br />
 Don't know why I do <br />
+</p>
+<p className="verse-two">
 Drew walks by me <br />
 Can he tell that I can't breathe? <br />
 And there he goes, so perfectly <br />
@@ -37,19 +43,28 @@ She better hold him tight <br />
 Give him all her love <br />
 Look in those beautiful eyes <br />
 And know she's lucky 'cause <br />
+</p>
+<p className="chorus">
 He's the reason for the teardrops on my guitar <br />
 The only thing that keeps me wishing on a wishing star <br />
 He's the song in the car I keep singing <br />
 Don't know why I do <br />
+</p>
+<p className="bridge">
 So I drive home alone <br />
 As I turn out the light <br />
 I'll put his picture down <br />
 And maybe get some sleep tonight <br />
+</p>
+<p className="chorus">
 'Cause he's the reason for the teardrops on my guitar <br />
 The only one who's got enough of me to break my heart <br />
 He's the song in the car I keep singing <br />
 Don't know why I do <br />
+</p>
+<p className="outro">
 He's the time taken up but there's never enough <br />
 And he's all that I need to fall into <br />
 Drew looks at me <br />
 I fake a smile so he won't see <br />
+</p>

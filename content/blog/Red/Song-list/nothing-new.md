@@ -1,5 +1,5 @@
 ---
-title: Nothing New (Taylor's Version)
+title: \"Nothing New (Taylor's Version)\"
 date: "2022-11-22"
 description: "Lyrics"
 album: Red

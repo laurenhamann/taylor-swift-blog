@@ -1,5 +1,5 @@
 ---
-title: I Knew You Were Trouble (Taylor's Version)
+title: \"I Knew You Were Trouble (Taylor's Version)\"
 date: "2022-12-10"
 description: "Lyrics"
 album: Red

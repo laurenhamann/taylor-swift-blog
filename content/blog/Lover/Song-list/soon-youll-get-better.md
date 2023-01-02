@@ -1,5 +1,5 @@
 ---
-title: Soon Youll Get Better
+title: \"Soon You'll Get Better\"
 date: "2022-11-01"
 description: "Lyrics"
 album: Lover

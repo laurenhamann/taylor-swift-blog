@@ -1,5 +1,5 @@
 ---
-title: Holy Ground (Taylor's Version)
+title: \"Holy Ground (Taylor's Version)\"
 date: "2022-12-03"
 description: "Lyrics"
 album: Red

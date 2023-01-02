@@ -1,5 +1,5 @@
 ---
-title: Girl At Home (Taylor's Version)
+title: \"Girl At Home (Taylor's Version)\"
 date: "2022-11-25"
 description: "Lyrics"
 album: Red

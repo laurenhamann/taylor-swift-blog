@@ -1,5 +1,5 @@
 ---
-title: Tell Me Why (Taylor's Version)
+title: \"Tell Me Why (Taylor's Version)\"
 date: "2022-11-11"
 description: "Lyrics"
 album: Fearless

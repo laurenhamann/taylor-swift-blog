@@ -1,5 +1,5 @@
 ---
-title: Better Man (Taylor's Version)
+title: \"Better Man (Taylor's Version)\"
 date: "2022-11-23"
 description: "Lyrics"
 album: Red

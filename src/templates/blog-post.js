@@ -4,13 +4,46 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Hero from "../components/hero"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
+  let subtitle;
   const siteTitle = site.siteMetadata?.title || `Title`
+
+
+  let songwriter;
+
+  if(Array.isArray(post.frontmatter.songwriters)) {
+    const s = post.frontmatter.songwriters;
+    const length = post.frontmatter.songwriters.length;
+    console.log(length)
+    if(length == 2){
+      songwriter = `${post.frontmatter.songwriters[0]} & ${post.frontmatter.songwriters[1]}`;
+    }else if(length == 3){
+      songwriter = `${post.frontmatter.songwriters[0]}, ${post.frontmatter.songwriters[1]} & ${post.frontmatter.songwriters[2]}`;
+    }else if(length == 4){
+      songwriter = `${post.frontmatter.songwriters[0]}, ${post.frontmatter.songwriters[1]}, ${post.frontmatter.songwriters[2]} & ${post.frontmatter.songwriters[3]}`;
+    }
+  }else {
+    songwriter = post.frontmatter.songwriter;
+  }
+  if(post.frontmatter.description === 'Lyrics'){
+    subtitle = <header>
+                <h1 itemProp="headline">{post.frontmatter.title}</h1>
+                <div className="post-subs">
+                  <p className="al">Album: {post.frontmatter.album}</p>
+                  <p className="track">Track: {post.frontmatter.track}</p>
+                  <p className="songwriter">Writers: {songwriter}</p>
+                </div>
+              </header>
+  }else{
+    subtitle = <header>
+                <h1 itemProp="headline">{post.frontmatter.title}</h1>
+                <p>{post.frontmatter.date}</p>
+              </header>
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -19,10 +52,7 @@ const BlogPostTemplate = ({
         itemScope
         itemType="http://schema.org/Article"
       >
-        <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
-        </header>
+        {subtitle}
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -92,6 +122,10 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        album
+        songwriter
+        songwriters
+        track
         hero {
           childImageSharp {
               gatsbyImageData(blurredOptions: {width: 1200}, height: 750, width: 1200)

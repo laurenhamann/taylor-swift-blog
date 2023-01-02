@@ -1,5 +1,5 @@
 ---
-title: Everything Has Changed (Taylor's Version)
+title: \"Everything Has Changed (Taylor's Version)\"
 date: "2022-11-30"
 description: "Lyrics"
 album: Red
