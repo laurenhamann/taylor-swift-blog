@@ -6,8 +6,6 @@ album: Red
 track: 15
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Reminiscing', 'Duet']
-billboardChart: 90 
-billboardWeeks: 1
 ---
 <p className="chorus">
 I said, "Oh my, what a marvelous tune"

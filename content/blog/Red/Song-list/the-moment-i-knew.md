@@ -6,8 +6,6 @@ album: Red
 track: 17
 songwriter: Taylor Swift
 tags: ['Heartbroken', 'Reminiscing', 'Slow']
-billboardChart: 83 
-billboardChartprev: 64 
 ---
 <p className="verse-one">
 You should've been there <br />

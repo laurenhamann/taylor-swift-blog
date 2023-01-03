@@ -5,8 +5,7 @@ description: "Lyrics"
 album: Red
 track: 26
 songwriters: ['Taylor Swift', 'Lori Mckenna']
-tags: ['Upbeat', 'pesimistic']
-billboardChart: 22
+tags: ['Upbeat', 'pesimistic', 'Duet']
 featured: Chris Stapleton
 ---
 <p className="verse-one">

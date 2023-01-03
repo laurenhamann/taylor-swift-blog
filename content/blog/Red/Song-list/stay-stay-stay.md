@@ -6,8 +6,6 @@ album: Red
 track: 9
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop', 'Country']
-billboardChartprev: 91 
-billboardChart: 67
 ---
 <p className='verse-one'>
 I'm pretty sure we almost broke up last night <br />

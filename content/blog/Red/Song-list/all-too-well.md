@@ -6,8 +6,6 @@ album: Red
 track: 5
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Slow', 'Heartbroken']
-billboardChart: 1
-billboardChartprev: 80 
 ---
 <p className="verse-one">
 I walked through the door with you <br />

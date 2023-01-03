@@ -6,8 +6,6 @@ album: Red
 track: 13
 songwriter: Taylor Swift
 tags: ['Country', 'Reminiscing']
-billboardChart: 84 
-billboardWeeks: 1
 ---
 <p className="verse-one">
 New to town with a made-up name <br />

@@ -6,8 +6,6 @@ album: Red
 track: 7
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 59 
-billboardChartprev: 65 
 ---
 <p className="verse-one">
 I bet <br />

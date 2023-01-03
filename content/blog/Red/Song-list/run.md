@@ -5,8 +5,7 @@ description: "Lyrics"
 album: Red
 track: 28
 songwriters: ['Taylor Swift', 'Ed Sheeran']
-tags: ['Upbeat', 'pessimistic']
-billboardChart: 47
+tags: ['Upbeat', 'pessimistic', 'Run']
 featured: Ed Sheeran
 ---
 <p className="intro">

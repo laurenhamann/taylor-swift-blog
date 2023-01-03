@@ -6,8 +6,6 @@ album: Red
 track: 12
 songwriter: Taylor Swift
 tags: ['Country', 'Reminiscing']
-billboardChart: 85 
-billboardWeeks: 1
 ---
 
 <p className="verse-one">

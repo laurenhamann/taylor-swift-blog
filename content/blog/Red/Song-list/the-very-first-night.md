@@ -6,8 +6,6 @@ album: Red
 track: 29
 songwriters: ['Taylor Swift', 'Amund Bjorklund', 'Espen Lind']
 tags: ['Upbeat', 'pesimistic']
-billboardChart: 61
-billboardWeeks: 1
 ---
 <p className="chorus">
 I wish I could fly <br />

@@ -6,8 +6,6 @@ album: Red
 track: 11
 songwriter: Taylor Swift
 tags: ['Country', 'Reminiscing']
-billboardChart: 76
-billboardWeeks: 1
 ---
 <p className="verse-one">
 I was reminiscing just the other day <br />

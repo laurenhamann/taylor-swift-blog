@@ -6,7 +6,6 @@ album: Red
 track: 21
 songwriters: ['Taylor Swift', 'Maya Maria Thompson']
 tags: ['Tragic', 'Sad']
-billboardChartprev: 16
 ---
 <p className="verse-one">
 I remember your bare feet down the hallway <br />

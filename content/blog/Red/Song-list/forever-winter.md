@@ -6,8 +6,6 @@ album: Red
 track: 27
 songwriters: ['Taylor Swift', 'Mark Derek Foster']
 tags: ['Upbeat', 'pessimistic']
-billboardChart: 79 
-billboardWeeks: 1
 ---
 <p className="verse-one">
 He says he doesn't believe anything much he hears these days <br />

@@ -6,8 +6,6 @@ album: Red
 track: 1
 songwriter: Taylor Swift
 tags: ['Hopeful', 'Rebound', 'twin', 'fire signs', 'golden']
-billboardChart: 18
-billboardChartprev: 13 
 ---
 
 

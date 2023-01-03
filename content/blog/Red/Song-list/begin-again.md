@@ -6,8 +6,6 @@ album: Red
 track: 16
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Reminiscing', 'Duet']
-billboardChart: 77
-billboardChartprev: 7
 ---
 <p className="verse-one">
 Took a deep breath in the mirror <br />

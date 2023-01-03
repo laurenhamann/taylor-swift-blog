@@ -6,8 +6,6 @@ album: Red
 track: 18
 songwriters: ['Taylor Swift', 'Daniel Dodd Wilson']
 tags: ['Heartbroken', 'Reminiscing', 'Slow']
-billboardChart: 87
-billboardWeeks: 1
 ---
 <p className="verse-one">
 You said it in a simple way <br />

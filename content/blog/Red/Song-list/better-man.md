@@ -6,8 +6,6 @@ album: Red
 track: 22
 songwriter: Taylor Swift
 tags: ['Tragic', 'Sad']
-billboardChart: 51
-billboardWeeks: 1
 ---
 <p className="verse-one">
 I know I'm probably better off on my own <br />

@@ -6,7 +6,6 @@ album: Red
 track: 2
 songwriter: Taylor Swift
 tags: ['Heartbreak', 'Reflection', 'Red']
-billboardChart: 25
 ---
 
 <p className="verse-one">

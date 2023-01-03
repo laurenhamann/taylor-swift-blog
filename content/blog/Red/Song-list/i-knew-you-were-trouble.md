@@ -6,8 +6,6 @@ album: Red
 track: 4
 songwriters: ['Taylor Swift', 'Johan Karl Schuster', 'Martin Max Sandberg' ]
 tags: ['Upbeat', 'Electronic']
-billboardChart: 46
-billboardChartprev: 2 
 ---
 <p className="verse-one">
 Once upon a time <br />

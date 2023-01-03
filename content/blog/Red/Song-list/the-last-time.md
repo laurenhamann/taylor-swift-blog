@@ -5,8 +5,7 @@ description: "Lyrics"
 album: Red
 track: 10
 songwriters: ['Taylor Swift', 'Garret Noel Lee', 'Gary Lightbody']
-tags: ['Country']
-billboardChart: 66
+tags: ['Country', 'Duet']
 featured: Gary Lightbody
 ---
 <p className="verse-one">

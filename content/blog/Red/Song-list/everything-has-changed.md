@@ -6,8 +6,6 @@ album: Red
 track: 14
 songwriters: ['Taylor Swift', 'Ed Sheeran']
 tags: ['Country', 'Reminiscing', 'Duet']
-billboardChartprev: 32
-billboardChart: 63
 featured: Ed Sheeran
 ---
 <p className="intro">

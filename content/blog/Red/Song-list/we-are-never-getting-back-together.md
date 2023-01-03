@@ -6,10 +6,6 @@ album: Red
 track: 8
 songwriters: ['Taylor Swift', 'Martin Max', 'Shellback']
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 1
-billboardWeeksprev: 24
-billboardChart: 
-billboardWeeks:  
 ---
 <p className="verse-one">
 I remember when we broke up the first time <br />

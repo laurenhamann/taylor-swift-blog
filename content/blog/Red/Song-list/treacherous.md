@@ -5,9 +5,7 @@ description: "Lyrics"
 album: Red
 track: 3
 songwriters: ['Taylor Swift', 'Daniel Dodd Wilson']
-tags: ['slow']
-billboardChart: 54
-billboardWeeks: 1
+tags: ['slow', 'Country']
 ---
 <p className="verse-one">
 Put your lips close to mine <br />
