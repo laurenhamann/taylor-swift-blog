@@ -6,7 +6,6 @@ album: Red
 track: 23
 songwriter: Taylor Swift
 tags: ['Upbeat', 'pesimistic']
-billboardChart: 43
 ---
 <p className="verse-one">
 They tell you while you're young <br />

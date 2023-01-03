@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Taylor Swift Blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Fun excuse to listen to Taylor Swift",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Lauren Hamann",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },

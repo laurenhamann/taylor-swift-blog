@@ -17,14 +17,14 @@ const BlogPostTemplate = ({
 
   if(Array.isArray(post.frontmatter.songwriters)) {
     const s = post.frontmatter.songwriters;
-    const length = post.frontmatter.songwriters.length;
+    const length = s.length;
     console.log(length)
     if(length == 2){
-      songwriter = `${post.frontmatter.songwriters[0]} & ${post.frontmatter.songwriters[1]}`;
+      songwriter = `${s[0]} & ${s[1]}`;
     }else if(length == 3){
-      songwriter = `${post.frontmatter.songwriters[0]}, ${post.frontmatter.songwriters[1]} & ${post.frontmatter.songwriters[2]}`;
+      songwriter = `${s[0]}, ${s[1]} & ${s[2]}`;
     }else if(length == 4){
-      songwriter = `${post.frontmatter.songwriters[0]}, ${post.frontmatter.songwriters[1]}, ${post.frontmatter.songwriters[2]} & ${post.frontmatter.songwriters[3]}`;
+      songwriter = `${s[0]}, ${s[1]}, ${s[2]} & ${s[3]}`;
     }
   }else {
     songwriter = post.frontmatter.songwriter;
