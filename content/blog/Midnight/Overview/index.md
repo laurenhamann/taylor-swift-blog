@@ -9,8 +9,6 @@ genre: ['Synth-pop', 'Dream Pop', 'Electronica', 'bedroom pop']
 track: 10
 ---
 
-![alt text](./midnight.jpg)
-
 
 #### Table of Contents
 

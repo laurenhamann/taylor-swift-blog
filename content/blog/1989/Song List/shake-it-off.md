@@ -4,80 +4,116 @@ date: "2022-11-17"
 description: "Lyrics"
 album: 1989
 track: 6
-billboardChart: 
 songwriters: ['Taylor Swift', 'Mariah Carey', 'Bryan Michael Paul Cox', 'Jermaine Dupri Mauldin']
+cat: 'Glitter Gel Pen'
+feat: true
 ---
+<p className="verse-one">
+I stay out too late <br />
+Got nothing in my brain <br />
+That's what people say, mmm-mmm <br />
+That's what people say, mmm-mmm <br />
+I go on to many dates, ha-ha <br />
+But I can't make them stay <br />
+At least that's what people say, mmm-mmm <br />
+That's what people say, mmm-mmm <br />
+</p>
+<p className="pre-chorus">
+But I keep cruising <br />
+Can't stop, won't stop moving <br />
+It's like I got this music <br />
+In my mind <br />
+Saying, "It's gonna be alright <br />
+</p>
+<p className="chorus">
+'Cause the players gonna play, play, play, play, play <br />
+And the haters gonna hate, hate, hate, hate, hate <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+</p>
+<p className="verse-two">
+Heart-breakers gonna break, break, break, break, break <br />
+And the fakers gonna fake, fake, fake, fake, fake <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+I never miss a beat <br />
+I'm lightning on my feet <br />
+And that's what they don't see, mmm-mmm <br />
+That's what they don't see, mmm-mmm <br />
+I'm dancing on my own (Dancing on my own) <br />
+I make the moves up as I go (Moves up as I go) <br />
+And that's what they don't know, mmm-mmm <br />
+That's what they don't know, mmm-mmm <br />
+</p>
+<p className="pre-chorus">
+But I keep cruising <br />
+Can't stop, won't stop grooving <br />
+It's like I got this music <br />
+In my mind <br />
+Saying, "It's gonna be alright." <br />
+</p>
+<p className="chorus">
+"Cause the players gonna play, play, play, play, play <br />
+And the haters gonna hate, hate, hate, hate, hate <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+Heart-breakers gonna break, break, break, break, break <br />
+And the fakers gonna fake, fake, fake, fake, fake <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+I shake it off, I shake it off <br />
+</p>
+<p className="post-chorus">
+I, I, I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off <br />
+</p>
+<p className="interlude">
+Hey, hey, hey <br />
+Just think, while you've been getting down and out abo <br />ut
+The liars and the dirty, dirty cheats of the world <br />
+You could've been getting down to this sick beat <br />
+</p>
+<p className="bridge">
+My ex-man brought his new girlfriend <br />
+She's like "Oh, my God", but I'm just gonna shake <br />
+And to the fella over there with the hella good hair <br />
+Won't you come on over, baby? <br />
+We can shake, shake <br />
+Shake <br />
+Yeah, yeah <br />
+</p>
+<p className="chorus">
+'Cause the players gonna play, play, play, play, play <br />
+And the haters gonns hate, hate, hate, hate, hate <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+Heart-breakers gonna break, break, break, break, break <br />
+And the fakers gonna fake, fake, fake, fake, fake <br />
+Baby, I'm just gonna shake, shake, shake, shake, shake <br />
+Shake it off, I shake it off <br />
+I shake it off, I shake it off <br />
+</p>
+<p className="post-chorus">
+I, I, I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off, yeah <br />
+I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off, you've got to <br />
+I, I, I shake it off, I shake it off <br />
+I, I, I shake it off, I shake it off <br />
+</p>
 
-I stay out too late
-Got nothing in my brain
-That's what people say, mmm-mmm
-That's what people say, mmm-mmm
-I go on to many dates, ha-ha
-But I can't make them stay
-At least that's what people say, mmm-mmm
-That's what people say, mmm-mmm
-But I keep cruising
-Can't stop, won't stop moving
-It's like I got this music
-In my mind
-Saying, "It's gonna be alright
-'Cause the players gonna play, play, play, play, play
-And the haters gonna hate, hate, hate, hate, hate
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-Heart-breakers gonna break, break, break, break, break
-And the fakers gonna fake, fake, fake, fake, fake
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-I never miss a beat
-I'm lightning on my feet
-And that's what they don't see, mmm-mmm
-That's what they don't see, mmm-mmm
-I'm dancing on my own (Dancing on my own)
-I make the moves up as I go (Moves up as I go)
-And that's what they don't know, mmm-mmm
-That's what they don't know, mmm-mmm
-But I keep cruising
-Can't stop, won't stop grooving
-It's like I got this music
-In my mind
-Saying, "It's gonna be alright."
-"Cause the players gonna play, play, play, play, play
-And the haters gonna hate, hate, hate, hate, hate
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-Heart-breakers gonna break, break, break, break, break
-And the fakers gonna fake, fake, fake, fake, fake
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-I shake it off, I shake it off
-I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off
-Hey, hey, hey
-Just think, while you've been getting down and out about
-The liars and the dirty, dirty cheats of the world
-You could've been getting down to this sick beat
-My ex-man brought his new girlfriend
-She's like "Oh, my God", but I'm just gonna shake
-And to the fella over there with the hella good hair
-Won't you come on over, baby?
-We can shake, shake
-Shake
-Yeah, yeah
-'Cause the players gonna play, play, play, play, play
-And the haters gonns hate, hate, hate, hate, hate
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-Heart-breakers gonna break, break, break, break, break
-And the fakers gonna fake, fake, fake, fake, fake
-Baby, I'm just gonna shake, shake, shake, shake, shake
-Shake it off, I shake it off
-I shake it off, I shake it off
-I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off, yeah
-I shake it off, I shake it off
-I, I, I shake it off, I shake it off, you've got to
-I, I, I shake it off, I shake it off
-I, I, I shake it off, I shake it off
+
+
+## Quotes from artist
+<blockquote cite='https://www.youtube.com/watch?v=AM9sq93pXVg&t=74s'>
+The message in the song is a problem I think we all deal with and an issue we deal with on a daily basis. We don’t live just in a celebrity takedown culture, we live in a takedown culture. People will find anything about you and twist it to where it’s weird or wrong or annoying or strange or bad. You have to not only live your life in spite of people who don’t understand you, you have to have more fun than they do. - Taylor Swift
+</blockquote>
+
+<blockquote cite="https://www.youtube.com/watch?v=oAqF28OBrzg&t=98s">
+I wanted to make a song that would help people get through their day. All these girls that I talk to online, on Instagram, or Tumblr, or Twitter, the things that they’re going through are parallel to what I go through. Just on a different scale. When someone spreads a rumor that isn’t true about a girl I’m talking to on Instagram, it’s the same feeling of humiliation that I get when I’m checking out at the grocery store and I see something untrue written about me on a magazine. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+“She danced to forget him”.

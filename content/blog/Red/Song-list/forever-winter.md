@@ -1,11 +1,13 @@
 ---
-title: \"Forever Winter (Taylor's Version)\"
+title: 'Forever Winter (Taylor''s Version)'
 date: "2022-11-18"
 description: "Lyrics"
 album: Red
 track: 27
 songwriters: ['Taylor Swift', 'Mark Derek Foster']
 tags: ['Upbeat', 'pessimistic']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 He says he doesn't believe anything much he hears these days <br />

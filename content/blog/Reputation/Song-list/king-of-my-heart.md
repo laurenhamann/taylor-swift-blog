@@ -6,6 +6,7 @@ album: Reputation
 songwriters: ['Karl Johan Schuster', 'Max Martin', 'Taylor Swift']
 tags: ['Love', 'Sexy', 'Heavy']
 track: 10
+cat: 'Glitter Gel Pen'
 ---
 
 <p className='verse-one'>
@@ -80,3 +81,9 @@ And all at once, you are the one, I have been waiting, waiting <br />
 Body and soul, ooh whoa <br />
 And all at once <br />
 </p>
+
+
+## Quote from artist
+<blockquote>
+
+“I think it’s really interesting when people talk about their love stories. Like when you guys blog about like, ‘me and my husband, me and my boyfriend,’ or just anybody talking about how they fell in love. There seems to be these definitive phases, and it doesn’t matter how long that phase lasts, there seems to be a moment when you knew it transitioned into the next phase. People will be like, ‘Oh my god, we were friends for six years, and there was this moment, and we knew, and then it changed. Then there was a moment and it got deeper, and then there was a moment and we knew. Or, like, I saw this person and there was this moment, and we knew. Everybody has a different story with how they connect with someone else. And what I find interesting are the moments where it switches, because you always hope that that switch is going to move you forward and not backward. Because, it can happen both ways. It can happen either way.” I’ve always wanted to structure a song where each individual section of the song sounded like a move forward in the relationship, but still be listenable. So, I wanted the verse to seem like its own phase of a relationship, the pre-chorus to sound like its own phase of a relationship, and the chorus to sound like its own phase of a relationship. And I wanted them to have their own identity, but seem like they were getting deeper and more fast-paced as the song went on. So finally, I was able to achieve that in a song." - Taylor Swift </blockquote>

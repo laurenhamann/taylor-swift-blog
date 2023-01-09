@@ -34,12 +34,11 @@ const BlogIndex = ({ location }) => {
         src: image
       });
     }
-    console.log(a.slug)
   })
 
-  for(const[key,value] of Object.entries(arrayOne[0])){
-    console.log(`${key}:${value}`)
-  }
+  // for(const[key,value] of Object.entries(arrayOne[0])){
+  //   console.log(`${key}:${value}`)
+  // }
   return (
     <Layout location={location} title={title}>
       <ol className="main-list"

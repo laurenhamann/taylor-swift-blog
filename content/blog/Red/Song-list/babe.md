@@ -1,11 +1,12 @@
 ---
-title: \"Babe (Taylor's Version)\"
+title: 'Babe (Taylor''s Version)'
 date: "2022-11-21"
 description: "Lyrics"
 album: Red
 track: 24
 songwriters: ['Taylor Swift', 'Patrick T Monahan']
 tags: ['Upbeat', 'Pessimistic']
+feat: false
 ---
 <p className="intro">
 What about your promises, promises? <br />
@@ -75,3 +76,13 @@ We're a wreck, you're the wrecking ball <br />
 You said no one else <br />
 This is the last time I'll never call you, babe (yeah, yeah, yeah) <br />
 </p>
+
+## Quotes from artist
+
+<blockquote cite="https://www.instagram.com/p/BhzZU1WHO_W/?hl=en&taken-by=taylorswift">
+It’s a song that I wrote with Pat Monahan when I was making the Red album. I’m so happy that it gets its own life, I’m so happy that Sugarland wanted to record it, and has done such a good job with it, and I’m so stoked to be able to sing on it, too. - Taylor Swift
+</blockquote>
+
+<blockquote>
+The story behind this is that sometimes I’ll write a song that I absolutely love but I feel like it doesn’t fit with an album I’ve made, so I hold it back and hope it’ll have its own moment some day, whether it’s me singing it or some other artist. And in this case, it’s an artist called Sugarland! - Taylor Swift
+</blockquote>

@@ -1,14 +1,12 @@
 ---
-title: White Horse (Taylor's Version)
+title: 'White Horse (Taylor''s Version)'
 date: "2022-11-14"
 description: "Lyrics"
 album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 5
 songwriters: ['Taylor Swift', 'Liz Rose']
-quote: 'It was just about comparing the fairytale imagery we are taught as kids to what can really happen in young love and young heartbreak, and how you just expect a ‘happily ever after’ type thing. It’s like that coming of age where you realize you’re stronger than wanting that happily ever after, you want something better for yourself.'
-billboardChart: 13
-billboardChartprev: 
+cat: 'Fountain Pen'
 ---
 <p className="verse-one">
 Say you're sorry, that face of an angel <br />
@@ -66,3 +64,15 @@ It's too late <br />
 To catch me now <br />
 </p>
 
+
+## Quotes from artist
+
+<blockquote>
+It’s one of the songs that I am really proud of on the record because it’s so sparse—it’s guitar, piano, and cello. It talks about falling in love and the fairy tales that you are going to have with this person, and then there is that moment where you realize that it is not going to happen. That moment is the most earth-shattering moment. - Taylor Swift
+</blockquote>
+
+## Secret liner notes
+“All I ever wanted was the truth”
+
+## Facts
+December 2006

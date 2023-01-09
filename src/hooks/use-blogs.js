@@ -14,6 +14,9 @@ const useBlogs = () => {
                 fields {
                     slug
                 }
+                internal {
+                    content
+                }
                 frontmatter {
                     date(formatString: "MMMM DD, YYYY")
                     title
@@ -50,7 +53,8 @@ const useBlogs = () => {
         songwriters: post.frontmatter.songwriters,
         songwriter: post.frontmatter.songwriter,
         tags: post.frontmatter.tags,
-        hero: post.frontmatter.hero
+        hero: post.frontmatter.hero,
+        content: post.internal.content
     }))
     )
     

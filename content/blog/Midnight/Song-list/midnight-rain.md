@@ -6,7 +6,8 @@ album: Midnights
 track: 6
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 5
+cat: 'Fountain Pen'
+feat: true
 ---
 <p className="intro">
 Rain, he wanted it comfortable

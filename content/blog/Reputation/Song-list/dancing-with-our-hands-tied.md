@@ -6,6 +6,7 @@ album: Reputation
 songwriters: ['Karl Johan Schuster', 'Max Martin', 'Oscar Holter', 'Taylor Swift']
 tags: ['Dance', 'Secret', 'Past-Love', 'blue', 'golden', 'Hesitation']
 track: 11
+cat: 'Quill Pen'
 ---
 <p className='verse-one'>
 I, I loved you in secret <br />
@@ -89,3 +90,8 @@ And I had a bad feeling <br />
 But we were dancing <br />
 Hands tied, hands tied <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+Taylor set it up by saying that inspiration for the song came when she was back in LA after spending several months out of the public eye. As we know now she spent basically all of this time in the UK with [boyfriend Joe Alwyn] without anyone knowing she was in a relationship. Back in LA […] she went to the gym only to be caught by paparazzi on her way out. The paps shouted all kinds of things at her including comments about her weight – remember this was the first time she had been properly seen in months and nobody knew she was in a relationship. She described being really overwhelmed by the experience but that her thought process was less about herself and more about how she could possibly have a normal relationship when this was her life. Taylor actually said that after the incident she went straight to the recording studio, cried, and wrote this song. - Taylor Swift
+</blockquote>

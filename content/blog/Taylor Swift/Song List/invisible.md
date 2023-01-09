@@ -5,8 +5,6 @@ album: Taylor Swift
 track: 14
 songwriters: ['Taylor Swift', 'Robert Orrall']
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 She can't see the way your eyes <br />
@@ -66,3 +64,9 @@ Oh oh, yeah <br />
 She can't see the way your eyes <br />
 Light up when you smile <br />
 </p>
+
+
+## Quotes from artist
+<blockquote>
+Then there’s the song “Invisible,” which is about the son of my parents' friends. They were always at my house and their son was my age, and he would always tell me about other girls he liked. I felt, well, invisible. Obviously. So I wrote that song about it, and it was a bonus track on my first album. - Taylor Swift
+</blockquote>

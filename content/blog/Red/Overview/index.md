@@ -8,7 +8,6 @@ hero: red-hero.png
 track: 9
 ---
 
-![alt text](./red.png)
 
 
 #### Table of Contents

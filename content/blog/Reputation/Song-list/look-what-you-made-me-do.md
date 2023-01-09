@@ -6,8 +6,7 @@ album: Reputation
 songwriters: ['Fred Fairbrass', 'Taylor Swift', 'Jack Antonoff', 'Rob Manzoli', 'Richard Fairbrass']
 tags: ['Grunge', 'Vengence', 'Heavy']
 track: 6
-billboardChart: 1
-billboardWeeks: 20
+cat: 'Sharpie'
 ---
 <p className='verse-one'>
 I don't like your little games <br />
@@ -92,3 +91,9 @@ Look what you made me do <br />
 Look what you just made me do <br />
 Look what you just made me do <br />
 </p>
+
+
+## Quote from artist
+<blockquote>
+[When we wrote the song] she came over to my house. We hung out and wrote the song. […] We just, were kinda, like, messing around and cooked up all these different ideas together. I love working with people, and I’m blessed to work with people who are always moving forward. - Jack Antonoff
+</blockquote>

@@ -6,9 +6,7 @@ album: Taylor Swift
 track: 2
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
-hero: ptb.png
+cat: 'Sharpie'
 ---
 <p className="verse-one">
 State the obvious, I didn't get my perfect fantasy <br />
@@ -74,3 +72,12 @@ Burn, burn, burn, baby, burn <br />
 You're just another picture to burn <br />
 Baby, burn <br />
 </p>
+
+
+## Quotes from artist
+<blockquote>
+I had this song called ‘Picture to Burn,’ that’s talking about how ‘I hate your truck,’ and ‘I hate that you ignored me,’ ‘I hate you,’ “ she explained. "Now, the way that I would say that and the way that I would feel that kind of pain is a lot different. - Taylor Swift
+</blockquote>
+
+## Secret liner notes
+Date nice boys

@@ -6,6 +6,7 @@ album: Reputation
 songwriters: ['Taylor Swift', 'Jack Antonoff']
 tags: ['Flowy', 'Love', 'Sexy']
 track: 12
+cat: 'Fountain Pen'
 ---
 <p className='verse-one'>
 Our secret moments in your crowded room <br />
@@ -85,3 +86,8 @@ Only bought this dress so you could take it off <br />
 You made your mark on me, golden tattoo <br />
 Only bought this dress so you could take it off <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+This song was one of those things where almost every line is something that I came up with like a year before, and then when I was writing the song, I just cherry picked, and I was like, ‘Like that, like that, like that, like that.’ And I was really proud of the hook of this because it sounds like a pickup line, and yet it is a love song about deep and tender feelings. - Taylor Swift
+</blockquote>

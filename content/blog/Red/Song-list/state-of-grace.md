@@ -1,11 +1,13 @@
 ---
-title: \"State of Grace (Taylor's Version)\"
+title: 'State of Grace (Taylor''s Version)'
 date: "2022-12-13"
 description: "Lyrics"
 album: Red
 track: 1
 songwriter: Taylor Swift
 tags: ['Hopeful', 'Rebound', 'twin', 'fire signs', 'golden']
+cat: 'Fountain Pen'
+feat: false
 ---
 
 
@@ -70,3 +72,14 @@ This is the worthwhile fight <br />
 Love is a ruthless game <br />
 Unless you play it good and right <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+State of Grace is a song I wrote at the beginning process of making this album, and I think it helps to define what the rest of the record is about, just with one line. There’s a line in the song that says ‘Love is a ruthless game, nless you play it good and right’.
+That’s kind of like a warning, for the rest of the record. This is what’s going to happen if you don’t play this right. This is what could happen if you do. It almost serves as the perfect kind of warning label for the rest of the record. As soon as you hear that song, there are two ways this could go, you could be good to people, or you could not play fair, and both the outcomes are reflected on the record. - Taylor Swift
+</blockquote>
+<blockquote>
+I wrote this song about when you first fall in love with someone the possibilities, kind of thinking about the different ways that it could go. It’s a really big sound. To me, this sounds like the feeling of falling in love in an epic way - Taylor Swift
+</blockquote>

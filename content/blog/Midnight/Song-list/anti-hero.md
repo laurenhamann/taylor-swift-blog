@@ -6,7 +6,8 @@ album: Midnights
 track: 3
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Pop-Rock','Pop', 'Electro-pop']
-billboardChart: 1
+cat: 'Quill Pen'
+feat: true
 ---
 <p className="verse-one">
 I have this thing where I get older but just never wiser <br />
@@ -66,3 +67,13 @@ At tea (tea) time (time), everybody agrees (everybody agrees) <br />
 I'll stare directly at the sun but never in the mirror <br />
 It must be exhausting, always rooting for the anti-hero <br />
 </p>
+
+
+## Quote from artist
+<blockquote>
+“Anti-Hero” is one of my favorite songs I’ve ever written. I really don’t think I’ve delved this far into my insecurities in this detail before. I struggle with the idea that my life has become unmanageably sized and I, not to sound too dark, but I just struggle with the idea of not feeling like a person. This song is a real guided tour throughout all the things I tend to hate about myself, and it’s all those aspects of the things we dislike and like about ourselves that we have to come to terms with if we are gonna be this person, so I like “Anti-Hero” a lot, because I think is really honest.
+</blockquote>
+
+<blockquote>
+The story of "Anti-Hero" is that it really encapsulates this album and sort of the darkest corners of your mind when you can't sleep. Playing out a dismal version of your very dark future, um, being afraid of what everyone thinks about you. Really exploring your own self-loathing and kind of having a shocking, scary self-awareness about your flaws as a human being, you know? Anxiety, it's, uh, it's all throughout this song.
+</blockquote>

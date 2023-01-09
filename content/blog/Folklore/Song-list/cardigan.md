@@ -6,62 +6,89 @@ album: Folklore
 tags: ['Pop', 'Sarcastic', 'Petty']
 track: 2
 songwriters: ['Taylor Swift', 'Aaron Dessner']
-billboardChart: 1
+cat: 'Fountain Pen'
+feat: true
 ---
+<p className="verse-one">
+Vintage tee, brand new phone <br />
+High heels on cobblestones <br />
+When you are young, they assume you know nothing <br />
+Sequin smile, black lipstick <br />
+Sensual politics <br />
+When you are young, they assume you know nothing <br />
+</p>
+<p className="chorus">
+But I knew you <br />
+Dancin' in your Levi's <br />
+Drunk under a streetlight <br />
+I, I knew you <br />
+Hand under my sweatshirt <br />
+Baby, kiss it better, I <br />
+</p>
+<p className="refrain">
+And when I felt like I was an old cardigan <br />
+Under someone's bed <br />
+You put me on and said I was your favorite <br />
+</p>
+<p className="verse-two">
+A friend to all is a friend to none <br />
+Chase two girls, lose the one <br />
+When you are young, they assume you know nothing <br />
+</p>
+<p className="chorus">
+But I knew you <br />
+Playin' hide-and-seek and <br />
+Givin' me your weekends <br />
+I, I knew you <br />
+Your heartbeat on the High Line <br />
+Once in twenty lifetimes, I <br />
+</p>
+<p className="refrain">
+And when I felt like I was an old cardigan <br />
+Under someone's bed <br />
+You put me on and said I was your favorite <br />
+</p>
+<p className="bridge">
+To kiss in cars and downtown bars <br />
+Was all we needed <br />
+You drew stars around my scars <br />
+But now I'm bleedin' <br />
+</p>
+<p className="chorus">
+'Cause I knew you <br />
+Steppin' on the last train <br />
+Marked me like a bloodstain <br />
+I, I knew you <br />
+Tried to change the ending <br />
+Peter losin' Wendy <br />
+I, I knew you <br />
+Leavin' like a father <br />
+Runnin' like water, I <br />
+And when you are young, they assume you know nothing <br />
+</p>
+<p className="verse-three">
+But I knew you'd linger like a tattoo kiss <br />
+I knew you'd haunt all of my what-ifs <br />
+The smell of smoke would hang around this long <br />
+'Cause I knew everything when I was young <br />
+I knew I'd curse you for the longest time <br />
+Chasin' shadows in the grocery line <br />
+I knew you'd miss me once the thrill expired <br />
+And you'd be standin' in my front porch light <br />
+And I knew you'd come back to me <br />
+You'd come back to me <br />
+And you'd come back to me <br />
+And you'd come back <br />
+</p>
+<p className="refrain">
+And when I felt like I was an old cardigan <br />
+Under someone's bed <br />
+You put me on and said I was your favorite <br />
+</p>
 
-Vintage tee, brand new phone
-High heels on cobblestones
-When you are young, they assume you know nothing
-Sequin smile, black lipstick
-Sensual politics
-When you are young, they assume you know nothing
-But I knew you
-Dancin' in your Levi's
-Drunk under a streetlight
-I, I knew you
-Hand under my sweatshirt
-Baby, kiss it better, right
-And when I felt like I was an old cardigan
-Under someone's bed
-You put me on and said I was your favorite
-A friend to all is a friend to none
-Chase two girls, lose the one
-When you are young, they assume you know nothing
-But I knew you
-Playin' hide-and-seek and
-Givin' me your weekends
-I, I knew you
-Your heartbeat on the High Line
-Once in twenty lifetimes, I
-And when I felt like I was an old cardigan
-Under someone's bed
-You put me on and said I was your favorite
-To kiss in cars and downtown bars
-Was all we needed
-You drew stars around my scars
-But now I'm bleedin'
-'Cause I knew you
-Steppin' on the last train
-Marked me like a bloodstain
-I, I knew you
-Tried to change the ending
-Peter losin' Wendy
-I, I knew you
-Leavin' like a father
-Runnin' like water, I
-And when you are young, they assume you know nothing
-But I knew you'd linger like a tattoo kiss
-I knew you'd haunt all of my what-ifs
-The smell of smoke would hang around this long
-'Cause I knew everything when I was young
-I knew I'd curse you for the longest time
-Chasin' shadows in the grocery line
-I knew you'd miss me once the thrill expired
-And you'd be standin' in my front porch light
-And I knew you'd come back to me
-You'd come back to me
-And you'd come back to me
-And you'd come back
-And when I felt like I was an old cardigan
-Under someone's bed
-You put me on and said I was your favorite
+
+## Quotes from artist
+
+<blockquote>
+The song is about a lost romance and why young love is often fixed so permanently within our memories. Why it leaves such an indelible mark.- Taylor Swift
+</blockquote>

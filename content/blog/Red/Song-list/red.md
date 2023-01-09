@@ -1,11 +1,13 @@
 ---
-title: \"Red (Taylor's Version)\"
+title: 'Red (Taylor''s Version)'
 date: "2022-12-12"
 description: "Lyrics"
 album: Red
 track: 2
 songwriter: Taylor Swift
 tags: ['Heartbreak', 'Reflection', 'Red']
+cat: 'Quill Pen'
+feat: false
 ---
 
 <p className="verse-one">
@@ -63,3 +65,10 @@ Comes back to me, burning red <br />
 Yeah, yeah <br />
 His love was like driving a new Maserati down a dead-end street <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+This relationship that I had that was, like, the worst thing ever and the best thing ever at the same time. I was writing this song and I was thinking about correlating the colors to the different feelings I went through. You have the great part of red, like the red emotions that are daring and bold and passion and love and affection. And then you have on the other side of the spectrum, jealousy and anger and frustration and ‘you didn’t call me back’ and ‘I need space.’ - Taylor Swift
+</blockquote>

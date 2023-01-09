@@ -8,7 +8,6 @@ hero: ever-hero.png
 track: 7
 ---
 
-![alt text](./evermore.png)
 
 
 #### Table of Contents

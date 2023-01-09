@@ -1,13 +1,12 @@
 ---
-title: \"Love Story (Taylor's Version)\"
+title: 'Love Story (Taylor''s Version)'
 date: "2022-11-16"
 description: "Lyrics"
 album: Fearless
 tags: ['Pop', 'Country']
 track: 3
 songwriter: Taylor Swift
-billboardChartprev: 4 
-billboardChart: 11
+cat: 'Glitter Gel Pen'
 ---
 <p className="verse-one">
 We were both young when I first saw you <br />
@@ -82,3 +81,12 @@ Oh, oh-oh <br />
 Oh, oh-oh, oh <br />
 'Cause we were both young when I first saw you <br />
 </p>
+
+
+## Quotes from artist
+<blockquote>
+I was going through a situation like that where I could relate. I used to be in high school where you see a boyfriend every day. Then I was in a situation where it wasn’t so easy for me, and I wrote this song because I could relate to the whole Romeo and Juliet thing. I was really inspired by that story. Except for the ending. I feel like they had such promise and they were so crazy for each other. And if that had just gone a little bit differently, it could have been the best love story ever told. And it is one of the best love stories ever told, but it’s a tragedy. I thought, why can’t you… make it a happy ending and put a key change in the song and turn it into a marriage proposal. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+Someday I'll find this

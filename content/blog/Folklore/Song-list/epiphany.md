@@ -6,46 +6,66 @@ album: Folklore
 tags: ['Slow', 'Story', 'Petty']
 track: 13
 songwriters: ['Taylor Swift', 'Aaron Dessner']
-billboardChart: 57
+cat: 'Quill Pen'
+feat: false
 ---
+<p className="verse-one">
+Keep your helmet <br />
+Keep your life, son <br />
+Just a flesh wound <br />
+Here's your rifle <br />
+Crawling up the beaches now <br />
+Sir, I think he's bleedin' out <br />
+And some things you just can't speak about <br />
+</p>
+<p className="chorus">
+With you, I serve <br />
+With you, I fall down <br />
+Down <br />
+Watch you breathin' <br />
+Watch you breathin' out <br />
+Out <br />
+</p>
+<p className="verse-two">
+Something med school <br />
+Did not cover <br />
+Someone's daughter <br />
+Someone's mother <br />
+Holds your hand through plastic now <br />
+Doc, I think she's crashin' out <br />
+And some things you just can't speak about <br />
+</p>
+<p className="bridge">
+Only twenty minutes to sleep <br />
+But you dream of some epiphany <br />
+Just one single glimpse of relief <br />
+To make some sense of what you've seen <br />
+</p>
+<p className="chorus">
+With you, I serve <br />
+With you, I fall down <br />
+Down (down) <br />
+Watch you breathin' <br />
+Watch you breathin' out <br />
+Out <br />
+With you, I serve <br />
+With you, I fall down (down) <br />
+Down (down) <br />
+Watch you breathin' <br />
+Watch you breathin' out (out) <br />
+Out <br />
+</p>
+<p className="outro">
+Only twenty minutes to sleep <br />
+But you dream of some epiphany <br />
+Just one single glimpse of relief <br />
+To make some sense of what you've seen <br />
+</p>
 
-Keep your helmet
-Keep your life, son
-Just a flesh wound
-Here's your rifle
-Crawling up the beaches now
-Sir, I think he's bleedin' out
-And some things you just can't speak about
-With you, I serve
-With you, I fall down
-Down
-Watch you breathin'
-Watch you breathin' out
-Out
-Something med school
-Did not cover
-Someone's daughter
-Someone's mother
-Holds your hand through plastic now
-Doc, I think she's crashin' out
-And some things you just can't speak about
-Only twenty minutes to sleep
-But you dream of some epiphany
-Just one single glimpse of relief
-To make some sense of what you've seen
-With you, I serve
-With you, I fall down
-Down (down)
-Watch you breathin'
-Watch you breathin' out
-Out
-With you, I serve
-With you, I fall down (down)
-Down (down)
-Watch you breathin'
-Watch you breathin' out (out)
-Out
-Only twenty minutes to sleep
-But you dream of some epiphany
-Just one single glimpse of relief
-To make some sense of what you've seen
+
+
+## Quotes from artist
+
+<blockquote>
+[The song touches upon] my grandfather, Dean, landing at Guadalcanal in 1942. - Taylor Swift
+</blockquote>

@@ -1,5 +1,5 @@
 ---
-title: \"I Bet You Think About Me (Taylor's Version)\"
+title: 'I Bet You Think About Me (Taylor''s Version)'
 date: "2022-11-19"
 description: "Lyrics"
 album: Red
@@ -7,6 +7,8 @@ track: 26
 songwriters: ['Taylor Swift', 'Lori Mckenna']
 tags: ['Upbeat', 'pesimistic', 'Duet']
 featured: Chris Stapleton
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 3 a.m. and I'm still awake, I'll bet you're just fine <br />
@@ -81,3 +83,10 @@ I bet you think about me when you say <br />
 I bet you think about me <br />
 </p>
  
+
+
+## Quote from artist
+
+<blockquote cite="https://twitter.com/country1025wklb/status/1459212651326844931">
+‘I Bet You Think About Me’ is a song I wrote with Lori McKenna, who is one of my favorite singer-songwriters ever. I’d always wanted to work with her. And I wrote this with her at her house when I was playing Foxboro Stadium on the Speak Now Tour [in June 2011]. We wanted this song to be like a comedic, tongue in cheek, funny, not caring what anyone thinks about you sort of break up song, because there are a lot of different types of heartbreak songs on Red. Some of them are very sincere, some of them are very stoic and heartbreaking and sad. We wanted this to be the moment where I was like, ‘I don’t care about anything.’ And we wanted to make people laugh with it, and we wanted it to be sort of a drinking song, and I think that that’s what it ended up being. - Taylor Swift
+</blockquote>

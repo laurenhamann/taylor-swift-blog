@@ -1,14 +1,12 @@
 ---
-title: You Belong With Me (Taylor's Version)
+title: 'You Belong With Me (Taylor''s Version)'
 date: "2022-11-13"
 description: "Lyrics"
 album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 6
 songwriters: ['Taylor Swift', 'Liz Rose']
-quote: ‘You Belong With Me’ is a song that just absolutely changed my life. It was one of those songs that I had written about unrequited love and crushes at school. And I never would have imagined how many people I would see in a crowd one day screaming, ‘She wears short skirts, I wear t-shirts,’ or there would be think pieces about it or that it would be this thing that launched me and my career into this place that I never imagined it would go to. It was this song and ‘Love Story’ that really, really changed my life in a huge way. And I’ve had so much fun with the fans singing this into crowds over the years. So, getting to redo it was really a joyful experience. ‘Cause I kind of was looking back on all of those memories and thinking, 'Wow, I’m really lucky.’
-billboardChartprev: 2 
-billboardChart: 75 
+cat: 'Glitter Gel Pen'
 ---
 <p className="verse-one">
 You're on the phone with your girlfriend, she's upset <br />
@@ -90,3 +88,12 @@ Have you ever thought just maybe <br />
 You belong with me? <br />
 You belong with me <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+I came into the writing session with Liz Rose and said, I’ve got this idea. I had overheard a friend of mine talking to his girlfriend and he was completely on the defensive saying, ‘No, baby… I had to get off the phone really quickly… I tried to call you right back… Of course I love you. More than anything! Baby, I’m so sorry.’ She was just yelling at him! I felt so bad for him at that moment. So I came up with the first line ‘You’re on the phone with your girlfriend, she’s upset, going off about something that you said,’ and I ran that into the story line that I’m in love with him and he should be with me instead of her. It just became this whole picture. It was really fun for us to write the line, ‘She wears short skirts, I wear T-shirts.’ - Taylor Swift
+</blockquote> 
+
+
+## Secret liner notes
+“Love is blind, so you couldn’t see me”.

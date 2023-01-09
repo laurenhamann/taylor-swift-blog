@@ -8,7 +8,6 @@ hero: folklore-hero.png
 track: 6
 ---
 
-![alt text](./folklore.png)
 
 
 #### Table of Contents

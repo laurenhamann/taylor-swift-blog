@@ -6,8 +6,6 @@ album: Taylor Swift
 track: 6
 songwriter: 'Taylor Swift'
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 I didn't know what I would find <br />
@@ -60,3 +58,16 @@ I've never been on the outside <br />
 Oh, oh, oh-oh <br />
 Oh, oh-oh <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+
+This is one of the first songs I ever wrote, and it talks about the very reason I ever started to write songs. It was when I was twelve years old, and a complete outcast at school. I was a lot different than all the other kids, and I never really knew why. I was taller, and sang country music at karaoke bars and festivals on weekends while other girls went to sleepovers. Some days I woke up not knowing if anyone was going to talk to me that day. I think every person comes to a point in their life when you have a long string of bad days. You can choose to let it drag you down, or you can find ways to rise above it. I came to the conclusion that even though people hadn’t always been there for me, music had. It’s strange to think how different my life would be right now if I had been one of the cool kids. - Taylor Swift
+</blockquote>
+
+
+## Facts
+Written on February 13th and 14th, 2004.
+
+## Secret liner note
+You are not alone

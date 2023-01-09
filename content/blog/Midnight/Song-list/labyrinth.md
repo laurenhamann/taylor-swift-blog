@@ -6,7 +6,7 @@ album: Midnights
 track: 10
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Pop', 'Electro-pop', 'Synth-pop']
-billboardChart: 14
+cat: 'Fountain Pen'
 ---
 <p className="verse-one">
 "It only hurts this much right now" <br />

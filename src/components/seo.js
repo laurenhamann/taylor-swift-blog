@@ -40,6 +40,7 @@ const Seo = ({ description, title, children }) => {
         name="twitter:creator"
         content={site.siteMetadata?.social?.twitter || ``}
       />
+      <link rel="stylesheet" href="https://use.typekit.net/jcd4qgd.css"></link>
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       {children}

@@ -9,7 +9,6 @@ genre: ['Pop rock', 'Synth-pop', 'Electropop']
 track: 5
 ---
 
-![alt text](./Lover.png)
 
 
 #### Table of Contents

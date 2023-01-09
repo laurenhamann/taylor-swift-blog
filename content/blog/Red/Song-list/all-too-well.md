@@ -1,11 +1,13 @@
 ---
-title: \"All Too Well (Taylor's Version)\"
+title: 'All Too Well (Taylor''s Version)'
 date: "2022-12-09"
 description: "Lyrics"
 album: Red
 track: 5
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Slow', 'Heartbroken']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 I walked through the door with you <br />
@@ -80,3 +82,10 @@ Wind in my hair, you were there, you remember it all <br />
 Down the stairs, you were there, you remember it all <br />
 It was rare, I was there, I remember it all too well <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
+The song “All Too Well” was the first song I wrote for this record, actually. It kept coming back to me, because it told a story so well, in such a full way. It starts with meeting someone, and all the details about that innocent beginning and it follows the story all the way to the bitter end. It’s a really emotional song, because it does show you why loss is so painful: Because it was once good, and you can remember it. - Taylor Swift
+</blockquote>

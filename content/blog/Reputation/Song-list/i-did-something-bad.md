@@ -6,6 +6,7 @@ album: Reputation
 songwriters: ['Karl Johan Schuster', 'Max Martin', 'Taylor Swift']
 tags: ['Grunge', 'Fast', 'Witchy']
 track: 3
+cat: 'Sharpie'
 ---
 <p className="verse-one">
 I never trust a narcissist <br />
@@ -78,3 +79,8 @@ So bad, why's it feel so good? <br />
 Why's it feel, why's it feel so good? (Bad) <br />
 It just felt so good, good <br />
 </p>
+
+## Quote from artist
+<blockquote>
+This song is called ‘I Did Something Bad,’ and I wrote this song on piano, it’s not gonna sound like it though. […] So I brought it into them and I was trying to explain the production. I had had a weird dream and I’d woken up with this – you’re like ‘here we go again.’ I’d woken up with this sound in my head that was like this, like, it was a sound that was so hook-y and so catchy that I knew it would have to be in a song because it was that annoying. It wouldn’t stop going around in my head, and the sound was [makes noise imitating post-chorus]. Like, ‘after the chorus that’s what I want to hear, but I don’t want it to be my voice, I want it to be an instrument. What instrument is that?’ I was, like, playing the voice memo to Max [Martin] and he’s like, ‘oh, there’s not an instrument that can do that, but what we can do is we can take your voice doing it and pitch it down so that it sounds like an enchantress, slash a dude. So that’s what you hear after the chorus. But, um, anyway. This is called 'I Did Something Bad,’ and this is when we first kinda knew we might be onto something with the album. - Taylor Swift
+</blockquote>

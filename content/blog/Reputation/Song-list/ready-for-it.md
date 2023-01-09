@@ -6,8 +6,7 @@ album: Reputation
 tags: ['Grunge', 'Fast', 'Heavy', 'Hesitation', 'ghost']
 songwriter: Taylor Swift
 track: 1
-billboardChart: 4
-billboardWeeks: 20
+cat: 'Sharpie'
 ---
 
 <p className="verse-one">
@@ -93,3 +92,11 @@ Let the games begin <br />
 Let the games begin <br />
 Are you ready for it? <br />
 </p> 
+
+## Quote from artist
+<blockquote>
+It kind of introduces a metaphor you may hear more of throughout the rest album, which is like this kind of Crime and Punishment metaphor, where it talks about robbers, and thieves, and heists, and all that. And I found that to be a really interesting metaphor, but twisted in different ways throughout the album. The way that’s presented in ‘…Ready For It?’ is basically, finding your partner in crime, and it’s like ‘Oh my god we’re the same, we’re the same, oh my god! Let’s rob banks together, this is great!’ - Taylor Swift
+</blockquote>
+
+## Facts
+December 2016

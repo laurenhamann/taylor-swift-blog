@@ -1,24 +1,50 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+const cats = ['Glitter Gel Pen', 'Sharpie', 'Fountain Pen', 'Quill Pen']
+
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
-  location,
+  location
 }) => {
   let subtitle;
   const siteTitle = site.siteMetadata?.title || `Title`
+  const [locate, useLocate] = React.useState(location.state.query);
+  console.log(typeof locate)
+  let text = post.html;
 
+    if( locate  && locate != ' '){
+      console.log(locate)
+      const reg = new RegExp(locate, 'g')
+      const inner = post.html;
+      inner.replace(reg, (match) => `<mark>${match}</mark>`);
+      const highlight = `<mark>${locate}</mark>`
+      text = inner.replaceAll(reg, `${highlight}`)
+      console.log(reg);
+    }
 
   let songwriter;
+
+  let className;
+
+  const name = cats.forEach((c) => {
+    if(c === post.frontmatter.cat) {
+      const reg = /([A-z])+/g;
+
+      const match = post.frontmatter.cat.match(reg);
+      console.log(match[0])
+      className = match[0];
+    }
+  })
+
 
   if(Array.isArray(post.frontmatter.songwriters)) {
     const s = post.frontmatter.songwriters;
     const length = s.length;
-    console.log(length)
     if(length == 2){
       songwriter = `${s[0]} & ${s[1]}`;
     }else if(length == 3){
@@ -29,9 +55,11 @@ const BlogPostTemplate = ({
   }else {
     songwriter = post.frontmatter.songwriter;
   }
+
+
   if(post.frontmatter.description === 'Lyrics'){
     subtitle = <header>
-                <h1 itemProp="headline">{post.frontmatter.title}</h1>
+                <h1 itemProp="headline" className={className}>{post.frontmatter.title}</h1>
                 <div className="post-subs">
                   <p className="al">Album: {post.frontmatter.album}</p>
                   <p className="track">Track: {post.frontmatter.track}</p>
@@ -39,8 +67,13 @@ const BlogPostTemplate = ({
                 </div>
               </header>
   }else{
+    let image = getImage(post.frontmatter.image);
+    console.log(image);
     subtitle = <header>
-                <h1 itemProp="headline">{post.frontmatter.title}</h1>
+                  <GatsbyImage image={image} 
+                    alt=""
+                    className="album-art" />
+                <h1 itemProp="headline" className={className}>{post.frontmatter.title}</h1>
                 <p>{post.frontmatter.date}</p>
               </header>
   }
@@ -54,7 +87,7 @@ const BlogPostTemplate = ({
       >
         {subtitle}
         <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
+          dangerouslySetInnerHTML={{ __html: text }}
           itemProp="articleBody"
         />
         <hr />
@@ -116,7 +149,7 @@ export const pageQuery = graphql`
     }
     markdownRemark(id: { eq: $id }) {
       id
-      excerpt(pruneLength: 160)
+      excerpt
       html
       frontmatter {
         title
@@ -126,10 +159,16 @@ export const pageQuery = graphql`
         songwriter
         songwriters
         track
+        cat
         hero {
           childImageSharp {
               gatsbyImageData(blurredOptions: {width: 1200}, height: 750, width: 1200)
           }
+      }
+      image {
+        childImageSharp {
+            gatsbyImageData(blurredOptions: {width: 400}, height: 450, width: 300)
+        }
       }
       }
     }

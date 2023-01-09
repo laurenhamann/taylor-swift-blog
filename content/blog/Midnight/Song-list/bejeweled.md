@@ -6,7 +6,8 @@ album: Midnights
 track: 9
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 6
+cat: 'Glitter Gel Pen'
+feat: true
 ---
 <p className="verse-one">
 Baby love, I think I've been a little too kind <br />
@@ -88,3 +89,9 @@ Best believe I'm still bejeweled <br />
 When I walk in the room <br />
 I can still make the whole place shimmer <br />
 </p>
+
+
+## Quote from artist
+<blockquote cite="https://www.youtube.com/watch?v=6t5sBwyL5z8&t=345s">
+The song "Bejeweled" is a song that I think is really about finding confidence when you feel that it's been taken away, for whatever reason. You know, you're feeling insecure, you're feeling taken for granted. One of the things we love to do at night is we love to go dancing, we love to put on an outfit that makes us feel good, and we love to feel like we're still bejeweled. And I think that there are tiny inflections of me, hyping myself up to return to pop music after spending these glorious years writing folk songs and being in this metaphorical forest that I've created. Which I've loved so much but there, there was like a bit of pumping myself back up to be like, "You can do it, you're still bejeweled," like, "I'm still bejeweled, question mark?" Um, we'll see, but that's what the song's about.
+</blockquote>

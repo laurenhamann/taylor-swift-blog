@@ -1,11 +1,13 @@
 ---
-title: \"The Moment I Knew (Taylor's Version)\"
+title: 'The Moment I Knew (Taylor''s Version)'
 date: "2022-11-27"
 description: "Lyrics"
 album: Red
 track: 17
 songwriter: Taylor Swift
 tags: ['Heartbroken', 'Reminiscing', 'Slow']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 You should've been there <br />
@@ -85,3 +87,10 @@ And said, "I'm sorry, I didn't make it" <br />
 And I said, "I'm sorry too" <br />
 And that was the moment I knew <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+‘The Moment I Knew’ was a song about my 21st birthday party, which was the worst experience ever. - Taylor Swift
+</blockquote>

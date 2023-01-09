@@ -8,7 +8,6 @@ hero: fearless-hero.png
 track: 8
 ---
 
-![alt text](./fearless-TV.webp)
 
 
 #### Table of Contents
@@ -35,3 +34,5 @@ track: 8
 11. [Forever & Always](../Song-list/forever-and-always.md)
 12. [The Best Day](../Song-list/the-best-day.md)
 13. [Change](../Song-list/change.md)
+
+

@@ -1,11 +1,13 @@
 ---
-title: \"Starlight (Taylor's Version)\"
+title: 'Starlight (Taylor''s Version)'
 date: "2022-11-29"
 description: "Lyrics"
 album: Red
 track: 15
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Reminiscing', 'Duet']
+cat: 'Glitter Gel Pen'
+feat: false
 ---
 <p className="chorus">
 I said, "Oh my, what a marvelous tune"
@@ -75,3 +77,13 @@ Like we dream impossible dreams
 Don't you see the starlight, starlight
 Don't you dream impossible things
 </p>
+
+
+## Quotes from artist
+<blockquote cite="https://www.youtube.com/watch?v=M-7x-UZMI5Q&t=37s">
+It’s inspired by a photograph that I saw, and it’s a black and white photo. I saw it about two years ago, and this was before I knew anything extensive about, you know, Robert Kennedy and Ethel. I just saw this picture of these two young kids dancing at a dance, and below, it said ‘Ethel and Robert Kennedy, 1945, at age seventeen.’ And I wrote this song, just based on what I saw in the picture.
+</blockquote>
+
+<blockquote>
+I get a lot of style inspiration from the 1960s, so I’ll go and look at black and white pictures, and look at photos from the ‘50s and '60s, and I came across this picture of these two kids dancing at a dance. It immediately made me think of like how much fun they must have had that night. It was back in the late '40s. I ended up reading underneath that it was Ethel Kennedy and Robert F. Kennedy. And they were, like, 17. So I just kind of wrote that song from that place, not really knowing how they met or anything like that. And then her daughter Rory ended up coming to a show a couple weeks later and I told her about the song and she was like, 'you have to meet my mom, she would love to meet you.’ So that was kind of what that song was about. - Taylor Swift
+</blockquote>

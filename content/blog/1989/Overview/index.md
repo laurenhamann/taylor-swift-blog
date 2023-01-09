@@ -8,7 +8,6 @@ hero: 1989-hero.png
 track: 3
 ---
 
-![alt text](./1989.webp)
 
 
 #### Table of Contents

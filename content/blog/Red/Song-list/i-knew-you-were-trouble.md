@@ -1,11 +1,13 @@
 ---
-title: \"I Knew You Were Trouble (Taylor's Version)\"
+title: 'I Knew You Were Trouble (Taylor''s Version)'
 date: "2022-12-10"
 description: "Lyrics"
 album: Red
 track: 4
 songwriters: ['Taylor Swift', 'Johan Karl Schuster', 'Martin Max Sandberg' ]
 tags: ['Upbeat', 'Electronic']
+cat: 'Sharpie'
+feat: false
 ---
 <p className="verse-one">
 Once upon a time <br />
@@ -106,3 +108,10 @@ Trouble, trouble, trouble <br />
 I knew you were trouble when you walked in <br />
 Trouble, trouble, trouble <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.mtv.com/news/etqqne/taylor-swift-i-knew-you-were-trouble">
+It’s a song about kind of being frustrated with yourself because you have your heart broken and you knew when you first saw that person you saw all these red flags and you just went for it anyway. So, shame on me. - Taylor Swift
+</blockquote>

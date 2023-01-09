@@ -6,7 +6,8 @@ album: Midnights
 track: 8
 songwriter: Taylor Swift
 tags: ['Pop', 'Electro-industrial', 'Dark Pop']
-billboardChart: 10
+cat: 'Sharpie'
+feat: false
 ---
 <p className="verse-one">
 Draw the cat eye, sharp enough to kill a man <br />

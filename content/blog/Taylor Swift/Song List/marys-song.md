@@ -1,12 +1,11 @@
 ---
-title: \"Mary's Song\"
+title: 'Mary''s Song'
 description: "Lyrics"
 album: Taylor Swift
 track: 10
 songwriters: ['Taylor Swift', 'Liz Rose', 'Brian Maher' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
+cat: 'Quill Pen'
 ---
 <p className="verse-one">
 She said <br />
@@ -61,3 +60,11 @@ And I'll be eighty-seven, you'll be eighty-nine <br />
 I'll still look at you like the stars that shine in the sky <br />
 Oh, my, my, my <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+I wrote this song about a couple who lived next door to us. They’d been married forever and they came over one night for dinner and were just so cute. They were talking about how they fell in love and got married, and how they met when they were just little kids. I thought it was so sweet because you can go to the grocery store and read the tabloids, and see who’s breaking up and cheating on each other, or just listen to some of my songs, haha. But it was really comforting to know that all I had to do was go home and look next door to see a perfect example of forever. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+Sometimes love is forever

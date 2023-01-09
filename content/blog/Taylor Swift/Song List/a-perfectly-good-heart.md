@@ -6,8 +6,6 @@ album: Taylor Swift
 track: 15
 songwriters: ['Taylor Swift', 'Brett Cornelius', 'Troy Verges' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart:
 ---
 <p className="chorus">
 Why would you wanna break a perfectly good heart <br />
@@ -44,3 +42,4 @@ Why would you wanna take our love and tear it all apart now <br />
 Why would you wanna make the very first scar <br />
 Why would you wanna break a perfectly good heart <br />
 </p>
+

@@ -6,6 +6,7 @@ album: Reputation
 songwriters: ['Taylor Swift', 'Max Martin', 'Shellback', 'Oscar Michael Gorres']
 tags: ['Grunge', 'Smooth', 'Heavy', 'Gold', 'Gray', 'necklace']
 track: 7
+cat: 'Sharpie'
 ---
 <p className='verse-one'>
 See you in the dark <br />

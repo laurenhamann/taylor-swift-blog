@@ -7,7 +7,7 @@ album: Reputation
 songwriters: ['Edward Christopher Sheeran', 'Johan Karl Schuster', 'Max Martin', 'Nayvadius Wilburn', 'Taylor Swift']
 tags: ['Hip Hop', 'Fast', 'Rhymetic', 'Gold', 'Red']
 track: 2
-billboardChart: 18
+cat: 'Sharpie'
 ---
 
 <p className='chorus'>
@@ -120,3 +120,12 @@ I wanna be your first string <br />
 I wanna be your A Team <br />
 I wanna be your endgame, endgame <br />
 </p>
+
+## Quote from artist
+<blockquote>
+I actually wrote [my verse] in, I remember where it was, I was in a hotel room in New York, in bed at about eight o'clock in the morning. I woke up ‘cause for some reason I, like, dreamed it in my head what I was gonna do. […] I woke up and then, like, typed it all out and then recorded it like a day later and sent it to [Taylor]. And I remember [she] liked it, which is good, positive. […] I’ve never really featured like this, maybe I’ve done, like, two tracks where I’ve featured. […] Well, you see, [the “Fourth of July” line] is kind of a play on words. Not really a play on words, it’s kind of… there’s a film with Tom Cruise called Born on the Fourth of July… my relationship started on the fourth of July. - Ed Sheeran
+</blockquote>
+
+<blockquote>
+I really, really, really, really, really, really liked [Ed’s verse] because [he hadn’t] done the, like, cadence, rhythmic thing since Plus. […] The “fourth of July” line makes me really happy. […] I also like, um, like, I don’t know, “I’ve got chips on both of my shoulders,” I like that a lot. - Taylor Swift
+</blockquote>

@@ -6,7 +6,8 @@ album: Midnights
 track: 18
 songwriters: ['Taylor Swift', 'Jack Antonoff', 'Mark Spears', 'Samuel Dew']
 tags: ['Pop', 'New Wave', 'Electronica']
-billboardChart: 41
+cat: 'Glitter Gel Pen'
+feat: false
 ---
 <p className="verse-one">
 We were supposed to be just friends <br />

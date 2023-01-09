@@ -1,11 +1,13 @@
 ---
-title: \"I Almost Do (Taylor's Version)\"
+title: 'I Almost Do (Taylor''s Version)'
 date: "2022-12-07"
 description: "Lyrics"
 album: Red
 track: 7
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 I bet <br />
@@ -71,3 +73,10 @@ Looking out at the city <br />
 And I hope <br />
 Sometimes you wonder 'bout me  <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+“I Almost Do” is a song I wrote about the conflict that you feel when you want to take someone back, and you want to give it another try, but you know you can’t. And you can’t because you know it’s hurt you so deeply that you know that you couldn’t bear to go through that again. So you’re sitting there and wondering where they are and hope that they think about you and that you’re almost picking up the phone call, but you just can’t. I think I needed to write this song in order to not call that person actually. I think that writing the song was what I did instead of picking up the phone. - Taylor Swift
+</blockquote>

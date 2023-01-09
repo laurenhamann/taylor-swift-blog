@@ -6,8 +6,6 @@ album: Taylor Swift
 track: 4
 songwriters: ['Taylor Swift', 'Robert Orrall', 'Angelo Gianni' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 I don't know what I want, so don't ask me <br />
@@ -50,3 +48,11 @@ Oh I'm just a girl
 Oh I'm just a girl, oh, oh
 Oh I'm just a girl
 </p>
+
+## Quotes from artist
+<blockquote>
+I wrote this song when I was thirteen and had just moved to Nashville. It was tough trying to find out how I was going to get where I wanted to go. I knew where I wanted to be, but I just didn’t know how to get there. I’m really happy this is on the album, because I feel like I finally figured it out. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+I found this

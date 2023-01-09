@@ -1,13 +1,12 @@
 ---
-title: \"Fifteen (Taylor's Version)\"
+title: 'Fifteen (Taylor''s Version)'
 date: "2022-11-17"
 description: "Lyrics"
 album: Fearless
 tags: ['Pop', 'Country']
 track: 2
 songwriter: Taylor Swift
-billboardChartprev: 23
-billboardChart: 88
+cat: 'Fountain Pen'
 ---
 <p className="verse-one">
 You take a deep breath and you walk through the doors <br />
@@ -81,3 +80,14 @@ Your very first day <br />
 Take a deep breath, girl <br />
 Take a deep breath as you walk through the doors <br />
 </p>
+
+
+
+## Quotes from artist
+
+<blockquote>
+I wrote this around the story line of my best friend from high school, Abigail. I started everything with the line ‘Abigail gave everything she had to a boy who changed his mind’ and wrote everything else from that point, almost backwards. I just decided I really wanted to tell that story about our first year of high school because I felt in my freshman year, I grew up more than any year in my life so far. - Taylor Swift
+</blockquote>
+
+## Secret liner notes
+“I cried while recording this”.

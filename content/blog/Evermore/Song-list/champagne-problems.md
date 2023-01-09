@@ -4,7 +4,9 @@ date: "2022-11-17"
 description: "Lyrics"
 album: Evermore
 track: 2
-billboardChart: 21
+songwriters: ['Taylor Swift', 'William Bowery']
+cat: 'Fountain Pen'
+feat: true
 ---
 
 <p className="verse-one">
@@ -65,3 +67,10 @@ Champagne problems <br />
 You won't remember all my <br />  
 Champagne problems <br />  
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.youtube.com/watch?v=CQacWbsLbS4">
+Well, Joe and I really love sad songs, we’ve always bonded over music. He started that one and came up with the melodic structure of it. I’d say it was a surprise that we started writing together but, in a way, it wasn’t, ‘cause we have always bonded over music and have the same musical taste, and he’s always the person who’s showing me songs by artists, and then they become my favourite songs or whatever. [The “champagne problems” bridge] was one of my favourites to write, I really love a bridge where you tell the full story in a bridge, you really shift gears in that bridge. I’m so excited to, one day, be in front of a crowd when they all sing, 'She would’ve made such a lovely bride, what a shame she’s fucked in the head.’ I know it’s so sad, but it’s those songs like “All Too Well” where performing that song is one of the most joyful experiences I ever go through so, when there’s a song like “champagne problems” where you know it’s so sad, but… I love a sad song, y'know? - Taylor Swift
+</blockquote>

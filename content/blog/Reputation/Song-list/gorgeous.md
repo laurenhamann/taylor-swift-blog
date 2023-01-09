@@ -6,7 +6,7 @@ album: Reputation
 songwriters: ['Karl Johan Schuster', 'Max Martin', 'Taylor Swift']
 tags: ['Pop', 'Attraction', 'Love']
 track: 8
-billboardChart: 13
+cat: 'Glitter Gel Pen'
 ---
 <p className='verse-one'>
 You should take it as a compliment <br />

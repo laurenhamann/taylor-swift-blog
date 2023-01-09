@@ -8,7 +8,6 @@ hero: rep-hero.png
 track: 4
 ---
 
-![alt text](./reputation.png)
 
 
 #### Table of Contents

@@ -8,7 +8,6 @@ hero: ts-hero.png
 track: 1
 ---
 
-![alt text](./taylorswift.jpg)
 
 
 #### Table of Contents

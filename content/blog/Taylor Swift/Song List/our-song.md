@@ -5,9 +5,8 @@ description: "Lyrics"
 album: Taylor Swift
 track: 11
 songwriter: Taylor Swift
-tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
+tags: ['Upbeat', 'Bubblegum', 'Pop'] 
+cat: 'Glitter Gel Pen'
 ---
 <p className="intro">
 I was ridin' shotgun with my hair undone <br />
@@ -77,3 +76,16 @@ In the front seat of his car <br />
 I grabbed a pen and an old napkin <br />
 And I wrote down our song <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+
+I’m so glad this song is a single. When we were picking songs for the album, I stood by this one and made sure it got recorded. I just knew there was something about it. Like ‘Tim McGraw,’ the song was finished in, like, 20 minutes. I wrote it about this guy I was dating, and how we didn’t have a song. So I went ahead and wrote us one. I think there’s just some sort of magic in the way the track sounds like it’s bouncing, almost! - Taylor Swift
+</blockquote>
+
+<blockquote>
+I just sat down one day with my guitar and got in a groove, and went with it. I like to write about how music affects people, and this was fun to write because it’s about a couple who DOESN’T have a song. I like the banjo and you really can’t go wrong with banjo. I wanted it to be last on the album, because the last line of the chorus is `play it again'. Let’s hope people take it as a hint to go ahead and play the album again! - Taylor Swift
+</blockquote>
+
+## Secret liner note
+Live in love

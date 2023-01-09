@@ -1,11 +1,13 @@
 ---
-title: \"Girl At Home (Taylor's Version)\"
+title: 'Girl At Home (Taylor''s Version)'
 date: "2022-11-25"
 description: "Lyrics"
 album: Red
 track: 19
 songwriter: Taylor Swift
 tags: ['Upbeat']
+cat: 'Glitter Gel Pen'
+feat: false
 ---
 <p className="intro">
 Don't look at me, you got a girl at home <br />
@@ -77,3 +79,10 @@ And everybody knows that, everybody knows that <br />
 It would be a fine proposition <br />
 If I hadn't once been just like her <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
+I wrote the song “Girl At Home” about a guy who I knew had a girlfriend and I thought it was kind of gross that he was hitting on me, so I just kind of put myself in her position and thought about the fact that, if it had been years ago, I would have been flattered and, “Oh, wow, somebody’s flirting with me,” and then you get cheated on once or twice and you’re like, “Stop it! You have a girlfriend!” I guess that song was my response to some lessons I’ve learned in the past. - Taylor Swift
+</blockquote>

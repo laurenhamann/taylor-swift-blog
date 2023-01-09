@@ -1,11 +1,13 @@
 ---
-title: \"Sad Beautiful Tragic (Taylor's Version)\"
+title: 'Sad Beautiful Tragic (Taylor''s Version)'
 date: "2022-12-02"
 description: "Lyrics"
 album: Red
 track: 12
 songwriter: Taylor Swift
 tags: ['Country', 'Reminiscing']
+cat: 'Quill Pen'
+feat: false
 ---
 
 <p className="verse-one">
@@ -58,3 +60,12 @@ What a sad beautiful tragic love affair <br />
 We had a beautiful magic love there <br />
 What a sad beautiful tragic love affair <br />
 </p>
+
+
+## Quotes from artist
+<blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
+“Sad Beautiful Tragic” was a song that I wrote while I was on tour. I was on a tour bus that was moving and I just started playing this really haunting, sad chorus, and it was very simple, “What a sad, beautiful, tragic love affair.” It was just reflecting on something that was lost and you can’t get it back. I went home and I called Nathan Chapman and said, “Hey, I wrote this song. Please, please, please, can we record today?” and, of course, he said, “Yes,” and we used that original demo on the [first version of] the album, because it just kind of came across so pure and raw.
+</blockquote>
+<blockquote cite="https://www.billboard.com/music/music-news/taylor-swift-qa-the-risks-of-red-and-the-joys-of-being-22-474565/">
+‘Sad Beautiful Tragic’ is really close to my heart. I remember it was after a show and I was on the bus thinking about this relationship that ended months and months before. The feeling wasn’t sadness and anger or those things anymore. It was wistful loss. And so I just got my guitar and I hit on the fact that I was thinking in terms of rhyming; I rhymed magic with tragic, changed a few things and ended it with what a sad beautiful tragic love affair. I wanted to tell the story in terms of a cloudy recollection of what went wrong. It’s kind of the murky gray, looking back on something you can’t change or get back. - Taylor Swift
+</blockquote>

@@ -1,11 +1,13 @@
 ---
-title: \"Ronan (Taylor's Version)\"
+title: 'Ronan (Taylor''s Version)'
 date: "2022-11-24"
 description: "Lyrics"
 album: Red
 track: 21
 songwriters: ['Taylor Swift', 'Maya Maria Thompson']
 tags: ['Tragic', 'Sad']
+cat: 'Quill Pen'
+feat: false
 ---
 <p className="verse-one">
 I remember your bare feet down the hallway <br />
@@ -66,3 +68,10 @@ You were my best four years <br />
 I remember your bare feet down the hallway <br />
 I love you to the moon and back <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+I’ve recently completed the re-recording of my 4th album, Red. It’s really exceeded my expectations in so many ways, and one of those ways is that I thought it would be appropriate to add ‘Ronan’ to this album. Red was an album of heartbreak and healing, of rage and rawness, of tragedy and trauma, and of the loss of an imagined future alongside someone. I wrote Ronan while I was making Red and discovered your story as you so honestly and devastatingly told it. My genuine hope is that you’ll agree with me that this song should be included on this album. - Taylor Swift
+</blockquote>

@@ -4,63 +4,93 @@ date: "2022-11-17"
 description: "Lyrics"
 album: 1989
 track: 5
-billboardChart: 
 songwriters: ['Taylor Swift', 'Max Martin']
+cat: 'Fountain Pen'
+feat: false
 ---
+<p className="verse-one">
+People like you always want back the love they gave away <br />
+And people like me wanna believe you when you say you've changed <br />
+The more I think about it now, the less I know <br />
+All I know is that you drove us off the road <br />
+</p>
+<p className="chorus">
+Stay <br />
+Hey, all you had to do was stay <br />
+Had me in the palm of your hand <br />
+Then why'd you have to go and lock me out when I let you in? <br />
+Hey, now you say you want it back <br />
+Now that it's just too late <br />
+Well, it could've been easy <br />
+All you had to do was (stay) <br />
+</p>
+<p className="post-chorus">
+All you had to do was (stay) <br />
+All you had to do was (stay) <br />
+All you had to do was (stay) <br />
+All you had to do was stay <br />
+</p>
+<p className="verse-two">
+Here you are now, calling me up, but I don't know what to say <br />
+I've been picking up the pieces of the mess you made <br />
+People like you always want back the love they pushed aside <br />
+But people like me are gone forever when you say goodbye <br />
+</p>
+<p className="chorus">
+Hey, all you had to do was stay <br />
+Had me in the palm of your hand <br />
+Then why'd you have to go and lock me out when I let you in? <br />
+Hey, now you say you want it back <br />
+Now that it's just too late <br />
+Well, it could've been easy <br />
+All you had to do was (stay) <br />
+</p>
+<p className="post-chorus">
+All you had to do was (stay) <br />
+All you had to do was (stay) <br />
+All you had to do was (stay, stay, stay, stay, stay) <br />
+</p>
+<p className="bridge">
+Let me remind you <br />
+This was what you wanted (oh, oh, oh-oh-oh) <br />
+You ended it <br />
+You were all I wanted (oh, oh, oh-oh-oh) <br />
+But not like this <br />
+Not like this <br />
+Not like this <br />
+Oh, all you had to do was- <br />
+</p>
+<p className="chorus">
+Hey, all you had to do was stay <br />
+Had me in the palm of your hand <br />
+Then why'd you have to go and lock me out when I let you in? <br />
+Hey, now you say you want it back <br />
+Now that it's just too late <br />
+Well, it could've been easy <br />
+All you had to do was (stay) <br />
+Hey, all you had to do was stay <br />
+Had me in the palm of your hand <br />
+Then why'd you have to go and lock me out when I let you in? <br />
+Hey, now you say you want it back <br />
+Now that it's just too late <br />
+Well, it could've been easy (all you had to do was stay) <br />
+All you had to do was (stay) <br />
+</p>
+<p className="outro">
+All you had to do was (stay) oh <br />
+All you had to do was (stay) <br />
+All you had to do was (stay) ooh <br />
+All you had to do was (stay) <br />
+</p>
 
-People like you always want back the love they gave away
-And people like me wanna believe you when you say you've changed
-The more I think about it now, the less I know
-All I know is that you drove us off the road
-Stay
-Hey, all you had to do was stay
-Had me in the palm of your hand
-Then why'd you have to go and lock me out when I let you in?
-Hey, now you say you want it back
-Now that it's just too late
-Well, it could've been easy
-All you had to do was (stay)
-All you had to do was (stay)
-All you had to do was (stay)
-All you had to do was (stay)
-All you had to do was stay
-Here you are now, calling me up, but I don't know what to say
-I've been picking up the pieces of the mess you made
-People like you always want back the love they pushed aside
-But people like me are gone forever when you say goodbye
-Hey, all you had to do was stay
-Had me in the palm of your hand
-Then why'd you have to go and lock me out when I let you in?
-Hey, now you say you want it back
-Now that it's just too late
-Well, it could've been easy
-All you had to do was (stay)
-All you had to do was (stay)
-All you had to do was (stay)
-All you had to do was (stay, stay, stay, stay, stay)
-Let me remind you
-This was what you wanted (oh, oh, oh-oh-oh)
-You ended it
-You were all I wanted (oh, oh, oh-oh-oh)
-But not like this
-Not like this
-Not like this
-Oh, all you had to do was-
-Hey, all you had to do was stay
-Had me in the palm of your hand
-Then why'd you have to go and lock me out when I let you in?
-Hey, now you say you want it back
-Now that it's just too late
-Well, it could've been easy
-All you had to do was (stay)
-Hey, all you had to do was stay
-Had me in the palm of your hand
-Then why'd you have to go and lock me out when I let you in?
-Hey, now you say you want it back
-Now that it's just too late
-Well, it could've been easy (all you had to do was stay)
-All you had to do was (stay)
-All you had to do was (stay) oh
-All you had to do was (stay)
-All you had to do was (stay) ooh
-All you had to do was (stay)
+
+
+
+## Quotes from artist
+<blockquote>
+I had a dream that my ex showed up at my door, knocked on the door, and I opened it up and I was about ready to launch into, like, the perfect thing to say, and instead, all that would come out of my mouth was that high-pitched chorus of people singing “stay!” - Taylor Swift
+</blockquote>
+
+
+## Secret liner note
+“They paid the price”.

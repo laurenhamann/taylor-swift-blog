@@ -1,12 +1,13 @@
 ---
-title: \"You're On Your Own, Kid\"
+title: 'You''re On Your Own, Kid'
 date: "2022-12-10"
 description: "Lyrics"
 album: Midnights
 track: 5
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 8
+cat: 'Fountain Pen'
+feat: true
 ---
 <p className="verse-one">
 Summer went away

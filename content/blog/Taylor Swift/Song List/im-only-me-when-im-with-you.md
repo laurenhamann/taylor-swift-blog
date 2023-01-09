@@ -1,13 +1,11 @@
 ---
-title: \"I'm Only Me When I'm With You\"
+title: 'I''m Only Me When I'm With You'
 date: "2022-12-08"
 description: "Lyrics"
 album: Taylor Swift
 track: 13
 songwriters: ['Taylor Swift', 'Robert Orrall', 'Angelo' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 Friday night beneath the stars <br />
@@ -69,3 +67,8 @@ Well, I'm only me when I'm with you <br />
 <p className="outro">
 With you, oh yeah <br />
 </p>
+
+
+
+## Facts
+Recorded on January 21st, 2004

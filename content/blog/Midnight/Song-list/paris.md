@@ -6,7 +6,8 @@ album: Midnights
 track: 16
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 32
+cat: 'Glitter Gel Pen'
+feat: false
 ---
 <p className="verse-one">
 "Your ex-friend's sister <br />

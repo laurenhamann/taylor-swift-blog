@@ -5,8 +5,9 @@ description: "Lyrics"
 album: Evermore
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 1
-billboardChart: 1
 songwriters: ['Taylor Swift', 'William Bowery', 'Justin Vernon']
+cat: 'Quill Pen'
+feat: true
 ---
 
 <p className="verse-one">
@@ -92,3 +93,14 @@ I'm begging for you to take my hand <br />
 Wreck my plans <br />
 That's my man <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+‘willow’ is about intrigue, desire, and the complexity that goes into wanting someone. I think it sounds like casting a spell to make somebody fall in love with you (an oddly specific visual) - Taylor Swift
+</blockquote>
+
+<blockquote>
+I liked opening the album with that because I loved the feeling that I got immediately upon hearing the instrumental that Aaron created for it. It felt strangely witchy, it felt like somebody standing over a potion making a love potion, dreaming up the person that they want and the person they desire, and trying to figure out how to get that person on their life, and all the kind of misdirection, baint-and-switch and complexity that goes into seeing someone, feeling a conexion, wanting them, and trying to make them a part of your life. It’s tactical at times, it’s confusing at times, it’s up to fate, it’s magical and it’s weird. It felt a bit magical and mysterious, which is what I wanted people to feel going into an album that was a collection of these stories that were going to take them in all kinds of directions, so I wanted to start them with sort of a setting of the vibe. Also, one of the main themes throughout folklore was conflict resolution, trying to figure out how to get through something with someone, or making confessions, or trying to tell them something, trying to communicate with them. evermore deals a lot in endings of all sorts, shapes and sizes, all the kinds of ways we can end a relationship, a friendship, something toxic, and the pain that goes along with that and the phases of it. - Taylor Swift
+</blockquote>

@@ -1,11 +1,13 @@
 ---
-title: \"Nothing New (Taylor's Version)\"
+title: 'Nothing New (Taylor''s Version)'
 date: "2022-11-22"
 description: "Lyrics"
 album: Red
 track: 23
 songwriter: Taylor Swift
 tags: ['Upbeat', 'pesimistic']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 They tell you while you're young <br />
@@ -67,3 +69,10 @@ Will you still want me <br />
 Will you still want me <br />
 When I'm nothing new? <br />
 </p>
+
+## Quotes from artist
+
+<blockquote>
+It’s about being scared of aging and things changing and losing what you have. […] It’s a really vulnerable song, but I think it’s important to say.
+- Taylor Swift
+</blockquote>

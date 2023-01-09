@@ -6,8 +6,6 @@ album: Taylor Swift
 track: 5
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 
 <p className="verse-one">
@@ -52,3 +50,14 @@ Countin' all the scars you've made <br />
 Now that I'm sittin' here thinkin' it through <br />
 I've never been anywhere cold as you <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+I wrote this song with Liz [Rose], and I think the lyrics to this song are some of the best we’ve ever written. It’s about that moment where you realize someone isn’t at all who you thought they were, and that you’ve been trying to make excuses for someone who doesn’t deserve them. And that some people are just never going to love you. We were halfway through writing this when I started singing ‘And now that I’m sitting here thinking it through, I’ve never been anywhere cold as you.’ - Taylor Swift
+</blockquote>
+
+
+## Secret liner note
+“time to let go”

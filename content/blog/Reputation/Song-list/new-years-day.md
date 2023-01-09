@@ -1,11 +1,12 @@
 ---
-title: \"New Year's Day\"
+title: 'New Year''s Day'
 date: "2022-11-29"
 description: "Lyrics"
 album: Reputation
 songwriters: ['Taylor Swift', 'Jack Antonoff']
 tags: ['Ballad', 'Slow', 'Love']
 track: 15
+cat: 'Fountain Pen'
 ---
 
 <p className="verse-one">
@@ -70,3 +71,8 @@ Whose laugh I could recognize anywhere (hold on to the memories, they will hold 
 Please don't ever become a stranger (hold on to the memories, they will hold on to you) <br />
 Whose laugh I could recognize anywhere (I will hold on to you) <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+We threw a big New Year’s Eve party in London this year, and I was thinking about how everybody talks and thinks about who you kiss at midnight. Like it’s this big romantic idea of like, ‘Who are you gonna kiss at midnight, like ring in the New Year.’ And I think that is very romantic. But I think there’s something even more romantic about who’s gonna deal with you on New Year’s Day. Who’s willing to give you Advil and clean up the house. I think that states more of a permanence. So I was thinking about that, and I wrote this song called ‘New Year’s Day.’ There are two lines in this song that I had been saving for a long time, for the right moment, and I had picked them for this song, and I’m really excited about them. The first one is, ‘Please don’t ever become a stranger whose laugh I could recognize anywhere.’ And the other one is, ‘Hold on to the memories, they will hold on to you.’ - Taylor Swift
+</blockquote>

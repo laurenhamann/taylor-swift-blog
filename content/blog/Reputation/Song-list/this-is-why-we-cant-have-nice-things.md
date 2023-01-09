@@ -1,11 +1,12 @@
 ---
-title: \"This Is Why We Can't Have Nice Things\"
+title: 'This Is Why We Can''t Have Nice Things'
 date: "2022-12-01"
 description: "Lyrics"
 album: Reputation
 songwriters: ['Taylor Swift', 'Jack Antonoff']
 tags: ['Pop', 'Bubblegum', 'Light', 'Sarcastic']
 track: 13
+cat: 'Glitter Gel Pen'
 ---
 <p className="verse-one">
 It was so nice throwing big parties <br />
@@ -66,3 +67,8 @@ They didn't care about the he said, she said <br />
 Did you think I wouldn't hear all the things you said about me? <br />
 This is why we can't have nice things <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+It’s about when people take nice things for granted. Like friendship, or trusting people, or being open or whatever. Letting people in on your life, trusting people, respect – those are all really nice things. - Taylor Swift
+</blockquote>

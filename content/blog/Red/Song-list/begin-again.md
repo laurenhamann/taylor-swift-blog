@@ -1,11 +1,13 @@
 ---
-title: \"Begin Again (Taylor's Version)\"
+title: 'Begin Again (Taylor''s Version)'
 date: "2022-11-28"
 description: "Lyrics"
 album: Red
 track: 16
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Reminiscing', 'Duet']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 Took a deep breath in the mirror <br />
@@ -77,3 +79,13 @@ I watched it begin again <br />
 But on a Wednesday in a cafe <br />
 I watched it begin again <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+Begin Again is a song that I wrote about getting through a breakup, and still being sad about it, and feeling a little insecure about all the things that relationship made you feel are wrong with yourself. And after months, and months, and months, having the courage to stand back up, dust yourself off, and go on that first date. And it’s about, kind of, the vulnerability involved with that, and the idea that you realize that, ‘wow, this could be great.’ - Taylor Swift
+</blockquote>
+<blockquote>
+It’s about when you’ve gotten through a really bad relationship and you finally dust yourself off and go on that first date after a horrible breakup, and the vulnerability that goes along with all that. - Taylor Swift
+</blockquote>

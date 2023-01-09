@@ -1,13 +1,11 @@
 ---
-title: \"I'd Lie\"
+title: 'I''d Lie'
 date: "2022-12-08"
 description: "Lyrics"
 album: Taylor Swift
 track: 12
 songwriters: ['Taylor Swift', 'Max Martin', 'Johan Shellback' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart:
 ---
 <p className="verse-one">
 I don't think that passenger seat <br />

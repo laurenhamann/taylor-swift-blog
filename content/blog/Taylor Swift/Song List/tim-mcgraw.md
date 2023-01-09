@@ -6,8 +6,7 @@ album: Taylor Swift
 track: 1
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
+cat: 'Fountain Pen'
 ---
 <p className="verse-one">
 He said the way my blue eyes shined <br />
@@ -77,3 +76,16 @@ He said the way my blue eyes shined <br />
 Put those Georgia stars to shame that night <br />
 I said, "That's a lie" <br />
 </p>
+
+
+
+## Quotes from artist
+<blockquote>
+This song means so much to me, that’s why we wanted it to be the first track on the album. The idea for this song came to me in math class. I just started singing to myself `When you think Tim McGraw.‘ The concept for this song hit me, because I was dating a guy who moved away, and it was going to be over for us. So I started thinking of things that I knew would remind him of me. The first thing that came to mind was that my favorite song is by Tim McGraw. After school, I went downtown, sat down at the piano, and wrote this with Liz Rose in fifteen minutes. It may be the best fifteen minutes I’ve ever experienced.
+
+It deals with the haunting power of music and how hearing a song years after it was first popular can have such an emotional appeal. - Taylor Swift
+</blockquote>
+
+
+## Secret Liner notes
+Can't Tell Me Nothin'

@@ -6,7 +6,8 @@ album: Midnights
 track: 7
 songwriters: ['Taylor Swift', 'Jack Antonoff' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChart: 7
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="intro">
 (I remember) <br />

@@ -10,12 +10,14 @@
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.13",
+    "cypress": "^12.3.0",
     "gatsby": "^5.0.0",
     "gatsby-plugin-feed": "^5.0.0",
     "gatsby-plugin-image": "^3.3.2",
     "gatsby-plugin-manifest": "^5.0.0",
     "gatsby-plugin-sass": "^6.3.1",
     "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-images": "^7.0.0",
     "gatsby-remark-prismjs": "^7.0.0",
     "gatsby-remark-responsive-iframe": "^6.0.0",
@@ -45,6 +47,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
+    "cypress": "cypress open",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"

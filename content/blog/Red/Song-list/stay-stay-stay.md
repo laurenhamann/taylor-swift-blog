@@ -1,11 +1,13 @@
 ---
-title: \"Stay Stay Stay (Taylor's Version)\"
+title: 'Stay Stay Stay (Taylor''s Version)'
 date: "2022-12-05"
 description: "Lyrics"
 album: Red
 track: 9
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop', 'Country']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className='verse-one'>
 I'm pretty sure we almost broke up last night <br />
@@ -66,3 +68,10 @@ You think that it's funny when I'm mad, mad, mad <br />
 I think that it's best if we both stay <br />
 "That's so fun" <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
+The song “Stay Stay Stay” is a song that I wrote based on what I’ve seen of real relationships, where it’s not perfect, there are moments where you’re just so sick of that person and you get into a stupid fight, and it’s still worth it to stay in it, because there’s something about it that you can’t live without. In the bridge, it says “I’d like to hang out with you for my whole life”, and I think that’s probably the key to finding the one, is you just want to hang out with them forever. - Taylor Swift
+</blockquote>

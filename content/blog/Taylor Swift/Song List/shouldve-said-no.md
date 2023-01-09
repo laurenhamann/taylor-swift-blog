@@ -1,12 +1,10 @@
 ---
-title: \"Should've Said No\"
+title: 'Should''ve Said No'
 description: "Lyrics"
 album: Taylor Swift
 track: 9
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 It's strange to think the songs we used to sing <br />
@@ -65,3 +63,12 @@ I shouldn't be asking myself why <br />
 You shouldn't be begging for forgiveness at my feet <br />
 You should've said no, baby and you might still have me <br />
 </p>
+
+
+## Quotes from artist
+<blockquote>
+Just being a human being, I’ve realized that before every big problem you create for yourself, before every huge mess you have to clean up, there was a crucial moment where you could’ve just said no. This is a song I wrote about a guy who never should have cheated on me. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+Sam Sam Sam Sam Sam Sam 

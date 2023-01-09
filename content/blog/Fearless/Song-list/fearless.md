@@ -1,13 +1,11 @@
 ---
-title: \"Fearless (Taylor's Version)\"
+title: 'Fearless (Taylor''s Version)'
 date: "2022-11-18"
 description: "Lyrics"
 album: Fearless
 tags: ['Pop', 'Country']
 track: 1
 songwriters: ['Taylor Swift', 'Haillary Lindsey', 'Liz Rose']
-billboardChartprev: 9 
-billboardChart: 71
 ---
 <p className="verse-one">
 There's somethin' bout the way <br />
@@ -80,3 +78,17 @@ Fearless <br />
 <p className="outro">
 Oh, oh, oh yeah <br />
 </p>
+
+
+
+## Quote from Artist
+<blockquote>
+To me, fearless is not the absence of fear. It''s not being completely unafraid. To me, fearless is having fears. Fearless is having doubts. Lots of them. To me, fearless is living in spite of those things that scare you to death. Fearless is falling madly in love again, even though you’ve been hurt before. […] No matter what love throws at you, you have to believe in it. You have to believe in love stories and Prince Charmings and happily ever after. That''s why I write these songs. Because I think love is fearless. - Taylor Swift
+</blockquote>
+
+<blockquote>
+This is a song about the fearlessness of falling in love. No matter how many break up songs you write, no matter how many times you get hurt, you will always fall in love again. When I wrote ‘Fearless,’ I wasn’t dating anyone. I wasn’t even in the beginning stages of dating anybody. I really was all by myself out on tour and I got this idea for a song about the best first date. I think sometimes when you’re writing love songs, you don’t write them about what you’re going through at the moment, you write about what you wish you had. So, this song is about the best first date I haven’t had yet. - Taylor Swift
+</blockquote>
+
+## Secret liner notes
+“I loved you before I met you”.

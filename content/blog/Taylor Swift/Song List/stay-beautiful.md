@@ -6,8 +6,6 @@ album: Taylor Swift
 track: 8
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
-billboardChartprev: 
-billboardChart: 
 ---
 <p className="verse-one">
 Corey's eyes are like a jungle <br />
@@ -74,3 +72,12 @@ Stay beautiful <br />
 Stay beautiful <br />
 Na, na, na, na, na <br />
 </p>
+
+## Quotes from artist
+<blockquote>
+
+After hearing my songs, a lot of people ask me, `How many boyfriends have you had?‘ And I always tell them that more of my songs come from observation than actual experience. In other words, you don’t have to date someone to write a song about them. This is a song I wrote about a guy I never dated! Wow, right? [Laughs] This song is about a guy I thought was cute, and never really talked to him much. But something about him inspired this song, just watching him. - Taylor Swift
+</blockquote>
+
+## Secret liner note
+Shake n bake

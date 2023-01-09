@@ -1,11 +1,13 @@
 ---
-title: \"The Lucky One (Taylor's Version)\"
+title: 'The Lucky One (Taylor''s Version)'
 date: "2022-12-01"
 description: "Lyrics"
 album: Red
 track: 13
 songwriter: Taylor Swift
 tags: ['Country', 'Reminiscing']
+cat: 'Fountain Pen'
+feat: false
 ---
 <p className="verse-one">
 New to town with a made-up name <br />
@@ -67,3 +69,16 @@ Let me tell you now, you're the lucky one <br />
 Oh, oh, oh <br />
 Oh, oh-oh, oh-oh <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+The ‘Lucky One’ is a song I wrote while I was in Australia. It kind of talks about some of my fears through telling the story of other people that I was inspired by. More than their stories being told, I’m pretty much singing about what I’m scared of in that song, ending up kind of caught up in this whole thing and lonely and feeling misunderstood and feeling like when people think you’re lucky that you’re really not. It kind of expresses my greatest fear of having this not end up being fun anymore, having it end up being a scary place. Some people get there, some people end up there. It’s a story song and it’s something I’m really proud of because it kind of goes to a place that I’m terrified of.
+
+Being famous can be fun at first, but people have ended up in a scary place over time. Everybody’s got their way of dealing with it. And for me, sometimes it’s surrounding myself with my friends and venting, sometimes it’s staying up at the piano until four o'clock in the morning, sometimes it’s watching TV and forgetting about all of it, sometimes it’s calling my mother up and crying. Sometimes you have a really bad day.
+
+Your life is constantly also analyzed. There’s a lot of trade-offs. There’s the microscope that’s always on you. The camera flashes, the fear that something you say will be taken the wrong way and you’ll let your fans down. There’s the fear that you’ll be walking down the street and your skirt will blow up and you’ll be in the news for three months.
+
+You’re scared of a lot of things for a lot of the time, but the trade-off of being able to get on a big stage and sing your songs — it’s worth it." - Taylor Swift
+</blockquote>

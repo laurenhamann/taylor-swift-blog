@@ -6,6 +6,8 @@ album: Red
 track: 30
 songwriters: ['Taylor Swift', 'Liz Rose']
 tags: ['Upbeat', 'pesimistic']
+cat: 'Fountain Pen'
+feat: true
 ---
 
 <p className="verse-one">
@@ -152,3 +154,10 @@ Down the stairs, I was there, I was there <br />
 Sacred prayer, I was there, I was there <br />
 It was rare, you remember it <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote cite="https://www.youtube.com/watch?v=0Kr4JO9591c&t=231s">
+I showed up for rehearsals for the Speak Now World Tour, and I was really upset and sad, and everybody could tell – it was like really not fun to be around me that day. And so I started playing guitar and just kind of playing the same four chords over and over again, and the band sort of joined in, and I started ad-libbing what I was going through and what I was feeling, and it went on. The song kept building and building and building in intensity, and the song just went on for about, you know, 10 to 15 minutes of us doing this. - Taylor Swift
+</blockquote>

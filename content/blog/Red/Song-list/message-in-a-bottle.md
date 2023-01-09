@@ -1,11 +1,12 @@
 ---
-title: \"Message In A Bottle (Taylor's Version)\"
+title: 'Message In A Bottle (Taylor''s Version)'
 date: "2022-11-20"
 description: "Lyrics"
 album: Red
 track: 25
 songwriters: ['Taylor Swift', 'Johan Karl Schuster', 'Martin Max Sandberg']
 tags: ['Upbeat', 'pesimistic']
+feat: false
 ---
 <p className="verse-one">
 I know that you like me <br />
@@ -79,3 +80,10 @@ You could be the one that I love <br />
 (Love) my love <br />
 And now I'm standin' here, hopin' this gets to you <br />
 </p>
+
+
+## Quotes from artist
+
+<blockquote>
+Message in a bottle is EXACTLY what you think it is!! First song I ever wrote with max [Martin] and Johan [Shellback], can’t wait for you to hear it - Taylor Swift
+</blockquote>

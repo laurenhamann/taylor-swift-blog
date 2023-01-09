@@ -4,64 +4,78 @@ date: "2022-11-11"
 description: "Lyrics"
 album: Evermore
 track: 8
-billboardChart: 67
-songwriters: ['Taylor Swift', '
-Aaron Dessner']
+songwriters: ['Taylor Swift', 'Aaron Dessner']
+cat: 'Fountain Pen'
 ---
-
-Hey Dorothea
-Do you ever stop and think about me?
-When we were younger
-Down in the park
-Honey, making a lark of the misery
-You got shiny friends since you left town
-A tiny screen's the only place I see you now
-And I got nothing but well wishes for ya
-Ooh
-This place is the same as it ever was
-Ooh
-But you don't like it that way
-It's never too late
-To come back to my side
-The stars in your eyes
-Shined brighter in Tupelo
-And if you're ever tired of being known
-For who you know
-You know, you'll always know me
-Dorothea (ah-ah)
-Dorothea (ah-ah)
-Ooh, you're a queen
-Selling dreams
-Selling make up and magazines
-Ooh, from you I'd buy anything
-Hey Dorothea
-Do you ever stop and think about me?
-When it was calmer
-Skipping the prom
-Just to piss off your mom
-And her pageant schemes
-And damn, Dorothea
-They all wanna be ya
-But are you still the same soul
-I met under the bleachers?
-Well
-Ooh
-I guess I'll never know
-Ooh
-And you'll go on with the show
-But it's never too late
-To come back to my side
-The stars in your eyes
-Shined brighter in Tupelo
-And if you're ever tired of being known
-For who you know
-You know, you'll always know me
-Dorothea (ah-ah)
-Dorothea (ah-ah)
-Ooh
-Ooh
-Ooh-woo-ooh-ooh, ooh-ooh-ooh
-Ooh
-Ooh
-Ooh-woo-ooh-ooh, ooh-ooh-ooh
-Dorothea (ah-ah)
+<p className="verse-one">
+Hey Dorothea <br />
+Do you ever stop and think about me? <br />
+When we were younger <br />
+Down in the park <br />
+Honey, making a lark of the misery <br />
+You got shiny friends since you left town <br />
+A tiny screen's the only place I see you now <br />
+And I got nothing but well wishes for ya <br />
+</p>
+<p className="pre-chorus">
+Ooh <br />
+This place is the same as it ever was <br />
+Ooh <br />
+But you don't like it that way <br />
+</p>
+<p className="chorus">
+It's never too late <br />
+To come back to my side <br />
+The stars in your eyes <br />
+Shined brighter in Tupelo <br />
+And if you're ever tired of being known <br />
+For who you know <br />
+You know, you'll always know me <br />
+Dorothea (ah-ah) <br />
+Dorothea (ah-ah) <br />
+</p>
+<p className="post-chorus">
+Ooh, you're a queen <br />
+Selling dreams <br />
+Selling make up and magazines <br />
+Ooh, from you I'd buy anything <br />
+</p>
+<p className="verse-two">
+Hey Dorothea <br />
+Do you ever stop and think about me? <br />
+When it was calmer <br />
+Skipping the prom <br />
+Just to piss off your mom <br />
+And her pageant schemes <br />
+And damn, Dorothea <br />
+They all wanna be ya <br />
+But are you still the same soul <br />
+I met under the bleachers? <br />
+Well <br />
+</p>
+<p className="pre-chorus">
+Ooh <br />
+I guess I'll never know <br />
+Ooh <br />
+And you'll go on with the show <br />
+</p>
+<p className="chorus">
+But it's never too late <br />
+To come back to my side <br />
+The stars in your eyes <br />
+Shined brighter in Tupelo <br />
+And if you're ever tired of being known <br />
+For who you know <br />
+You know, you'll always know me <br />
+Dorothea (ah-ah) <br />
+Dorothea (ah-ah) <br />
+</p>
+<p className="outro">
+Ooh <br />
+Ooh <br />
+Ooh-woo-ooh-ooh, ooh-ooh-ooh <br />
+Ooh <br />
+Ooh <br />
+Ooh-woo-ooh-ooh, ooh-ooh-ooh <br />
+Dorothea (ah-ah) <br />
+</p>
