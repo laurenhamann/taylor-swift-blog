@@ -249,7 +249,7 @@ When you come back down <br />
 9. [Long Live](../Song%20List/long-live.md)
 10. [Mean](../Song%20List/mean.md)
 11. [If This Was a Movie](../Song%20List/if-this-was-a-movie.md)
-12. [Better Than Revenge](../Song%20List/better-than-revenge.md)
+12. [Innocent](../Song%20List/innocent.md)
 13. [Speak Now](../Song%20List/speak-now.md)
 14. [Haunted](../Song%20List/haunted.md)
 15. [Never Grow Up](../Song%20List/never-grow-up.md)
