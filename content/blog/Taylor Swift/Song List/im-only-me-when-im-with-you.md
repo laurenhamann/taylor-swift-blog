@@ -1,7 +1,6 @@
 ---
 title: 'I''m Only Me When I'm With You'
-date: "2022-12-08"
-description: "Lyrics"
+description: 'Lyrics'
 album: Taylor Swift
 track: 13
 songwriters: ['Taylor Swift', 'Robert Orrall', 'Angelo' ]

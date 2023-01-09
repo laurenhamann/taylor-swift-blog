@@ -3,7 +3,10 @@ body {
     counter-reset: my-counter;
     background-image: url('../images/bg.png');
     background-position: cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    overflow: scroll;
 }
 
 .main-list {
