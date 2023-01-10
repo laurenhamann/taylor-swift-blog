@@ -6,6 +6,7 @@ album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 19
 songwriter: Taylor Swift
+feat: false
 ---
 <p className="verse-one">
 In the heat of the fight, I walked away <br />

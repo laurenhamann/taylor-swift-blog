@@ -17,15 +17,6 @@ const AlbumPosts = ({ location }) => {
     console.log(match)
     let title;
     const twoWords= ['Taylor Swift', 'Speak Now'];
-
-    // twoWords.forEach(w => {
-    //     if(w.includes(match[0])){
-    //         title = w;
-    //         console.log(w);
-    //     }else{
-    //         title = match[0]
-    //     }
-    // })
     if(twoWords[0].includes(match[0])){
         title = twoWords[0]
     }else if(twoWords[1].includes(match[0])){
@@ -33,9 +24,6 @@ const AlbumPosts = ({ location }) => {
     }else{
         title = match[0]
     }
-
-    console.log(title)
-    // figure out why this I can't get two words on match
 
     if (posts.length === 0) {
         return (

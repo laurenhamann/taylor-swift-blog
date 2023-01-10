@@ -7,6 +7,7 @@ track: 11
 songwriter: Taylor Swift
 tags: ['Upbeat', 'Bubblegum', 'Pop'] 
 cat: 'Glitter Gel Pen'
+feat: true
 ---
 <p className="intro">
 I was ridin' shotgun with my hair undone <br />

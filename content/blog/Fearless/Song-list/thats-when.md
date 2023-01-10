@@ -7,6 +7,7 @@ album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 24
 songwriters: ['Taylor Swift', 'Brad Warren', 'Brett Warren']
+feat: false
 ---
 <p className="verse-one">
 You said, "I know" <br />

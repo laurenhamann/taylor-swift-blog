@@ -7,6 +7,7 @@ track: 1
 songwriters: ['Taylor Swift', 'Liz Rose' ]
 tags: ['Upbeat', 'Bubblegum', 'Pop']
 cat: 'Fountain Pen'
+feat: true
 ---
 <p className="verse-one">
 He said the way my blue eyes shined <br />

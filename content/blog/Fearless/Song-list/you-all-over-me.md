@@ -7,6 +7,7 @@ album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 21
 songwriters: ['Taylor Swift', 'Scooter Carusoe']
+feat: true
 ---
 <p className="verse-one">
 Once the last drop of rain has dried off the pavement <br />
