@@ -10,6 +10,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
 const albumView = path.resolve(`./src/templates/album-blog.js`)
+const SearchPostTemplate = path.resolve('./src/templates/search-post.js')
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -24,6 +25,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id
           frontmatter {
             album
+            title
           }
           fields {
             slug
@@ -52,6 +54,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
       const album = post.frontmatter.album === null ? 'none' : post.frontmatter.album;
+      console.log(post.fields.slug)
 
       createPage({
         path: post.fields.slug,
@@ -66,6 +69,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       createPage({
         path: `/${album}`,
         component: albumView
+      })
+      createPage({
+        path: `/results${post.fields.slug}`,
+        component: SearchPostTemplate,
+        context: {
+          id: post.id,
+        },
       })
     })
   }

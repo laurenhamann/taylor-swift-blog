@@ -11,13 +11,9 @@ track: 2
 
 
 #### Table of Contents
-
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
-
+```toc
+# This code block gets replaced with the TOC
+```
 
 ## Song List on Deluxe Album
 1. [Mine](../Song%20List/mine.md)
@@ -44,7 +40,7 @@ This was the first Taylor Swift album that I bought. I had of course heard of he
 -- She wrote all these songs herself! Damn...
 
 
-## [Personal Ranking](#personal-ranking)
+## Personal Ranking
 1. [Enchanted](../Song%20List/enchanted.md)
 2. [Long Live](../Song%20List/long-live.md)
 3. [Sparks Fly](../Song%20List/sparks-fly.md)
@@ -65,7 +61,7 @@ This was the first Taylor Swift album that I bought. I had of course heard of he
 
 
 
-## [Chorus Ranking](#chorus-ranking)
+## Chorus Ranking
 
 1. [Enchanted](../Song%20List/enchanted.md)
 <p className="chorus">
@@ -236,7 +232,7 @@ When you come back down <br />
 </p>
 
 
-## [Catchiest](#catchiest)
+## Catchiest
 
 1. [Sparks Fly](../Song%20List/sparks-fly.md)
 2. [Ours](../Song%20List/ours.md)
