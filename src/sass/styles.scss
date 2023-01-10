@@ -42,8 +42,6 @@ body {
 }
 
 //blog - post
-
-
 .blog-post {
     header {
         display: flex;
@@ -172,6 +170,12 @@ form#searchForm {
             text-align: left;
             header {
                 text-align: left;
+                .featured {
+                    &::after{
+                        content: '*';
+                        color: #F3A712;
+                    }
+                }
             }
         }
         a{

@@ -36,6 +36,7 @@ const useBlogs = () => {
                     songwriters
                     songwriter
                     tags
+                    feat
                 }
             }
         }
@@ -54,7 +55,8 @@ const useBlogs = () => {
         songwriter: post.frontmatter.songwriter,
         tags: post.frontmatter.tags,
         hero: post.frontmatter.hero,
-        content: post.internal.content
+        content: post.internal.content,
+        feat: post.frontmatter.feat
     }))
     )
     

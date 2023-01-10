@@ -8,6 +8,8 @@ const Aside = ({data, match}) => {
         if(post.album === match){
             if(post.description === 'Lyrics'){
                 const title = post.title || post.slug
+                // if feat in frontmatter is set to true we can asign speific css
+                const pop = post.feat ? 'featured': '';
                 return (
                     <li key={post.slug}>
                         <article
@@ -16,7 +18,7 @@ const Aside = ({data, match}) => {
                             itemType="http://schema.org/Article"
                         >
                             <header>
-                                <p>
+                                <p className={pop}>
                                     <Link to={post.slug} itemProp="url">     <span itemProp="headline">{post.track}. {title}</span>
                                     </Link>
                                 </p>

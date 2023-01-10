@@ -6,6 +6,7 @@ album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 10
 songwriters: ['Taylor Swift', 'John Rick']
+feat: true
 ---
 <p className="verse-one">
 He is sensible and so incredible <br />

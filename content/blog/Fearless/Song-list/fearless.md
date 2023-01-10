@@ -6,6 +6,7 @@ album: Fearless
 tags: ['Pop', 'Country']
 track: 1
 songwriters: ['Taylor Swift', 'Haillary Lindsey', 'Liz Rose']
+feat: true
 ---
 <p className="verse-one">
 There's somethin' bout the way <br />

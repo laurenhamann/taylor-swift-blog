@@ -8,6 +8,7 @@ songwriters: ['Edward Christopher Sheeran', 'Johan Karl Schuster', 'Max Martin',
 tags: ['Hip Hop', 'Fast', 'Rhymetic', 'Gold', 'Red']
 track: 2
 cat: 'Sharpie'
+feat: true
 ---
 
 <p className='chorus'>

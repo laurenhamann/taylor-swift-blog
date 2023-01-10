@@ -6,6 +6,7 @@ album: Fearless
 tags: ['Lover', 'Flowy', 'Ethreal']
 track: 15
 songwriters: ['Taylor Swift', 'Tommy Lee James', 'Nathan Barlowe']
+feat: false
 ---
 <p className="verse-one">
 Untouchable like a distant diamond sky <br />
