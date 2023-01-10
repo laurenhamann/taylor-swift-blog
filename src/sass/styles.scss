@@ -3,12 +3,11 @@ body {
     counter-reset: my-counter;
     background-image: url('../images/bg.png');
     background-position: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     height: 100vh;
     overflow: scroll;
 }
-
 .main-list {
     display: flex;
     flex-direction: column;
@@ -255,6 +254,7 @@ section p {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-evenly;
+        gap: 15px;
     }
     .album-section{
         display: flex;
@@ -277,6 +277,14 @@ section p {
 
 
 @media screen and (min-width: 1000px) {
+    div.hero {
+        height: 65%;
+    }
+    .main-list {
+        justify-content: center;
+        max-width: 1600px;
+        margin: 0 auto;
+    }
     .hero {
         height: 75vh;
     }
@@ -302,7 +310,6 @@ section p {
 
     .album-section {
         .aside-songs {
-            width: 55vw;
             height: 50vh;
             flex-grow: 4;
         }
