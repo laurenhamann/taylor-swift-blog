@@ -11,15 +11,11 @@ track: 6
 
 
 #### Table of Contents
+```toc
+# This code block gets replaced with the TOC
+```
 
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
-
-
-#### This is full album song list
+## This is full album song list
 
 1. [the 1](../Song-list/the-one.md)
 2. [cardigan](../Song-list/cardigan.md)

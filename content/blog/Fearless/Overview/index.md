@@ -9,15 +9,10 @@ track: 8
 ---
 
 
-
 #### Table of Contents
-
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
-
+```toc
+# This code block gets replaced with the TOC
+```
 
 ## Song List
 

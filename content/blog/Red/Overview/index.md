@@ -9,17 +9,13 @@ track: 9
 ---
 
 
-
 #### Table of Contents
-
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
+```toc
+# This code block gets replaced with the TOC
+```
 
 
-#### This is full album song list
+## This is full album song list
 
 1. [State Of Grace](../Song-list/state-of-grace.md)
 2. [Red](../Song-list/red.md)
@@ -53,9 +49,4 @@ track: 9
 30. [All Too Well (10 minute version)](../Song-list/all-too-well-10-minute.md)
 
 
- # [My Current Overall Ranking]
-
- <div id="ranking">
- <ol>
- </ol>
- </div>
+ # My Personal Ranking

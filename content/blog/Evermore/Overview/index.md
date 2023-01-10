@@ -11,15 +11,12 @@ track: 7
 
 
 #### Table of Contents
-
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
+```toc
+# This code block gets replaced with the TOC
+```
 
 
-#### This is full album song list
+## This is full album song list
 
 1. [willow](../Song-list/willow.md)
 2. [champagne problems](../Song-list/champagne-problems.md)
