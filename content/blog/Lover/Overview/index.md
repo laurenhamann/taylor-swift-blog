@@ -10,16 +10,12 @@ track: 5
 ---
 
 
-
 #### Table of Contents
+```toc
+# This code block gets replaced with the TOC
+```
 
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
-
-#### This is full album song list
+## This is full album song list
 
 1. [I Forgot That You Existed](../Song-list/i-forgot-that-you-existed.md)
 2. [Cruel Summer](../Song-list/cruel-summer.md)

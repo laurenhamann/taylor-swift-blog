@@ -11,15 +11,12 @@ track: 4
 
 
 #### Table of Contents
-
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
+```toc
+# This code block gets replaced with the TOC
+```
 
 
-#### This is full album song list
+## This is full album song list
 
 1. [...Ready for it?](../Song-list/ready-for-it.md)
 2. [End Game](../Song-list/end-game.md)

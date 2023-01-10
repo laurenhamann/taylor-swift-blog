@@ -9,19 +9,12 @@ genre: ['Synth-pop', 'Dream Pop', 'Electronica', 'bedroom pop']
 track: 10
 ---
 
-
 #### Table of Contents
+```toc
+# This code block gets replaced with the TOC
+```
 
-- [Personal-Ranking](#personal) 
-- [Chorus-Ranking](#choruses)
-- [Catchiest](#catchiest)
-- [Bridges](#bridges)
-- [Favorite-Lines](#favorite-lines)
-
-## This is my very personal and always changing ranking of Taylor Swift's newest album, Midnight. 
-
-Of course this is for the 3 am edition.
-Currently the song list is
+# Song list. 
 
 1. [Lavender Haze](../Song-list/lavender-haze.md)
 2. [Maroon](../Song-list/maroon.md)
@@ -50,7 +43,7 @@ Currently the song list is
 
 
 
- # [My Current Overall Ranking](#personal)
+ # My Current Overall Ranking
 
 1. Karma
 2. Labyrinth
@@ -60,20 +53,20 @@ Currently the song list is
 6. You're on your own, Kid
 7. Mastermind
 8. Lavender Haze
-9. Snow on the Beach
-10. Bigger than the Whole Sky
-11. Anti-Hero
-12. Glitch
-13. Would've Could've Should've
+9. Sweet Nothing
+10. Snow on the Beach
+11. Dear Reader
+12. Anti-Hero
+13. Glitch
 14. Paris
 15. Midnight Rain
-16. High Infidelity
+16. The Great War
 17. Bejeweled 
-18. Sweet Nothing
-19. The Great War
-20. Dear Reader
+18. Would've Could've Should've
+19. Bigger than the Whole Sky
+20. High Infidelity
 
-# [Best Choruses](#choruses)
+# Best Choruses
 1. Karma - <br>
 >*'Cause karma is my boyfriend <br>Karma is a god <br>Karma is the breeze in my hair on the weekend <br>Karma's a relaxing thought <br>Aren't you envious that for you it's not? <br>Sweet like honey, **karma is a cat <br>Purring in my lap 'cause it loves me <br>Flexing like a goddamn acrobat** <br>Me and karma vibe like that* <br>
 
@@ -136,7 +129,7 @@ Currently the song list is
 >*Never take advice from someone who's falling apart <br>Never take advice from someone who's falling apart* <br>
 
 
-# [Catchiest beats](#catchiest)
+# Catchiest beats
 1. Karma
 2. Midnight Rain
 3. Lavender Haze
@@ -159,7 +152,7 @@ Currently the song list is
 20. Dear Reader
 
 
-# [Best Bridges](#bridges)
+# Best Bridges
 1. Karma - <br>
 >*Ask me what I learned from all those years <br>Ask me what I earned from all those tears <br>Ask me why so many fade, but I'm still here <br>(I'm still, I'm still here) <br>'Cause karma is the thunder <br>Rattling your ground <br>Karma's on your scent like a bounty hunter <br>Karma's gonna track you down <br>Step by step from town to town <br>Sweet like justice, karma is a queen <br>Karma takes all my friends to the summit <br>**Karma is the guy on the screen <br>Coming straight home to me*** <br>
 
@@ -214,11 +207,9 @@ Currently the song list is
 18. High Infidelity - <br>
 >*Oh, **there's many different ways that you can kill the one you love** <br>And it's never enough, it's never enough* <br>
 
-Labyrinth - NONE
-Bigger than the Whole Sky - NONE
 
 
-# [My favorite lines from each song (no ranking)](#favorite-lines)
+# My favorite lines
 
 
 1. Lavender Haze - 
