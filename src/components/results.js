@@ -3,8 +3,9 @@ import { Link } from "gatsby";
 
 
 const Results = ({slug, title, q}) => {
+    const s = `/results${slug}`;
     return (
-        <Link to={slug} state={{ query: q }}>
+        <Link to={s} state={{ query: q }}>
             <h4>{title}</h4>
         </Link>
     )

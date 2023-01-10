@@ -7,8 +7,8 @@ import Seo from "../components/seo"
 const cats = ['Glitter Gel Pen', 'Sharpie', 'Fountain Pen', 'Quill Pen']
 
 
-const BlogPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+const SearchPostTemplate = ({
+  data: { site, markdownRemark: post },
   location
 }) => {
   let subtitle;
@@ -16,18 +16,18 @@ const BlogPostTemplate = ({
 
 
   // figure out new way to get input word from search to input here
-  // const [locate, setLocate] = React.useState(location.state.query);
+  const [locate, setLocate] = React.useState(location.state.query);
   let text = post.html;
-  // console.log(location)
-  //   if( locate  && locate != ' '){
-  //     console.log(locate)
-  //     const reg = new RegExp(locate, 'g')
-  //     const inner = post.html;
-  //     inner.replace(reg, (match) => `<mark>${match}</mark>`);
-  //     const highlight = `<mark>${locate}</mark>`
-  //     text = inner.replaceAll(reg, `${highlight}`)
-  //     console.log(reg);
-  //   }
+  console.log(location)
+   if( locate  && locate != ' '){
+       console.log(locate)
+       const reg = new RegExp(locate, 'g')
+       const inner = post.html;
+       inner.replace(reg, (match) => `<mark>${match}</mark>`);
+       const highlight = `<mark>${locate}</mark>`
+       text = inner.replaceAll(reg, `${highlight}`)
+       console.log(reg);
+     }
 
   let songwriter;
 
@@ -97,32 +97,6 @@ const BlogPostTemplate = ({
           <Bio />
         </footer>
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
     </Layout>
   )
 }
@@ -136,13 +110,11 @@ export const Head = ({ data: { markdownRemark: post } }) => {
   )
 }
 
-export default BlogPostTemplate
+export default SearchPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug(
     $id: String!
-    $previousPostId: String
-    $nextPostId: String
   ) {
     site {
       siteMetadata {
@@ -172,22 +144,6 @@ export const pageQuery = graphql`
             gatsbyImageData(blurredOptions: {width: 400}, height: 450, width: 300)
         }
       }
-      }
-    }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
       }
     }
   }
