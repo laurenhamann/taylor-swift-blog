@@ -42,6 +42,7 @@ const AlbumPosts = ({ location }) => {
         if(a.album === title && a.description === 'My Ranking'){
             image = a.hero
         }
+        return a;
     })
     return (
         <Layout location={location} title={siteTitle}>

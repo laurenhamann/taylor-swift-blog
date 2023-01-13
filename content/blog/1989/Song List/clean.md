@@ -1,8 +1,7 @@
 ---
 title: Clean
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 13
 songwriters: ['Taylor Swift', 'Imogen Heap']
 cat: 'Quill Pen'

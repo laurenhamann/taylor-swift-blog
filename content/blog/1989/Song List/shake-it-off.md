@@ -1,8 +1,7 @@
 ---
 title: Shake It Off
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 6
 songwriters: ['Taylor Swift', 'Mariah Carey', 'Bryan Michael Paul Cox', 'Jermaine Dupri Mauldin']
 cat: 'Glitter Gel Pen'

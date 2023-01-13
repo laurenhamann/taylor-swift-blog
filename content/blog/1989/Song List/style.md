@@ -1,8 +1,7 @@
 ---
 title: Style
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 3
 songwriters: ['Taylor Swift', 'Max Martin', 'Johann Schuster', 'Ali Payami']
 cat: 'Fountain Pen'

@@ -1,8 +1,7 @@
 ---
 title: Bad Blood
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 8
 songwriters: ['Taylor Swift', 'Max Martin', 'Kendrick Lamar', 'Johann Schuster'] 
 cat: 'Sharpie'

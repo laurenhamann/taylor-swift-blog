@@ -1,8 +1,7 @@
 ---
 title: All You Had To Do Was Stay
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 5
 songwriters: ['Taylor Swift', 'Max Martin']
 cat: 'Fountain Pen'

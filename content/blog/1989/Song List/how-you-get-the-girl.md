@@ -1,8 +1,7 @@
 ---
 title: How You Get The Girl
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 10 
 songwriters: ['Taylor Swift', 'Max Martin', 'Johann Schuster']
 cat: 'Glitter Gel Pen'

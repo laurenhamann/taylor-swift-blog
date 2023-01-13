@@ -54,7 +54,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
       const album = post.frontmatter.album === null ? 'none' : post.frontmatter.album;
-      console.log(post.fields.slug)
 
       createPage({
         path: post.fields.slug,

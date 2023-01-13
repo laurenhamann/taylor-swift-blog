@@ -36,9 +36,6 @@ const BlogIndex = ({ location }) => {
     }
   })
 
-  // for(const[key,value] of Object.entries(arrayOne[0])){
-  //   console.log(`${key}:${value}`)
-  // }
   return (
     <Layout location={location} title={title}>
       <ol className="main-list"
@@ -47,7 +44,6 @@ const BlogIndex = ({ location }) => {
           let values = Object.values(post);
           const title = values[0]
           const slug = `/${values[0]}/`;
-          console.log(slug)
           return (
             <li key={values[0]}>
               <article

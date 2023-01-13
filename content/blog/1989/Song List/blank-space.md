@@ -1,8 +1,7 @@
 ---
 title: Blank Space
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 2
 songwriters: ['Taylor Swift', 'Max Martin', 'Johann Schuster']
 cat: 'Fountain Pen'

@@ -1,8 +1,7 @@
 ---
 title: Welcome To New York
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 1
 songwriters: ['Taylor Swift', 'Ryan Tedder']
 cat: 'Glitter Gel Pen'

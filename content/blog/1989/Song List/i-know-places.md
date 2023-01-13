@@ -1,8 +1,7 @@
 ---
 title: I Know Places
-date: "2022-11-17"
 description: "Lyrics"
-album: 1989
+album: '1989'
 track: 12
 songwriters: ['Taylor Swift', 'Ryan Tedder']
 cat: 'Fountain Pen'
