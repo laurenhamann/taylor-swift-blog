@@ -1,0 +1,66 @@
+@media screen and (min-width: 550px) {
+    .main-list {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 15px;
+    }
+    .album-section{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        margin: 0 auto;
+    }
+
+    .aside-songs{
+        margin-left: 45px;
+        text-align: left;
+        li {
+            height: 50px;
+            margin-left: 5px;
+            margin-bottom: 5px;
+        }
+    }
+}
+
+
+
+@media screen and (min-width: 1000px) {
+    div.hero {
+        height: 65%;
+    }
+    .main-list {
+        justify-content: center;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .hero {
+        height: 75vh;
+    }
+
+    header {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        .header-link-home {
+            flex-grow: 4;
+        }
+        nav {
+            margin: 0 0 0 auto;
+        }
+    }
+    form#searchForm{
+        .searchInput {
+            width: 55vw;
+            height: 2.2rem;
+        }
+    }
+
+
+    .album-section {
+        .aside-songs {
+            height: 50vh;
+            flex-grow: 4;
+        }
+    }
+}

@@ -16,7 +16,7 @@ module.exports = {
     title: `Taylor Swift Songs Ranked`,
     author: {
       name: `Lauren Hamann`,
-      summary: `Archivist`,
+      summary: `Music Lover`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
