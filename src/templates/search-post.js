@@ -14,20 +14,23 @@ const SearchPostTemplate = ({
   let subtitle;
   const siteTitle = site.siteMetadata?.title || `Title`
 
-
+  const q = typeof(location.state.query) === 'string' ? location.state.query : '';
+  console.log(q);
   // figure out new way to get input word from search to input here
-  const [locate, setLocate] = React.useState(location.state.query);
+  const [locate, setLocate] = React.useState(q);
   let text = post.html;
   console.log(location)
-   if( locate  && locate != ' '){
-       console.log(locate)
-       const reg = new RegExp(locate, 'g')
-       const inner = post.html;
-       inner.replace(reg, (match) => `<mark>${match}</mark>`);
-       const highlight = `<mark>${locate}</mark>`
-       text = inner.replaceAll(reg, `${highlight}`)
-       console.log(reg);
-     }
+  if( locate  && locate != ' '){
+    console.log(locate)
+    const reg = new RegExp(locate, 'g')
+    const inner = post.html;
+    inner.replace(reg, (match) => `<mark>${match}</mark>`);
+    const highlight = `<mark>${locate}</mark>`
+    text = inner.replaceAll(reg, `${highlight}`)
+    console.log(reg);
+  }else {
+    console.log(locate);
+  }
 
   let songwriter;
 
