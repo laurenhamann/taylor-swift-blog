@@ -1,0 +1,32 @@
+@use 'colors' as color;
+
+
+
+.main-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.album {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.album-cover {
+    border-radius: 20%;
+    h2 {
+        span{
+            text-align: center;
+            text-decoration: none;
+        }
+    }
+}
+
+blockquote {
+    border-left: 0.25rem solid color.$lavender;
+    max-width: 550px;
+}

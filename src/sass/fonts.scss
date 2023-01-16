@@ -1,0 +1,33 @@
+@use 'colors' as color;
+
+// fonts
+
+
+.Fountain {
+    font-family: renata, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: color.$blue;
+}
+
+.Glitter {
+    font-family: confiteria-script, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: color.$lavender;
+
+}
+
+
+.Quill {
+    font-family: regina, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.Sharpie {
+    font-family: filmotype-austin, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}

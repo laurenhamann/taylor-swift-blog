@@ -21,14 +21,14 @@ const Search = ({location}) => {
         }
     }
 
-    const matches = blogs.map((post) => {
+    const matches = blogs.map((post, i) => {
         if(post.description === 'Lyrics') {
             const lower = query.toLowerCase();
             const lowerContent = post.content.toLowerCase()
             const match = lowerContent.includes(lower);
+            const key = `${post.title}-${i}`;
             if(match){
-                console.log('in match')
-                return <Results slug={post.slug} title={post.title} q={lower} />
+                return <Results slug={post.slug} title={post.title} q={lower} key={key} />
             }
         }
     });
@@ -37,7 +37,6 @@ const Search = ({location}) => {
         if(query === ''){
             return
         }else {
-            console.log(query)
             return `filter: ${query}`;
         }
     }

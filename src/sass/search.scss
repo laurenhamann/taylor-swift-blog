@@ -1,0 +1,38 @@
+@use 'colors' as color;
+// search
+form#searchForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .searchInput {
+        width: 85vw;
+    }
+    button {
+        margin-left: 10px;
+        width: 10vw;
+        background-color: color.$lavender;
+        outline: none;
+        border: 2px #ffffff00 solid;
+        transition: 0.5s border linear;
+        &:hover {
+            transition: 0.5s border linear;
+            border: 2px color.$dkPurple solid;
+            color: color.$purple;
+        }
+    }
+}
+
+.result-div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    a {
+        min-width: auto;
+        width: 85vw;
+        h4 {
+            width: 50vw;
+            margin: 0 auto;
+        }
+    }
+}
+
