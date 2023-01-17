@@ -11,6 +11,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
 const albumView = path.resolve(`./src/templates/album-blog.js`)
 const SearchPostTemplate = path.resolve('./src/templates/search-post.js')
+const SongList = path.resolve('./src/templates/song-list.js')
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -68,6 +69,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       createPage({
         path: `/${album}`,
         component: albumView
+      })
+      createPage({
+        path: `/${album}/song-list`,
+        component: SongList
       })
       createPage({
         path: `/results${post.fields.slug}`,

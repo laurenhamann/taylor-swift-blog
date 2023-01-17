@@ -12,6 +12,7 @@ const PostList = ({data, match}) => {
                         className="post-list-item"
                         itemScope
                         itemType="http://schema.org/Article"
+                        data-test="post-link"
                     >
                         <header>
                             <h2>

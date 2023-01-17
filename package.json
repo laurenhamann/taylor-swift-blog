@@ -10,7 +10,6 @@
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.13",
-    "cypress": "^12.3.0",
     "gatsby": "^5.0.0",
     "gatsby-plugin-feed": "^5.0.0",
     "gatsby-plugin-image": "^3.3.2",
@@ -35,7 +34,10 @@
     "sass": "^1.56.2"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "cross-env": "^7.0.3",
+    "cypress": "^12.3.0",
+    "prettier": "^2.7.1",
+    "start-server-and-test": "^1.15.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
@@ -51,9 +53,7 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
-    "cypress": "cypress open",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "clean": "gatsby clean"
   }
 }
