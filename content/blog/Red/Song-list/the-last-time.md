@@ -1,15 +1,16 @@
 ---
-title: 'The Last Time (Taylor''s Version)'
+title: "The Last Time"
 date: "2022-12-04"
 description: "Lyrics"
 album: Red
 track: 10
-songwriters: ['Taylor Swift', 'Garret Noel Lee', 'Gary Lightbody']
-tags: ['Country', 'Duet']
+songwriters: ["Taylor Swift", "Garret Noel Lee", "Gary Lightbody"]
+tags: ["Country", "Duet"]
 featured: Gary Lightbody
-cat: 'Quill Pen'
+cat: "Quill Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Find myself at your door <br />
 Just like all those times before <br />
@@ -93,8 +94,8 @@ Last time I'm asking you <br />
 Last time I'm asking you this <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
 “The Last Time” is a song that I wrote with Gary Lightbody, of Snow Patrol. I’ve always wanted to work with Snow Patrol, they’re my favourite band. This was a song that I wrote about something I had been going through. I picture a door and, on the outside of the door, standing outside in the cold, there’s this guy who’s left his girlfriend over and over again and comes back and asks for a second chance over and over and over again. On the other side of the door, you have this girl standing there with tears in her eyes, wondering how she could possibily turn him away when she loves him this much, but she can’t get hurt again. It’s both of these people swearing that this would be the last time. She’s swearing it’s the last time she’s going to take him back, he’s swearing it’s the last time he’s going to leave her and hurt her. It’s a really intense song and I’m so proud to have Gary on the record. - Taylor Swift
 </blockquote>

@@ -1,14 +1,15 @@
 ---
-title: 'You''re Not Sorry (Taylor''s Version)'
+title: "You're Not Sorry"
 date: "2022-11-10"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 9
 songwriter: Taylor Swift
-cat: 'Fountain Pen'
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 All this time I was wasting hoping you would come around <br />
 I've been giving out chances every time and all you do is let me down <br />
@@ -55,12 +56,12 @@ Oh-oh-oh-no-no <br />
 No-no-no-no <br />
 </p>
 
-
-
 ## Quotes from artist
+
 <blockquote>
 It is about this guy who turned out to not be who I thought he was. He came across as Prince Charming. Well, it turned out prince charming had a lot of secrets that he didn’t tell me about. And one by one, I would figure them out. I would find out who he really was. I wrote this when I was at the breaking point of, ‘You know what? Don’t even think that you can keep on hurting me.’ It was to a point where I had to walk away. - Taylor Swift
 </blockquote>
 
 ## Secret liner note
+
 “She can have you.”

@@ -1,14 +1,15 @@
 ---
-title: 'All Too Well (Taylor''s Version)'
+title: "All Too Well"
 date: "2022-12-09"
 description: "Lyrics"
 album: Red
 track: 5
-songwriters: ['Taylor Swift', 'Liz Rose' ]
-tags: ['Slow', 'Heartbroken']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Liz Rose"]
+tags: ["Slow", "Heartbroken"]
+cat: "Fountain Pen"
 feat: true
 ---
+
 <p className="verse-one">
 I walked through the door with you <br />
 The air was cold <br />
@@ -82,7 +83,6 @@ Wind in my hair, you were there, you remember it all <br />
 Down the stairs, you were there, you remember it all <br />
 It was rare, I was there, I remember it all too well <br />
 </p>
-
 
 ## Quotes from artist
 

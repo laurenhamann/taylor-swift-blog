@@ -1,14 +1,15 @@
 ---
-title: 'We Are Never Getting Back Together (Taylor''s Version)'
+title: "We Are Never Getting Back Together"
 date: "2022-12-06"
 description: "Lyrics"
 album: Red
 track: 8
-songwriters: ['Taylor Swift', 'Martin Max', 'Shellback']
-tags: ['Upbeat', 'Bubblegum', 'Pop']
-cat: 'Glitter Gel Pen'
+songwriters: ["Taylor Swift", "Martin Max", "Shellback"]
+tags: ["Upbeat", "Bubblegum", "Pop"]
+cat: "Glitter Gel Pen"
 feat: true
 ---
+
 <p className="verse-one">
 I remember when we broke up the first time <br />
 Saying, "This is it, I've had enough," <br />
@@ -31,6 +32,7 @@ You go talk to your friends, talk to my friends, talk to me <br />
 But we are never ever ever ever getting back together <br />
 
 Like, ever <br />
+
 </p>
 <p className="verse-two">
 I'm really gonna miss you picking fights <br />
@@ -60,6 +62,7 @@ you know, like <br />
 We are never getting back together. Like, ever" <br />
 
 No! <br />
+
 </p>
 <p className="chorus">
 We are never ever ever getting back together <br />

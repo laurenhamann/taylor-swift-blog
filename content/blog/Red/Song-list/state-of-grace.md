@@ -1,15 +1,14 @@
 ---
-title: 'State of Grace (Taylor''s Version)'
+title: "State of Grace"
 date: "2022-12-13"
 description: "Lyrics"
 album: Red
 track: 1
 songwriter: Taylor Swift
-tags: ['Hopeful', 'Rebound', 'twin', 'fire signs', 'golden']
-cat: 'Fountain Pen'
+tags: ["Hopeful", "Rebound", "twin", "fire signs", "golden"]
+cat: "Fountain Pen"
 feat: false
 ---
-
 
 <p className="verse-one">
 I'm walking fast through the traffic lights <br />
@@ -37,6 +36,7 @@ And I've loved in shades of wrong <br />
 We learn to live with the pain <br />
 Mosaic broken hearts <br />
 But this love is brave and wild <br />
+
 </p>
 <p className="pre-chorus">
 And I never (never) <br />
@@ -72,7 +72,6 @@ This is the worthwhile fight <br />
 Love is a ruthless game <br />
 Unless you play it good and right <br />
 </p>
-
 
 ## Quotes from artist
 

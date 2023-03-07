@@ -1,13 +1,14 @@
 ---
-title: 'Forever & Always (Taylor''s Version)'
+title: "Forever & Always"
 date: "2022-11-08"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 11
 songwriter: Taylor Swift
 feat: false
 ---
+
 <p className="verse-one">
 Once upon a time, I believe it was a Tuesday when I caught your eye <br />
 And we caught onto something <br />
@@ -72,8 +73,8 @@ You didn't mean it baby, <br />
 You said, "Forever and always", yeah. <br />
 </p>
 
-
 ## Quote from Artist
+
 <blockquote>
 It’s about the confusion and frustration of wondering why? What changed? When did it change? What did I do wrong? - Taylor Swift
 </blockquote>

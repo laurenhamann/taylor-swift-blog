@@ -5,14 +5,10 @@ description: "Quotes"
 album: Fearless
 image: fearless-TV.webp
 hero: fearless-hero.png
-track: 8
+track: 2
 ---
 
-## Quotes 
-
-<blockquote>
-Deciding on what album to re-record first was pretty easy for me. I always gravitated towards Fearless because I think that, as an album, it was a real coming-of-age. And I look back on that album and it fills me with such pride, and it was an album about hope, and lessons learned, and the effervescence of teenage youth and all that. What more fun than to go back and explore that?
-</blockquote>
+## Quotes
 
 ## Liner Notes
 

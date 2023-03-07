@@ -1,14 +1,15 @@
 ---
-title: 'Stay Stay Stay (Taylor''s Version)'
+title: "Stay Stay Stay"
 date: "2022-12-05"
 description: "Lyrics"
 album: Red
 track: 9
 songwriter: Taylor Swift
-tags: ['Upbeat', 'Bubblegum', 'Pop', 'Country']
-cat: 'Fountain Pen'
+tags: ["Upbeat", "Bubblegum", "Pop", "Country"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className='verse-one'>
 I'm pretty sure we almost broke up last night <br />
 I threw my phone across the room at you <br />
@@ -68,7 +69,6 @@ You think that it's funny when I'm mad, mad, mad <br />
 I think that it's best if we both stay <br />
 "That's so fun" <br />
 </p>
-
 
 ## Quotes from artist
 

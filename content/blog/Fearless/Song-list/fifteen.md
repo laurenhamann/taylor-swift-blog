@@ -1,14 +1,15 @@
 ---
-title: 'Fifteen (Taylor''s Version)'
+title: "Fifteen"
 date: "2022-11-17"
 description: "Lyrics"
 album: Fearless
-tags: ['Pop', 'Country']
+tags: ["Pop", "Country"]
 track: 2
 songwriter: Taylor Swift
-cat: 'Fountain Pen'
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 You take a deep breath and you walk through the doors <br />
 It's the mornin' of your very first day <br />
@@ -82,8 +83,6 @@ Take a deep breath, girl <br />
 Take a deep breath as you walk through the doors <br />
 </p>
 
-
-
 ## Quotes from artist
 
 <blockquote>
@@ -91,4 +90,5 @@ I wrote this around the story line of my best friend from high school, Abigail. 
 </blockquote>
 
 ## Secret liner notes
+
 “I cried while recording this”.

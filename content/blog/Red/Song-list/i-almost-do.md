@@ -1,14 +1,15 @@
 ---
-title: 'I Almost Do (Taylor''s Version)'
+title: "I Almost Do"
 date: "2022-12-07"
 description: "Lyrics"
 album: Red
 track: 7
 songwriter: Taylor Swift
-tags: ['Upbeat', 'Bubblegum', 'Pop']
-cat: 'Fountain Pen'
+tags: ["Upbeat", "Bubblegum", "Pop"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 I bet <br />
 This time of night you're still up <br />
@@ -73,7 +74,6 @@ Looking out at the city <br />
 And I hope <br />
 Sometimes you wonder 'bout me  <br />
 </p>
-
 
 ## Quotes from artist
 

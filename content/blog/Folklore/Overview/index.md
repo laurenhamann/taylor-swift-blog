@@ -5,12 +5,11 @@ description: "My Ranking"
 album: Folklore
 image: folklore.png
 hero: folklore-hero.png
-track: 6
+track: 8
 ---
 
-
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```

@@ -1,15 +1,15 @@
 ---
-title: Taylor Swift Fearless (Taylor's Version) Album Ranked
-date: "2021-04-09"
+title: Taylor Swift Fearless Album Ranked
+date: "2008-11-11"
 description: "My Ranking"
 album: Fearless
 image: fearless-TV.webp
 hero: fearless-hero.png
-track: 8
+track: 2
 ---
 
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```
@@ -29,5 +29,3 @@ track: 8
 11. [Forever & Always](../Song-list/forever-and-always.md)
 12. [The Best Day](../Song-list/the-best-day.md)
 13. [Change](../Song-list/change.md)
-
-

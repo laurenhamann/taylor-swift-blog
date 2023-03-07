@@ -1,14 +1,15 @@
 ---
-title: 'Treacherous (Taylor''s Version)'
+title: "Treacherous"
 date: "2022-12-11"
 description: "Lyrics"
 album: Red
 track: 3
-songwriters: ['Taylor Swift', 'Daniel Dodd Wilson']
-tags: ['slow', 'Country']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Daniel Dodd Wilson"]
+tags: ["slow", "Country"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Put your lips close to mine <br />
 As long as they don't touch <br />
@@ -74,8 +75,8 @@ This slope is treacherous <br />
 I, I, I like it <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
 “Treacherous” is a song that I wrote with Dan Wilson. I brought in this idea because I wanted to explore the idea that something could be dangerous and enticing at the same time, the positive side of that, like, “I believe this can work”. It’s got this big bridge at the end of it that kind of sounds like a second chorus, it’s got all these vocals in the background and it says “Nothing safe is worth the drive” and, to me, that says so much about this album, because I really do feel that, even if something really hurt you, if it made you feel something, it was worth it.
 - Taylor Swift

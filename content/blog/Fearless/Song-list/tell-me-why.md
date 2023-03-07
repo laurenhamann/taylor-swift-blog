@@ -1,14 +1,15 @@
 ---
-title: 'Tell Me Why (Taylor''s Version)'
+title: "Tell Me Why"
 date: "2022-11-11"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 8
-songwriters: ['Taylor Swift', 'Liz Rose']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Liz Rose"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 I took a chance, I took a shot <br />
 And you might think I'm bulletproof, but I'm not <br />
@@ -70,13 +71,12 @@ I told you I'm not bulletproof <br />
 Now you know <br />
 </p>
 
+## Quote from Artist
 
-
-
-## Quote from Artist 
 <blockquote>
 I’d been talking to a guy I’ve never “officially” dated. Sometimes it’s the hardest thing when you have all these dreams of dating them, and you’re getting close, but it doesn’t work out. He would say things that would make me go, “Did you just say that?” It bothered me so much because he would say one thing and do another, do one thing and say another. Because he didn’t know what he wanted, he would just play all these mind games. - Taylor Swift
 </blockquote>
 
 ## Secret liner note
+
 Guess I was fooled by your smile

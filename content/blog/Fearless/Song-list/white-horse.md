@@ -1,14 +1,15 @@
 ---
-title: 'White Horse (Taylor''s Version)'
+title: "White Horse"
 date: "2022-11-14"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 5
-songwriters: ['Taylor Swift', 'Liz Rose']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Liz Rose"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Say you're sorry, that face of an angel <br />
 Comes out just when you need it to <br />
@@ -65,7 +66,6 @@ It's too late <br />
 To catch me now <br />
 </p>
 
-
 ## Quotes from artist
 
 <blockquote>
@@ -73,7 +73,9 @@ It’s one of the songs that I am really proud of on the record because it’s s
 </blockquote>
 
 ## Secret liner notes
+
 “All I ever wanted was the truth”
 
 ## Facts
+
 December 2006

@@ -1,14 +1,15 @@
 ---
-title: 'Girl At Home (Taylor''s Version)'
+title: "Girl At Home"
 date: "2022-11-25"
 description: "Lyrics"
 album: Red
 track: 19
 songwriter: Taylor Swift
-tags: ['Upbeat']
-cat: 'Glitter Gel Pen'
+tags: ["Upbeat"]
+cat: "Glitter Gel Pen"
 feat: false
 ---
+
 <p className="intro">
 Don't look at me, you got a girl at home <br />
 And everybody knows that, everybody knows that, ah-ah <br />
@@ -79,7 +80,6 @@ And everybody knows that, everybody knows that <br />
 It would be a fine proposition <br />
 If I hadn't once been just like her <br />
 </p>
-
 
 ## Quotes from artist
 

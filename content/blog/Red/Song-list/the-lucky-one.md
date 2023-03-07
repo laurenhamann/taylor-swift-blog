@@ -1,14 +1,15 @@
 ---
-title: 'The Lucky One (Taylor''s Version)'
+title: "The Lucky One"
 date: "2022-12-01"
 description: "Lyrics"
 album: Red
 track: 13
 songwriter: Taylor Swift
-tags: ['Country', 'Reminiscing']
-cat: 'Fountain Pen'
+tags: ["Country", "Reminiscing"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 New to town with a made-up name <br />
 In the angel's city, chasing fortune and fame <br />
@@ -70,7 +71,6 @@ Oh, oh, oh <br />
 Oh, oh-oh, oh-oh <br />
 </p>
 
-
 ## Quotes from artist
 
 <blockquote>
@@ -81,4 +81,5 @@ Being famous can be fun at first, but people have ended up in a scary place over
 Your life is constantly also analyzed. There’s a lot of trade-offs. There’s the microscope that’s always on you. The camera flashes, the fear that something you say will be taken the wrong way and you’ll let your fans down. There’s the fear that you’ll be walking down the street and your skirt will blow up and you’ll be in the news for three months.
 
 You’re scared of a lot of things for a lot of the time, but the trade-off of being able to get on a big stage and sing your songs — it’s worth it." - Taylor Swift
+
 </blockquote>

@@ -1,19 +1,18 @@
 ---
 title: Taylor Swift Red (Taylor's Version) Album Ranked
-date: "2021-11-12"
+date: "2012-10-22"
 description: "My Ranking"
 album: Red
 image: red.png
 hero: red-hero.png
-track: 9
+track: 4
 ---
 
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```
-
 
 ## This is full album song list
 
@@ -48,5 +47,4 @@ track: 9
 29. [The Very First Night](../Song-list/the-very-first-night.md)
 30. [All Too Well (10 minute version)](../Song-list/all-too-well-10-minute.md)
 
-
- # My Personal Ranking
+# My Personal Ranking
