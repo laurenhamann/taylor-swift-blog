@@ -1,14 +1,15 @@
 ---
-title: 'Hey Stephen (Taylor''s Version)'
+title: "Hey Stephen"
 date: "2022-11-15"
 description: "Lyrics"
 album: Fearless
-tags: ['Pop', 'Country']
+tags: ["Pop", "Country"]
 track: 4
 songwriter: Taylor Swift
-cat: 'Glitter Gel Pen'
+cat: "Glitter Gel Pen"
 feat: false
 ---
+
 <p className="intro">
 Mmm-mm, mm-mm, mm-mm <br />
 Mmm-mm, mm-mm <br />
@@ -85,14 +86,12 @@ Mmm-mm, mm-mm <br />
 Mm-mm <br />
 </p>
 
+## Quote from Artist
 
-
-
-
-## Quote from Artist 
 <blockquote>
 This is a guy I had a crush on. I wrote about all these reasons he should be with me instead of other girls (…). This guy has absolutely no idea I had a crush on him. It’s gonna be kind of interesting when he finds out. - Taylor Swift
 </blockquote>
 
 ## Secret liner note
+
 Love and theft

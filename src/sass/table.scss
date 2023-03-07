@@ -1,0 +1,56 @@
+@use "colors" as color;
+
+table {
+  table-layout: fixed;
+  overflow-x: scroll;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+th {
+  background-color: color.$lavenderDarken;
+  font-size: 9px;
+  width: 15px;
+  height: 15px;
+  color: color.$blue;
+  padding: 2.5px;
+  border-right: 1px solid color.$blue;
+  border-bottom: 1px solid color.$blue;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: color.$lavenderExtraLight;
+}
+tr {
+  border-bottom: 1px solid color.$lavender;
+  border-right: 1px solid color.$lavender;
+}
+
+td {
+  font-size: 8px;
+  text-align: center;
+  //   width: 15px;
+  //   height: 15px;
+  border-collapse: collapse;
+}
+
+.true-data {
+  border-right: 1px solid color.$lavender;
+  border-left: 1px solid color.$lavender;
+  border-bottom: 1px solid color.$lavender;
+  padding: 0;
+  margin: 0;
+  border-spacing: 0;
+}
+
+// td:last-child {
+//   border-bottom: 2px solid color.$purple;
+// }
+
+@media screen and (min-width: 768px) {
+  td {
+    font-size: 10px;
+  }
+  th {
+    font-size: 12px;
+  }
+}

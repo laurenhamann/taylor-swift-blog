@@ -1,14 +1,15 @@
 ---
-title: 'Change (Taylor''s Version)'
+title: "Change"
 date: "2022-11-06"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 13
 songwriter: Taylor Swift
-cat: 'Fountain Pen'
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 And it's a sad picture, the final blow hits you <br />
 Somebody else gets what you wanted again and <br />
@@ -61,7 +62,6 @@ And we'll sing hallelujah, we sang hallelujah <br />
 Hallelujah <br />
 </p>
 
-
 ## Quotes from artist
 
 <blockquote>
@@ -69,4 +69,5 @@ I wrote the song ‘Change’ as an underdog story. It’s kind of crazy to thin
 </blockquote>
 
 ## Secret liner note
+
 “You made things change for me”.

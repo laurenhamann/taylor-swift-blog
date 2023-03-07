@@ -1,27 +1,25 @@
-@use 'colors' as color;
-@use 'fonts';
-@use 'index-page';
-@use 'album-overview';
-@use 'blog-post';
-@use 'search';
-@use 'breakpoints';
-
-
+@use "colors" as color;
+@use "fonts";
+@use "index-page";
+@use "album-overview";
+@use "blog-post";
+@use "search";
+@use "breakpoints";
+@use "table";
 
 // index.js
 body {
-    counter-reset: my-counter;
-    background-image: url('../images/bg.png');
-    background-position: cover;
-    background-repeat: repeat;
-    background-attachment: fixed;
-    height: 100vh;
-    overflow: scroll;
+  counter-reset: my-counter;
+  background-image: url("../images/bg.png");
+  background-position: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  overflow: scroll;
 }
 .bio {
-    margin-top: 15px;
+  margin-top: 15px;
 }
-header{
-    text-align: center;
+header {
+  text-align: center;
 }
-

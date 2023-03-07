@@ -1,14 +1,15 @@
 ---
-title: 'Begin Again (Taylor''s Version)'
+title: "Begin Again"
 date: "2022-11-28"
 description: "Lyrics"
 album: Red
 track: 16
 songwriter: Taylor Swift
-tags: ['Upbeat', 'Reminiscing', 'Duet']
-cat: 'Fountain Pen'
+tags: ["Upbeat", "Reminiscing", "Duet"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Took a deep breath in the mirror <br />
 He didn't like it when I wore high heels <br />
@@ -79,7 +80,6 @@ I watched it begin again <br />
 But on a Wednesday in a cafe <br />
 I watched it begin again <br />
 </p>
-
 
 ## Quotes from artist
 

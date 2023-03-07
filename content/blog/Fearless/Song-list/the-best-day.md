@@ -1,14 +1,15 @@
 ---
-title: 'The Best Day (Taylor''s Version)'
+title: "The Best Day"
 date: "2022-11-07"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 12
 songwriter: Taylor Swift
-cat: 'Fountain Pen'
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 I'm five years old, it's getting cold, I've got my big coat on <br />
 I hear your laugh and look up smiling at you, I run and run <br />
@@ -60,11 +61,12 @@ That I had the best day with you today <br />
  <br />
  </p>
 
+## Quotes from artist
 
- ## Quotes from artist
  <blockquote>
  I started writing it in the summertime [of 2007], and I decided I wasn’t going to play it for my mom until Christmas. So I finished the song secretly [and] recorded it completely without her knowing. I synched it up with all these home videos of me when I was little with her, and I made this music video for it. On Christmas Eve, I put it in the DVD player and played it for her. She didn’t know that it was me singing until about halfway through the song, at which point she burst out crying. It’s probably one of my favorite songs that I’ve ever written. My mom and I have been best friends since I was born. So I’m really glad that I got that down on CD. - Taylor Swift
  </blockquote>
 
- ## Secret liner note
- “God bless Andrea Swift”.
+## Secret liner note
+
+“God bless Andrea Swift”.

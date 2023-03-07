@@ -1,12 +1,12 @@
 ---
-title: 'Red (Taylor''s Version)'
+title: "Red"
 date: "2022-12-12"
 description: "Lyrics"
 album: Red
 track: 2
 songwriter: Taylor Swift
-tags: ['Heartbreak', 'Reflection', 'Red']
-cat: 'Quill Pen'
+tags: ["Heartbreak", "Reflection", "Red"]
+cat: "Quill Pen"
 feat: false
 ---
 
@@ -65,7 +65,6 @@ Comes back to me, burning red <br />
 Yeah, yeah <br />
 His love was like driving a new Maserati down a dead-end street <br />
 </p>
-
 
 ## Quotes from artist
 

@@ -1,21 +1,22 @@
 ---
-title: Speak Now 
+title: Speak Now
 date: "2010-10-25"
 description: "My Ranking"
 album: Speak Now
 image: speaknow.webp
 hero: speaknow-hero.webp
 slug: speak-now
-track: 2
+track: 3
 ---
 
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```
 
 ## Song List on Deluxe Album
+
 1. [Mine](../Song%20List/mine.md)
 2. [Sparks Fly](../Song%20List/sparks-fly.md)
 3. [Back to December](../Song%20List/back-to-december.md)
@@ -34,13 +35,13 @@ track: 2
 16. [If This Was a Movie](../Song%20List/if-this-was-a-movie.md)
 17. [Superman](../Song%20List/superman.md)
 
-
 ## Side Note
-This was the first Taylor Swift album that I bought. I had of course heard of her a bunch and knew all her hits but I am not a huge country music fan. I bought this album and listened to it constantly. At 15 years old, feeling the pain of Dear John and the butterflies of Enchanted. It was, and remains to be, a sparkly album. This album to me is her last wide-eyed look at the world. Lots of talk of magical, fantasy moments. Also, a lot of anger and rage. 
+
+This was the first Taylor Swift album that I bought. I had of course heard of her a bunch and knew all her hits but I am not a huge country music fan. I bought this album and listened to it constantly. At 15 years old, feeling the pain of Dear John and the butterflies of Enchanted. It was, and remains to be, a sparkly album. This album to me is her last wide-eyed look at the world. Lots of talk of magical, fantasy moments. Also, a lot of anger and rage.
 -- She wrote all these songs herself! Damn...
 
-
 ## Personal Ranking
+
 1. [Enchanted](../Song%20List/enchanted.md)
 2. [Long Live](../Song%20List/long-live.md)
 3. [Sparks Fly](../Song%20List/sparks-fly.md)
@@ -58,8 +59,6 @@ This was the first Taylor Swift album that I bought. I had of course heard of he
 15. [Haunted](../Song%20List/haunted.md)
 16. [Better Than Revenge](../Song%20List/better-than-revenge.md)
 17. [Superman](../Song%20List/superman.md)
-
-
 
 ## Chorus Ranking
 
@@ -230,7 +229,6 @@ Come back, I'll be with you someday <br />
 I'll be right here on the ground <br />
 When you come back down <br />
 </p>
-
 
 ## Catchiest
 

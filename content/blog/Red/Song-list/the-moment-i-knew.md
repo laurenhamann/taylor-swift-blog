@@ -1,14 +1,15 @@
 ---
-title: 'The Moment I Knew (Taylor''s Version)'
+title: "The Moment I Knew"
 date: "2022-11-27"
 description: "Lyrics"
 album: Red
 track: 17
 songwriter: Taylor Swift
-tags: ['Heartbroken', 'Reminiscing', 'Slow']
-cat: 'Fountain Pen'
+tags: ["Heartbroken", "Reminiscing", "Slow"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 You should've been there <br />
 Should've burst through the door <br />
@@ -87,7 +88,6 @@ And said, "I'm sorry, I didn't make it" <br />
 And I said, "I'm sorry too" <br />
 And that was the moment I knew <br />
 </p>
-
 
 ## Quotes from artist
 

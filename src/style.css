@@ -213,7 +213,7 @@ blockquote > ol {
   list-style-position: inside;
 }
 
-table {
+/* table {
   width: 100%;
   margin-bottom: var(--spacing-8);
   border-collapse: collapse;
@@ -222,7 +222,7 @@ table {
 
 table thead tr th {
   border-bottom: 1px solid var(--color-accent);
-}
+} */
 
 /* Link */
 
@@ -239,7 +239,7 @@ a:focus {
 
 .global-header,
 main h1,
-main section, 
+main section,
 .bio {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
@@ -251,7 +251,6 @@ main section,
 .bio {
   padding: var(--spacing-10) var(--spacing-5);
 }
-
 
 .hero {
   padding: 0;
@@ -342,6 +341,3 @@ main section,
     list-style-position: inside;
   }
 }
-
-
-

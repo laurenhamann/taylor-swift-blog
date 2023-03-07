@@ -1,14 +1,15 @@
 ---
-title: 'I Knew You Were Trouble (Taylor''s Version)'
+title: "I Knew You Were Trouble"
 date: "2022-12-10"
 description: "Lyrics"
 album: Red
 track: 4
-songwriters: ['Taylor Swift', 'Johan Karl Schuster', 'Martin Max Sandberg' ]
-tags: ['Upbeat', 'Electronic']
-cat: 'Sharpie'
+songwriters: ["Taylor Swift", "Johan Karl Schuster", "Martin Max Sandberg"]
+tags: ["Upbeat", "Electronic"]
+cat: "Sharpie"
 feat: true
 ---
+
 <p className="verse-one">
 Once upon a time <br />
 A few mistakes ago <br />
@@ -108,7 +109,6 @@ Trouble, trouble, trouble <br />
 I knew you were trouble when you walked in <br />
 Trouble, trouble, trouble <br />
 </p>
-
 
 ## Quotes from artist
 

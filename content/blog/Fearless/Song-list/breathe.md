@@ -1,14 +1,15 @@
 ---
-title: 'Breathe(Taylor''s Version)'
+title: "Breathe"
 date: "2022-11-12"
 description: "Lyrics"
 album: Fearless
 featured: Colbie Caillat
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 7
-songwriters: ['Taylor Swift', 'Colbie Caillat'] 
+songwriters: ["Taylor Swift", "Colbie Caillat"]
 feat: false
 ---
+
 <p className="verse-one">
 I see your face in my mind as I drive away <br />
 'Cause none of us thought it was gonna end that way <br />
@@ -68,10 +69,8 @@ I'm sorry, I'm sorry (yeah) <br />
 I'm sorry, I'm sorry, I'm sorry (ooh) <br />
 </p>
 
+## Quote from Artist
 
-
-
-## Quote from Artist 
 <blockquote>
 The song ‘Breathe’ is a song about having to let go of someone in your life who you care about, and you don’t want to hurt, but you’ve outgrown the friendship or the relationship. And I wrote the idea for it, and Colbie Caillat was in town who’s just one of my favorite artists, I absolutely love her music and I love her voice. And she was in town playing a show and I brought her this idea and she really liked it, and we wrote it together. We sat there and wrote the song right before her show. I mean, it was the afternoon, she was about to play that night. And she sang backup vocals on it that are just so haunting. And I’m so lucky because she agreed to do the same backup vocals on my version of ‘Breathe.’ So, it absolutely would not have been the same without her. I’m really, really grateful that she decided to return to the project.- Taylor Swift
 </blockquote>
@@ -80,4 +79,5 @@ She knows a lot about every person she’s in the room with and genuinely has an
 </blockquote>
 
 ## Secret liner notes
+
 “I’m sorry I’m sorry I’m sorry”.

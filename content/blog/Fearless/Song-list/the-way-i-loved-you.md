@@ -1,13 +1,14 @@
 ---
-title: 'The Way I Loved You (Taylor''s Version)'
+title: "The Way I Loved You"
 date: "2022-11-09"
 description: "Lyrics"
 album: Fearless
-tags: ['Lover', 'Flowy', 'Ethreal']
+tags: ["Lover", "Flowy", "Ethreal"]
 track: 10
-songwriters: ['Taylor Swift', 'John Rick']
+songwriters: ["Taylor Swift", "John Rick"]
 feat: true
 ---
+
 <p className="verse-one">
 He is sensible and so incredible <br />
 And all my single friends are jealous <br />
@@ -74,11 +75,12 @@ Never knew I could feel that much <br />
 And that's the way I loved you <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote>
 I got this idea for a song about being in a relationship with a nice guy who is punctual and opens up the door for you and brings you flowers… but you feel nothing. The whole time you’re with him, you’re thinking about the guy who was complicated and messy and frustrating. - Taylor Swift
 </blockquote>
 
 ## Secret liner note
+
 “We can’t go back.”

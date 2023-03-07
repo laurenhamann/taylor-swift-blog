@@ -5,12 +5,12 @@ description: "My Ranking"
 album: Lover
 image: Lover.png
 hero: lover-hero.png
-genre: ['Pop rock', 'Synth-pop', 'Electropop']
-track: 5
+genre: ["Pop rock", "Synth-pop", "Electropop"]
+track: 7
 ---
 
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```

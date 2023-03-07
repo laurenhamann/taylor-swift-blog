@@ -5,16 +5,14 @@ description: "My Ranking"
 album: Reputation
 image: reputation.png
 hero: rep-hero.png
-track: 4
+track: 6
 ---
 
-
-
 #### Table of Contents
+
 ```toc
 # This code block gets replaced with the TOC
 ```
-
 
 ## This is full album song list
 

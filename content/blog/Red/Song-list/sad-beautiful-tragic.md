@@ -1,12 +1,12 @@
 ---
-title: 'Sad Beautiful Tragic (Taylor''s Version)'
+title: "Sad Beautiful Tragic"
 date: "2022-12-02"
 description: "Lyrics"
 album: Red
 track: 12
 songwriter: Taylor Swift
-tags: ['Country', 'Reminiscing']
-cat: 'Quill Pen'
+tags: ["Country", "Reminiscing"]
+cat: "Quill Pen"
 feat: false
 ---
 
@@ -61,8 +61,8 @@ We had a beautiful magic love there <br />
 What a sad beautiful tragic love affair <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
 “Sad Beautiful Tragic” was a song that I wrote while I was on tour. I was on a tour bus that was moving and I just started playing this really haunting, sad chorus, and it was very simple, “What a sad, beautiful, tragic love affair.” It was just reflecting on something that was lost and you can’t get it back. I went home and I called Nathan Chapman and said, “Hey, I wrote this song. Please, please, please, can we record today?” and, of course, he said, “Yes,” and we used that original demo on the [first version of] the album, because it just kind of came across so pure and raw.
 </blockquote>

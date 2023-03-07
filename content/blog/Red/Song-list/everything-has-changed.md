@@ -1,15 +1,16 @@
 ---
-title: 'Everything Has Changed (Taylor''s Version)'
+title: "Everything Has Changed"
 date: "2022-11-30"
 description: "Lyrics"
 album: Red
 track: 14
-songwriters: ['Taylor Swift', 'Ed Sheeran']
-tags: ['Country', 'Reminiscing', 'Duet']
+songwriters: ["Taylor Swift", "Ed Sheeran"]
+tags: ["Country", "Reminiscing", "Duet"]
 featured: Ed Sheeran
-cat: 'Fountain Pen'
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="intro">
 You good to go? <br />
 </p>
@@ -96,8 +97,8 @@ All I know since yesterday <br />
 Is everything has changed <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote cite="https://www.youtube.com/watch?v=Xj1WllQRkxo">
 “Everything Has Changed” is a song that I wrote with Ed Sheeran. He is such a talented person, in so many ways. He’s such an incredibly talented guitar player, singer, songwriter, performer… Writing this song with him was so much fun, because we were sitting at my backyard writing this song, and he started singing harmony on it and I asked him if he would record it with me as a duet. Because it’s about this moment that both people are having where they see each other and, all of a sudden, the world looks different ‘cause everything changed. - Taylor Swift
 </blockquote>

@@ -1,14 +1,15 @@
 ---
-title: 'Holy Ground (Taylor''s Version)'
+title: "Holy Ground"
 date: "2022-12-03"
 description: "Lyrics"
 album: Red
 track: 11
 songwriter: Taylor Swift
-tags: ['Country', 'Reminiscing']
-cat: 'Fountain Pen'
+tags: ["Country", "Reminiscing"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 I was reminiscing just the other day <br />
 While having coffee all alone, and Lord, it took me away <br />

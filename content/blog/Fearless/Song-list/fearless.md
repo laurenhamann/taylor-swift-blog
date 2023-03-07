@@ -1,13 +1,14 @@
 ---
-title: 'Fearless (Taylor''s Version)'
+title: "Fearless"
 date: "2022-11-18"
 description: "Lyrics"
 album: Fearless
-tags: ['Pop', 'Country']
+tags: ["Pop", "Country"]
 track: 1
-songwriters: ['Taylor Swift', 'Haillary Lindsey', 'Liz Rose']
+songwriters: ["Taylor Swift", "Haillary Lindsey", "Liz Rose"]
 feat: true
 ---
+
 <p className="verse-one">
 There's somethin' bout the way <br />
 The street looks when it's just rained <br />
@@ -80,9 +81,8 @@ Fearless <br />
 Oh, oh, oh yeah <br />
 </p>
 
-
-
 ## Quote from Artist
+
 <blockquote>
 To me, fearless is not the absence of fear. It''s not being completely unafraid. To me, fearless is having fears. Fearless is having doubts. Lots of them. To me, fearless is living in spite of those things that scare you to death. Fearless is falling madly in love again, even though you’ve been hurt before. […] No matter what love throws at you, you have to believe in it. You have to believe in love stories and Prince Charmings and happily ever after. That''s why I write these songs. Because I think love is fearless. - Taylor Swift
 </blockquote>
@@ -92,4 +92,5 @@ This is a song about the fearlessness of falling in love. No matter how many bre
 </blockquote>
 
 ## Secret liner notes
+
 “I loved you before I met you”.
