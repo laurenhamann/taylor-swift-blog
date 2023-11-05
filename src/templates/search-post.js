@@ -26,15 +26,12 @@ const SearchPostTemplate = ({
   const [locate, setLocate] = React.useState(q)
   let text = post.html
   if (locate && locate !== " ") {
-    console.log(locate)
     const reg = new RegExp(locate, "g")
     const inner = post.html
     inner.replace(reg, match => `<mark>${match}</mark>`)
     const highlight = `<mark>${locate}</mark>`
     text = inner.replaceAll(reg, `${highlight}`)
-    console.log(reg)
   } else {
-    console.log(locate)
   }
 
   let songwriter
@@ -92,9 +89,8 @@ const SearchPostTemplate = ({
   }
 
   const matchedResult = location.state.matches
-
+  console.log(matchedResult)
   const result = matchedResult.map((m, i) => {
-    console.log(Object.values(m))
     Object.values(m)
     return (
       <Results
@@ -121,7 +117,6 @@ const SearchPostTemplate = ({
         />
         <hr />
         {matchedResult.map((m, i) => {
-          console.log(m)
           return (
             <Results
               slug={m.slug}

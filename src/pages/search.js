@@ -31,7 +31,6 @@ const Search = ({ location }) => {
       if (match) {
         slugs.push(post)
       }
-      console.log(slugs)
       if (match) {
         return (
           <Results
