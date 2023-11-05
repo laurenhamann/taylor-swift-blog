@@ -22,13 +22,17 @@ const useBlogs = () => {
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            category
             album
+            artist
+            type
             image {
               childImageSharp {
                 gatsbyImageData(
                   blurredOptions: { width: 150 }
-                  height: 200
+                  height: 250
                   width: 200
+                  formats: PNG
                 )
               }
             }
@@ -46,6 +50,8 @@ const useBlogs = () => {
             songwriter
             tags
             feat
+            cat
+            featured
           }
         }
       }
@@ -54,6 +60,7 @@ const useBlogs = () => {
   return data.allMarkdownRemark.nodes.map(post => ({
     excerpt: post.excerpt,
     slug: post.fields.slug,
+    artist: post.frontmatter.artist,
     date: post.frontmatter.date,
     title: post.frontmatter.title,
     description: post.frontmatter.description,
@@ -67,6 +74,10 @@ const useBlogs = () => {
     content: post.internal.content,
     feat: post.frontmatter.feat,
     id: post.id,
+    cat: post.frontmatter.cat,
+    category: post.frontmatter.category,
+    featured: post.frontmatter.featured,
+    type: post.frontmatter.type,
   }))
 }
 

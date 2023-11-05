@@ -1,19 +1,23 @@
 @use "colors" as color;
 @use "fonts";
+@use "global";
 @use "index-page";
 @use "album-overview";
 @use "blog-post";
 @use "search";
 @use "breakpoints";
 @use "table";
+@use "filter-by";
 
 // index.js
 body {
   counter-reset: my-counter;
-  background-image: url("../images/bg.png");
-  background-position: cover;
-  background-repeat: repeat;
+  background-image: url("../images/lefttop.png"),
+    url("../images/right-bottom.png");
+  background-position: left top, right bottom;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: 20vw 20vh;
   height: 100vh;
   overflow: scroll;
 }
@@ -22,4 +26,13 @@ body {
 }
 header {
   text-align: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.global-header {
+  margin-bottom: 50px !important;
 }

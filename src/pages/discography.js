@@ -7,14 +7,15 @@ const Discography = ({ location }) => {
   const blogs = useBlogs()
   const site = useMetadata()
   const title = site.site.siteMetadata.title
-  let count = 1
+  // let count = 1
   let titles = []
   let discs = []
-  const map = blogs.map((s, i) => {
+  blogs.map((s, i) => {
     if (s.description === "My Ranking") {
       const title = s.album
       titles.push(title)
     }
+    return s
   })
 
   function songs(index) {

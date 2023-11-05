@@ -1,0 +1,24 @@
+@use "colors" as color;
+button {
+  cursor: pointer;
+}
+
+button:not(.small) {
+  width: 65vw;
+  height: 35px;
+  border: none;
+  border-bottom: 1px solid color.$lavenderDarken;
+  background-color: color.$lavenderExtraLight;
+  border-radius: 2.5px;
+  transition: border-radius 0.5s, width 0.7s, background-color 0.7s;
+  box-shadow: 1px 1px 3px color.$lavenderDarken;
+  color: color.$dkPurple;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  &:hover {
+    width: 30vw;
+    border-radius: 25px;
+    background-color: color.$lavender;
+  }
+}

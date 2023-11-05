@@ -1,4 +1,5 @@
 import React, { useState, useRef } from "react"
+import { Link } from "gatsby"
 import useBlogs from "../hooks/use-blogs"
 import Results from "../components/results"
 import Layout from "../components/layout"

@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -22,11 +22,10 @@ const SearchPostTemplate = ({
     : " "
   console.log(q)
 
-  console.log(location.state.matches)
   // figure out new way to get input word from search to input here
   const [locate, setLocate] = React.useState(q)
   let text = post.html
-  if (locate && locate != " ") {
+  if (locate && locate !== " ") {
     console.log(locate)
     const reg = new RegExp(locate, "g")
     const inner = post.html
@@ -54,11 +53,11 @@ const SearchPostTemplate = ({
   if (Array.isArray(post.frontmatter.songwriters)) {
     const s = post.frontmatter.songwriters
     const length = s.length
-    if (length == 2) {
+    if (length === 2) {
       songwriter = `${s[0]} & ${s[1]}`
-    } else if (length == 3) {
+    } else if (length === 3) {
       songwriter = `${s[0]}, ${s[1]} & ${s[2]}`
-    } else if (length == 4) {
+    } else if (length === 4) {
       songwriter = `${s[0]}, ${s[1]}, ${s[2]} & ${s[3]}`
     }
   } else {

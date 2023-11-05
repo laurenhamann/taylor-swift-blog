@@ -6,19 +6,19 @@
 // required to make the environment variables work.
 require("dotenv").config({
   path: `.env`,
-});
+})
 
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
   siteMetadata: {
-    title: `Taylor Swift Songs Ranked`,
+    title: `Pop Culture Blog`,
     author: {
       name: `Lauren Hamann`,
-      summary: `Music Lover`,
+      summary: `Pop Culture enthusiast`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to share my thoughts and rankings on what I am currently obsessed with`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: ``,
@@ -72,10 +72,10 @@ module.exports = {
               ordered: false,
               fromHeading: 1,
               toHeading: 6,
-              className: "table-of-contents"
+              className: "table-of-contents",
             },
           },
-          `gatsby-remark-autolink-headers`
+          `gatsby-remark-autolink-headers`,
         ],
       },
     },
@@ -148,12 +148,12 @@ module.exports = {
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
-        WebFontConfig : {
+        WebFontConfig: {
           typekit: {
-            id: 'jcd4qgd'
-          }
+            id: "jcd4qgd",
+          },
         },
-      }
+      },
     },
   ],
 }

@@ -12,6 +12,8 @@ const blogPost = path.resolve(`./src/templates/blog-post.js`)
 const albumView = path.resolve(`./src/templates/album-blog.js`)
 const SearchPostTemplate = path.resolve("./src/templates/search-post.js")
 const SongList = path.resolve("./src/templates/song-list.js")
+const BlogIndex = path.resolve("./src/templates/index-hub.js")
+const CatIndex = path.resolve("./src/templates/cat-index.js")
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -27,6 +29,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           frontmatter {
             album
             title
+            category
+            description
+            type
           }
           fields {
             slug
@@ -56,25 +61,52 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
       const album =
         post.frontmatter.album === null ? "none" : post.frontmatter.album
+      const cat =
+        post.frontmatter.category === null ? "none" : post.frontmatter.category
+      console.log(cat)
 
-      createPage({
-        path: post.fields.slug,
-        component: blogPost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      })
+      const type =
+        post.frontmatter.type === null ? "none" : post.frontmatter.type
 
-      createPage({
-        path: `/${album}`,
-        component: albumView,
-      })
-      createPage({
-        path: `/${album}/song-list`,
-        component: SongList,
-      })
+      const description = post.frontmatter.description === "home" ? true : false
+
+      if (description) {
+        console.log(description, post.fields.slug)
+        createPage({
+          path: `/${album}`,
+          component: BlogIndex,
+          context: {
+            id: post.id,
+          },
+        })
+      } else if (post.frontmatter.description === "category") {
+        createPage({
+          path: post.fields.slug,
+          component: CatIndex,
+          context: {
+            id: post.id,
+          },
+        })
+      } else if (type === "overview") {
+        createPage({
+          path: post.fields.slug,
+          component: albumView,
+          context: {
+            id: post.id,
+          },
+        })
+      } else {
+        createPage({
+          path: post.fields.slug,
+          component: blogPost,
+          context: {
+            id: post.id,
+            previousPostId,
+            nextPostId,
+          },
+        })
+      }
+
       createPage({
         path: `/results${post.fields.slug}`,
         component: SearchPostTemplate,
@@ -142,6 +174,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date @dateformat
       tags: [String]
       album: String
+      category: String
     }
 
     type Fields {
