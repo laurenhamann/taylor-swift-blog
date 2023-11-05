@@ -88,7 +88,7 @@ const SearchPostTemplate = ({
     )
   }
 
-  const matchedResult = location.state.matches
+  const matchedResult = location.state.matches ? location.state.matches : ""
   console.log(matchedResult)
   const result = matchedResult.map((m, i) => {
     Object.values(m)
