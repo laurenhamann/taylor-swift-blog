@@ -88,20 +88,38 @@ const SearchPostTemplate = ({
     )
   }
 
-  const matchedResult = location.state.matches ? location.state.matches : ""
-  console.log(matchedResult)
-  const result = matchedResult.map((m, i) => {
-    Object.values(m)
-    return (
-      <Results
-        slug={m.slug}
-        title={m.title}
-        query={query}
-        key={m.slug}
-        matches={matchedResult}
-      />
-    )
-  })
+  // const matchedResult =
+  //   location.state.matches === undefined ? '' :
+  // console.log(matchedResult)
+  // const result = matchedResult.map((m, i) => {
+  //   Object.values(m)
+  //   return (
+  //     <Results
+  //       slug={m.slug}
+  //       title={m.title}
+  //       query={query}
+  //       key={m.slug}
+  //       matches={matchedResult}
+  //     />
+  //   )
+  // })
+  let map
+  if (location.state.matches != undefined) {
+    const matchedResult = location.state.matches
+
+    map = matchedResult.map((m, i) => {
+      Object.values(m)
+      return (
+        <Results
+          slug={m.slug}
+          title={m.title}
+          query={query}
+          key={m.slug}
+          matches={matchedResult}
+        />
+      )
+    })
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -116,17 +134,7 @@ const SearchPostTemplate = ({
           itemProp="articleBody"
         />
         <hr />
-        {matchedResult.map((m, i) => {
-          return (
-            <Results
-              slug={m.slug}
-              title={m.title}
-              query={query}
-              key={m.slug}
-              matches={matchedResult}
-            />
-          )
-        })}
+        {map}
         <footer>
           <Bio />
         </footer>
