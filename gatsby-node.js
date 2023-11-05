@@ -105,15 +105,15 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             nextPostId,
           },
         })
-      }
 
-      createPage({
-        path: `/results${post.fields.slug}`,
-        component: SearchPostTemplate,
-        context: {
-          id: post.id,
-        },
-      })
+        createPage({
+          path: `/results${post.fields.slug}`,
+          component: SearchPostTemplate,
+          context: {
+            id: post.id,
+          },
+        })
+      }
     })
   }
 }

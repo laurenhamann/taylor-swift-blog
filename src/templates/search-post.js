@@ -15,15 +15,15 @@ const SearchPostTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`
   const check = typeof location.state === "object"
   console.log(check)
-  const q = check
+  const query = check
     ? typeof location.state.query === "string"
       ? location.state.query
       : " "
     : " "
-  console.log(q)
+  console.log(query)
 
   // figure out new way to get input word from search to input here
-  const [locate, setLocate] = React.useState(q)
+  const [locate, setLocate] = React.useState(query)
   let text = post.html
   if (locate && locate !== " ") {
     const reg = new RegExp(locate, "g")
@@ -96,7 +96,7 @@ const SearchPostTemplate = ({
       <Results
         slug={m.slug}
         title={m.title}
-        q={q}
+        query={query}
         key={m.slug}
         matches={matchedResult}
       />
@@ -121,7 +121,7 @@ const SearchPostTemplate = ({
             <Results
               slug={m.slug}
               title={m.title}
-              q={q}
+              query={query}
               key={m.slug}
               matches={matchedResult}
             />
