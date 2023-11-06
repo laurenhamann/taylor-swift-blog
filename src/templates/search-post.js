@@ -20,7 +20,7 @@ const SearchPostTemplate = ({
       ? location.state.query
       : " "
     : " "
-  console.log(query)
+  console.log(location.state)
 
   // figure out new way to get input word from search to input here
   const [locate, setLocate] = React.useState(query)

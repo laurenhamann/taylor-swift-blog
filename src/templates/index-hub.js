@@ -13,6 +13,7 @@ const BlogIndex = ({ location, pageContext, data }) => {
   const posts = useBlogs()
   const site = useMetadata()
   const siteTitle = site.site.siteMetadata.title
+  console.log(location)
   // const path = location.pathname
   // console.log(data)
   // const regex = /([A-z])\w+/

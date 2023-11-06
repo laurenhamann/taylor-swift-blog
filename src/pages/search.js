@@ -13,7 +13,7 @@ const Search = ({ location }) => {
   const blogs = useBlogs()
   const filterPosts = event => {
     event.preventDefault()
-    setQuery(inputRef.current.value)
+    setQuery(` ${inputRef.current.value} `)
   }
 
   const resetPosts = event => {
@@ -32,6 +32,7 @@ const Search = ({ location }) => {
         slugs.push(post)
       }
       if (match) {
+        console.log(post.slug)
         return (
           <Results
             slug={post.slug}
