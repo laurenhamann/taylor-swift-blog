@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Midnights
 track: 14
 songwriters: ["Taylor Swift", "Aaron Dessner"]
-tags: ["Pop", "Ballad", "Alt Pop"]
 cat: "Quill Pen"
 feat: false
 type: post
+tags: honest
 ---
 
 <p className="verse-one">

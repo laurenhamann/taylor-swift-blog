@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 22
 songwriter: Taylor Swift
-tags: ["Tragic", "Sad"]
 feat: false
 type: post
 ---

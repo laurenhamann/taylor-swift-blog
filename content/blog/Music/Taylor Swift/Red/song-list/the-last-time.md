@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 10
 songwriters: ["Taylor Swift", "Garret Noel Lee", "Gary Lightbody"]
-tags: ["Country", "Duet"]
 featured: Gary Lightbody
 cat: "Quill Pen"
 feat: false

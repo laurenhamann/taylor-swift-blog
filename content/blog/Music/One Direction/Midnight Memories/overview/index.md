@@ -3,7 +3,7 @@ title: Midnight Memories
 description: "album-home"
 artist: One Direction
 image: mm.jpg
-hero: mm-hero.webp
+hero: MM.png
 date: "2013-11-25"
 album: Midnight Memories
 track: 3

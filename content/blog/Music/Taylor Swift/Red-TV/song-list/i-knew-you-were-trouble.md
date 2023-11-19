@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 4
 songwriters: ["Taylor Swift", "Shellback", "Max Martin"]
-tags: ["Upbeat", "Electronic"]
 cat: "Sharpie"
 feat: true
 type: post

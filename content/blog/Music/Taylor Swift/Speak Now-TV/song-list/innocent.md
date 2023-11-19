@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Quill Pen"
 feat: false
 type: post
+myRank:
 ---
 
 <p className="verse-one">
@@ -76,13 +77,3 @@ You're still an innocent <br />
 Lost your balance on a tightrope, oh <br />
 It's never too late to get it back <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-You have to try really hard to regulate what you feel, what you let in, and what you don’t … but then when it comes to making an album, if you make everything general and kind of gloss over your actual, raw feelings, that doesn’t benefit anyone. As far as what to feel and what level to feel it, I can’t really control any of that. It’s just how things hit you, and what you let in is definitely something you’ve got to find a balance for. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-Life is full of little interruptions

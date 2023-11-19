@@ -3,11 +3,11 @@ title: Come In With The Rain
 date: "2022-11-04"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 17
 songwriters: ["Taylor Swift", "Liz Rose"]
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

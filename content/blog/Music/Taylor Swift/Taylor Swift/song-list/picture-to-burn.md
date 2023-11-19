@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Taylor Swift
 track: 2
 songwriters: ["Taylor Swift", "Liz Rose"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Sharpie"
 feat: true
 type: post
+myRank: 10
 ---
 
 <p className="verse-one">

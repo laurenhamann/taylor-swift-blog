@@ -4,10 +4,10 @@ description: "Lyrics"
 album: Taylor Swift
 track: 3
 songwriters: ["Taylor Swift", "Liz Rose"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Fountain Pen"
 feat: true
 type: post
+myRank: 9
 ---
 
 <p className="verse-one">

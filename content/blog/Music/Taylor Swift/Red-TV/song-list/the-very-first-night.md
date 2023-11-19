@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 29
 songwriters: ["Taylor Swift", "Amund Bjorklund", "Espen Lind"]
-tags: ["Upbeat", "pesimistic"]
+tags: love
 cat: "Glitter Gel Pen"
 feat: true
 type: post

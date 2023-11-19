@@ -4,8 +4,8 @@ date: "2008-11-11"
 description: "album-home"
 artist: Taylor Swift
 album: Fearless
-image: TSfearless.png
-hero: ts-fearless-hero.jpg
+image: fearless.png
+hero: fearless-cover.png
 track: 2
 category: music
 type: post
@@ -19,16 +19,5 @@ type: post
 
 ## Song List
 
-1. [Fearless](../Song-list/fearless.md)
-2. [Fifteen](../Song-list/fifteen.md)
-3. [Love Story](../Song-list/love-story.md)
-4. [Hey Stephen](../Song-list/hey-stephen.md)
-5. [White Horse](../Song-list/white-horse.md)
-6. [You Belong With Me](../Song-list/you-belong-with-me.md)
-7. [Breathe](../Song-list/breathe.md)
-8. [Tell Me Why](../Song-list/tell-me-why.md)
-9. [You're Not Sorry](../Song-list/youre-not-sorry.md)
-10. [The Way I Loved You](../Song-list/the-way-i-loved-you.md)
-11. [Forever & Always](../Song-list/forever-and-always.md)
-12. [The Best Day](../Song-list/the-best-day.md)
-13. [Change](../Song-list/change.md)
+<ul id="song-list-node">
+</ul>

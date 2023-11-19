@@ -12,61 +12,61 @@ mv-img: ../overview/satellite.webp
 ---
 
 <p className="verse-one">
-You got a new life
-Am I bothering you? Do you wanna talk?
-We share the last line
-Then we drink the wall till we wanna talk
+You got a new life <br />
+Am I bothering you? Do you wanna talk? <br />
+We share the last line <br />
+Then we drink the wall till we wanna talk <br />
 </p>
 <p className="pre-chorus">
-I go 'round and 'round
-Satellite
+I go 'round and 'round <br />
+Satellite <br />
 </p>
 <p className="chorus">
-Spinnin' out, waitin' for ya to pull me in
-I can see you're lonely down there
-Don't you know that I am right here?
-Spinnin' out, waitin' for ya to pull me in
-I can see you're lonely down there
-Don't you know that I am right here?
+Spinnin' out, waitin' for ya to pull me in <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? <br />
+Spinnin' out, waitin' for ya to pull me in <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? <br />
 </p>
 <p className="post-chorus">
-Spinnin' out, waitin' for ya
+Spinnin' out, waitin' for ya <br />
 </p>
 <p className="verse-two">
-I'm in an L.A. mood
-I don't wanna talk to you
-She said, "Give me a day or two"
+I'm in an L.A. mood <br />
+I don't wanna talk to you <br />
+She said, "Give me a day or two" <br />
 </p>
 <p className="pre-chorus">
-I go 'round and 'round
-Satellite
+I go 'round and 'round <br />
+Satellite <br />
 </p>
 <p className="chorus">
-Spinnin' out, waitin' for ya to pull me in
-I can see you're lonely down there
-Don't you know that I am right here?
-Spinnin' out, waitin' for ya to pull me in
-I can see you're lonely down there
-Don't you know that I am right here?
+Spinnin' out, waitin' for ya to pull me in <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? <br />
+Spinnin' out, waitin' for ya to pull me in <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? <br />
 </p>
 <p className="bridge">
-Right here, right here
-Spinnin' out, waitin' for ya
-I'm here, right here
-Wishin' I could be there for ya
-Be there for ya
-Be there for ya, for ya
-For ya
-Be there for ya
+Right here, right here <br />
+Spinnin' out, waitin' for ya <br />
+I'm here, right here <br />
+Wishin' I could be there for ya <br />
+Be there for ya <br />
+Be there for ya, for ya <br />
+For ya <br />
+Be there for ya <br />
 </p>
 <p className="chorus">
-Spinnin' out, waitin' for ya to pull me in (Spinnin' out, waitin')
-I can see you're lonely down there
-Don't you know that I am right here? (Spinnin' out, waitin' for ya)
-Spinnin' out, waitin' for ya to pull me in (For ya, for ya, for ya)
-I can see you're lonely down there
-Don't you know that I am right here?
-Spinnin' out, waitin' for ya to pull me in (For ya, for ya, for ya)
-I can see you're lonely down there (Spinnin' out, waitin' for ya)
-Don't you know that I am right here?
+Spinnin' out, waitin' for ya to pull me in  <br />(Spinnin' out, waitin') <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? (Spinnin' out, waitin' for ya) <br />
+Spinnin' out, waitin' for ya to pull me in (For ya, for ya, for ya) <br />
+I can see you're lonely down there <br />
+Don't you know that I am right here? <br />
+Spinnin' out, waitin' for ya to pull me in (For ya, for ya, for ya) <br />
+I can see you're lonely down there (Spinnin' out, waitin' for ya) <br />
+Don't you know that I am right here? <br />
 </p>

@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 20
 ---
 
 <p className="verse-one">
@@ -81,9 +82,3 @@ La, la, la, la, la, la <br />
 La, la, la, la, la, la <br />
 When you come back down <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-This is about, well, a guy, as usual. This was a guy that I was sort of enamored with. This song got its title by something that I just said randomly in conversatio. When he walked out of the room, I turned to one of my friends and said, ‘It’s like watching Superman fly away.’ - Taylor Swift
-</blockquote>

@@ -3,11 +3,11 @@ title: The Other Side Of The Door
 date: "2022-11-06"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 19
 songwriter: Taylor Swift
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

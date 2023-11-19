@@ -3,7 +3,7 @@ title: Evermore
 description: "album-home"
 artist: Taylor Swift
 image: ./overview/evermore.png
-hero: ./overview/ever-hero.png
+hero: ./overview/evermore-hero.png
 category: music
 date: "2020-12-11"
 album: Evermore

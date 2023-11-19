@@ -4,8 +4,8 @@ date: "2020-07-24"
 description: "album-home"
 artist: Taylor Swift
 album: Folklore
-image: folklore.png
-hero: folklore-hero.png
+image: folklore-cover.png
+hero: folklore.png
 track: 8
 category: music
 type: post

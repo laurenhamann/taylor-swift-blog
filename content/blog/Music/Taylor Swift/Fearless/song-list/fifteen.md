@@ -3,7 +3,6 @@ title: "Fifteen"
 date: "2022-11-17"
 description: "Lyrics"
 album: Fearless
-tags: ["Pop", "Country"]
 track: 2
 songwriter: Taylor Swift
 cat: "Fountain Pen"

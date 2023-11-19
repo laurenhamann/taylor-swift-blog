@@ -3,11 +3,11 @@ title: "The Way I Loved You (Taylor's Version)"
 date: "2022-11-09"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 10
 songwriters: ["Taylor Swift", "John Rick"]
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

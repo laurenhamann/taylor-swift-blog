@@ -12,10 +12,10 @@ songwriters:
     "Jahaan Sweet",
     "Keanu Torres",
   ]
-tags: ["Pop", "Techno", "New Wave"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+tags: anthem
 ---
 
 <p className="verse-one">
@@ -102,4 +102,5 @@ Karma's a relaxing thought <br />
 
 <blockquote cite="https://www.youtube.com/watch?v=6t5sBwyL5z8&t=428s">
 So, one of the themes about Midnights is how you're feeling in the middle of the night and that can be intense self-hatred, intense self-love. You go through these very polarizing emotions when you're up late at night and your brain just spirals. It can spiral downward, or it can spiral way up, and you can just be really feeling yourself. And "Karma" is, uh, written from a perspective of feeling like, really happy, really proud of the way your life is, feeling like this must be a reward for doing stuff right. And it's a song that I really love becausе I think we all need some of those momеnts, you know, we can't just be beating ourselves up all the time. You have to have these moments where you're like, "You know what? Karma is my boyfriend." And that's it.
+<br /><b>- Taylor Swift</b>
 </blockquote>

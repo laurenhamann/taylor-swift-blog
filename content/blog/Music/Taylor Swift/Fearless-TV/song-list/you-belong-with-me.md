@@ -3,12 +3,12 @@ title: "You Belong With Me (Taylor's Version)"
 date: "2022-11-13"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 6
 songwriters: ["Taylor Swift", "Liz Rose"]
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

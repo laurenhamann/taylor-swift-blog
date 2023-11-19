@@ -4,7 +4,7 @@ date: "2022-12-01"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Pop", "Bubblegum", "Light", "Sarcastic"]
+tags: cringe
 track: 13
 cat: "Glitter Gel Pen"
 feat: false

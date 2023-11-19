@@ -4,8 +4,8 @@ date: "2014-10-27"
 description: "album-home"
 artist: Taylor Swift
 album: "1989"
-image: 1989.webp
-hero: 1989-hero.png
+image: 1989-cover.png
+hero: 1989-hero-.png
 track: 5
 category: music
 type: post

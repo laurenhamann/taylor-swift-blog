@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 11
 songwriter: Taylor Swift
-tags: ["Country", "Reminiscing"]
 cat: "Fountain Pen"
 feat: false
 type: post

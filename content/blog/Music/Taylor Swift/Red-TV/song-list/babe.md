@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 24
 songwriters: ["Taylor Swift", "Patrick T Monahan"]
-tags: ["Upbeat", "Pessimistic"]
 feat: true
 type: post
 ---

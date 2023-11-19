@@ -4,7 +4,6 @@ date: "2022-11-29"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Ballad", "Slow", "Love"]
 track: 15
 cat: "Fountain Pen"
 feat: false

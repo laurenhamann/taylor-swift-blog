@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 5
 songwriters: ["Taylor Swift", "Liz Rose"]
-tags: ["Slow", "Heartbroken"]
+tags: heartbreak
 cat: "Fountain Pen"
 feat: true
 type: post

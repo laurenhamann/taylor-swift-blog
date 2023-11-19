@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 12
 songwriter: Taylor Swift
-tags: ["Country", "Reminiscing"]
 cat: "Quill Pen"
 feat: false
 type: post

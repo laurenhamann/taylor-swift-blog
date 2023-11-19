@@ -8,19 +8,20 @@ songwriter: Taylor Swift
 cat: "Sharpie"
 feat: false
 type: post
+myRank: 14
 ---
 
 <p className="intro">
 Now go stand in the corner <br />
 And think about what you did <br />
 Ha! <br />
-Time for a little revenge <br />
+Haha, time for a little revenge <br />
 </p>
 <p className="verse-one">
 The story starts when it was hot and it was summer <br />
 And I had it all, I had him right there where I wanted him <br />
 She came along, got him alone, and let's hear the applause <br />
-She took him faster than you can say sabotage <br />
+She took him faster than you can say "Sabotage" <br />
 I never saw it coming, wouldn't have suspected it <br />
 I underestimated just who I was dealing with <br />
 She had to know the pain was beating on me like a drum <br />
@@ -29,8 +30,8 @@ She underestimated just who she was stealing from <br />
 <p className="chorus">
 She's not a saint, and she's not what you think <br />
 She's an actress, whoa <br />
-She's better known for the things that she does <br />
-On the mattress, whoa <br />
+He's a moth to the flame<br />
+She was holding the matches, woah <br />
 Soon she's gonna find stealing other people's toys <br />
 On the playground won't make you many friends <br />
 She should keep in mind, she should keep in mind <br />
@@ -49,8 +50,8 @@ But no amount of vintage dresses gives you dignity <br />
 <p className="chorus">
 She's not a saint, and she's not what you think <br />
 She's an actress, whoa <br />
-She's better known for the things that she does <br />
-On the mattress, whoa <br />
+He's a moth to the flame<br />
+She was holding the matches, woah <br />
 Soon she's gonna find stealing other people's toys <br />
 On the playground won't make you many friends <br />
 She should keep in mind, she should keep in mind <br />
@@ -66,8 +67,8 @@ Woah <br />
 <p className="chorus">
 She's not a saint, and she's not what you think <br />
 She's an actress, whoa <br />
-She's better known for the things that she does <br />
-On the mattress, whoa <br />
+He's a moth to the flame<br />
+She was holding the matches, woah <br />
 Soon she's gonna find stealing other people's toys <br />
 On the playground won't make you many friends <br />
 She should keep in mind, she should keep in mind <br />
@@ -85,13 +86,3 @@ See you deserve some applause <br />
 She took him faster than you can say sabotage <br />
 
 </p>
-
-## Quotes from artist
-
-<blockquote>
-I was 18 when I wrote [“Better Than Revenge.”] That’s the age you are when you think someone can actually take your boyfriend. Then you grow up and realize no one can take someone from you if they don’t want to leave. - Taylor Swift
-</p>
-
-## Secret liner note
-
-“You thought I would forget”.

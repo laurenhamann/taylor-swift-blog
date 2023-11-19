@@ -4,7 +4,7 @@ date: "2019-08-23"
 description: "album-home"
 artist: Taylor Swift
 album: Lover
-image: Lover.png
+image: lover.png
 hero: lover-hero.png
 genre: ["Pop rock", "Synth-pop", "Electropop"]
 track: 7

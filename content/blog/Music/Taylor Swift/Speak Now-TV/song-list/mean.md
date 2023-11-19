@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 15
 ---
 
 <p className="verse-one">
@@ -83,13 +84,3 @@ Someday, I'll be big enough so you can't hit me <br />
 And all you're ever gonna be is mean <br />
 Why you gotta be so mean? <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-When you do what I do, which is you put yourself out there for a lot of people to say whatever they want about it, there are a million different opinions from a million different people.I get it that not everyone is going to like everything that you do, and I get that no matter what, you’re going to be criticized for something. But I also get that there are different kinds of ways to criticize someone. There is constructive criticism. There’s professional criticism. And then, there’s just being mean. There’s a line that you cross when you just start to attack everything about a person, and there’s one guy who just crossed the line over and over again. Just being mean, and saying things that would ruin my day. […] There’s always going to be someone who’s just mean to you. Dealing with that is all you can control about that situation, how you handle it. ‘Mean’ is about how I handle it, and sort of my mindset about this whole situation. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-“I thought you got me”.

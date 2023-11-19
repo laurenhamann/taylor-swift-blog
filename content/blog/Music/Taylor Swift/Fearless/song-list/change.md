@@ -3,7 +3,6 @@ title: "Change"
 date: "2022-11-06"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 13
 songwriter: Taylor Swift
 cat: "Fountain Pen"

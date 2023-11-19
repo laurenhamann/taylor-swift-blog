@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 13
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Pop", "Electro-Pop"]
 cat: "Quill Pen"
 feat: false
 type: post
@@ -78,4 +77,5 @@ Yeah, all you did was smile <br />
 
 <blockquote cite="https://www.youtube.com/watch?v=6t5sBwyL5z8&t=512s">
 "Mastermind" is a song that I put last on the album because I'm really proud of it and I love that when we were making the song, we wanted the verse to sound like romance, and sort of heroes type of soundtrack, and then we wanted the chorus to sound like a villain has just entered the room. And the idea that you're flipping this narrative and you have been planning and plotting things and making them look like an accident. And I think that that's sort of an inside joke between me and my fans that I tеnd to do that. And so, this song is the romantic version of that.
+<br /><b>- Taylor Swift</b>
 </blockquote>

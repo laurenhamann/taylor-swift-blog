@@ -3,12 +3,12 @@ title: Miss Americana & The Heartbreak Prince
 date: "2022-11-06"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Falling In Love", "Love"]
 track: 7
 songwriters: ["Taylor Swift", "Joel Little"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 7
 ---
 
 <p className="verse-one">
@@ -130,5 +130,5 @@ They whisper in the hallway, "She's a bad, bad girl" <br />
 ## Quotes from artist
 
 <blockquote>
-There are so many influences that go into that particular song. I wrote it a couple of months after midterm elections, and I wanted to take the idea of politics and pick a metaphorical place for that to exist. And so I was thinking about a traditional American high school, where there’s all these kinds of social events that could make someone feel completely alienated. And I think a lot of people in our political landscape are just feeling like we need to huddle up under the bleachers and figure out a plan to make things better. - Taylor Swift
+There are so many influences that go into that particular song. I wrote it a couple of months after midterm elections, and I wanted to take the idea of politics and pick a metaphorical place for that to exist. And so I was thinking about a traditional American high school, where there’s all these kinds of social events that could make someone feel completely alienated. And I think a lot of people in our political landscape are just feeling like we need to huddle up under the bleachers and figure out a plan to make things better.<br /><b>- Taylor Swift</b>
 </blockquote>

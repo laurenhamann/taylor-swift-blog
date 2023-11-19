@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 18
 ---
 
 <p className="verse-one">
@@ -76,13 +77,3 @@ Gimme something that'll haunt me when you're not around <br />
 When sparks fly oh baby smile <br />
 When sparks fly <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-The song ‘Sparks Fly’ is about falling for someone that you maybe shouldn’t fall for, but you can‘t stop yourself because there’s such a connection, there’s such chemistry. This is a song that I wrote a few years ago and had been working on it ever since in the last two years and just honing in on little lyrics and changing them, so it’s really been awesome to see it change over the years. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-“Portland, Oregon”.

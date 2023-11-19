@@ -1,12 +1,19 @@
 ---
 title: Shake It Off
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 6
-songwriters: ['Taylor Swift', 'Mariah Carey', 'Bryan Michael Paul Cox', 'Jermaine Dupri Mauldin']
-cat: 'Glitter Gel Pen'
+songwriters:
+  [
+    "Taylor Swift",
+    "Mariah Carey",
+    "Bryan Michael Paul Cox",
+    "Jermaine Dupri Mauldin",
+  ]
+cat: "Glitter Gel Pen"
 feat: true
 ---
+
 <p className="verse-one">
 I stay out too late <br />
 Got nothing in my brain <br />
@@ -103,16 +110,20 @@ I, I, I shake it off, I shake it off <br />
 I, I, I shake it off, I shake it off <br />
 </p>
 
-
-
 ## Quotes from artist
+
 <blockquote cite='https://www.youtube.com/watch?v=AM9sq93pXVg&t=74s'>
-The message in the song is a problem I think we all deal with and an issue we deal with on a daily basis. We don’t live just in a celebrity takedown culture, we live in a takedown culture. People will find anything about you and twist it to where it’s weird or wrong or annoying or strange or bad. You have to not only live your life in spite of people who don’t understand you, you have to have more fun than they do. - Taylor Swift
+The message in the song is a problem I think we all deal with and an issue we deal with on a daily basis. We don’t live just in a celebrity takedown culture, we live in a takedown culture. People will find anything about you and twist it to where it’s weird or wrong or annoying or strange or bad. You have to not only live your life in spite of people who don’t understand you, you have to have more fun than they do. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 <blockquote cite="https://www.youtube.com/watch?v=oAqF28OBrzg&t=98s">
-I wanted to make a song that would help people get through their day. All these girls that I talk to online, on Instagram, or Tumblr, or Twitter, the things that they’re going through are parallel to what I go through. Just on a different scale. When someone spreads a rumor that isn’t true about a girl I’m talking to on Instagram, it’s the same feeling of humiliation that I get when I’m checking out at the grocery store and I see something untrue written about me on a magazine. - Taylor Swift
+I wanted to make a song that would help people get through their day. All these girls that I talk to online, on Instagram, or Tumblr, or Twitter, the things that they’re going through are parallel to what I go through. Just on a different scale. When someone spreads a rumor that isn’t true about a girl I’m talking to on Instagram, it’s the same feeling of humiliation that I get when I’m checking out at the grocery store and I see something untrue written about me on a magazine. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 ## Secret liner note
+
 “She danced to forget him”.

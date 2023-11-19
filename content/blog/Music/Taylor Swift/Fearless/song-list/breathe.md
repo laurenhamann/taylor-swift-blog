@@ -4,7 +4,6 @@ date: "2022-11-12"
 description: "Lyrics"
 album: Fearless
 featured: Colbie Caillat
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 7
 songwriters: ["Taylor Swift", "Colbie Caillat"]
 feat: false

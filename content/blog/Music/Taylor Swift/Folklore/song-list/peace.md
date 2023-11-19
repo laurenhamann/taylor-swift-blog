@@ -3,12 +3,12 @@ title: Peace
 date: "2022-10-29"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 15
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 3
 ---
 
 <p className="verse-one">
@@ -58,5 +58,5 @@ Would it be enough if I could never give you peace? <br />
 ## Quotes from artist
 
 <blockquote>
-‘peace’ is actually more rooted in my personal life. [It comes after] carving out a human life within a public life, and how scary that can be when you do fall in love and you meet someone, especially if you’ve met someone who has a very grounded, normal way of living. I, oftentimes, in my anxieties, can control how I am as a person and how normal I act and rationalize things, but I cannot control if there are 20 photographers outside in the bushes and what they do and if they follow our car and if they interrupt our lives. I can’t control if there’s going to be a fake weird headline about us in the news tomorrow. […] I think that in knowing him and being in the relationship I am in now, I have definitely made decisions that have made my life feel more like a real life and less like just a storyline to be commented on in tabloids. Whether that’s deciding where to live, who to hang out with, when to not take a picture — the idea of privacy feels so strange to try to explain, but it’s really just trying to find bits of normalcy. That’s what that song “Peace” is talking about. Like, would it be enough if I could never fully achieve the normalcy that we both crave? - Taylor Swift
+‘peace’ is actually more rooted in my personal life. [It comes after] carving out a human life within a public life, and how scary that can be when you do fall in love and you meet someone, especially if you’ve met someone who has a very grounded, normal way of living. I, oftentimes, in my anxieties, can control how I am as a person and how normal I act and rationalize things, but I cannot control if there are 20 photographers outside in the bushes and what they do and if they follow our car and if they interrupt our lives. I can’t control if there’s going to be a fake weird headline about us in the news tomorrow. […] I think that in knowing him and being in the relationship I am in now, I have definitely made decisions that have made my life feel more like a real life and less like just a storyline to be commented on in tabloids. Whether that’s deciding where to live, who to hang out with, when to not take a picture — the idea of privacy feels so strange to try to explain, but it’s really just trying to find bits of normalcy. That’s what that song “Peace” is talking about. Like, would it be enough if I could never fully achieve the normalcy that we both crave? <br /><b>- Taylor Swift</b>
 </blockquote>

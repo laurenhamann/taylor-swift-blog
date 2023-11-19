@@ -9,6 +9,8 @@ import Aside from "../components/aside"
 import PostList from "../components/post-list"
 import Hero from "../components/hero"
 
+import { Breadcrumb } from "gatsby-plugin-breadcrumb"
+
 const AlbumPosts = ({ location, pageContext, data }) => {
   console.log(pageContext.id)
   const site = useMetadata()
@@ -35,6 +37,10 @@ const AlbumPosts = ({ location, pageContext, data }) => {
   const image = data.markdownRemark.frontmatter.hero
   return (
     <Layout location={location} title={siteTitle}>
+      <Breadcrumb
+        location={location}
+        crumbLabel={data.markdownRemark.frontmatter.title}
+      />
       <Hero image={image} />
       <h1>{data.markdownRemark.frontmatter.title}</h1>
       <section className="album-section">

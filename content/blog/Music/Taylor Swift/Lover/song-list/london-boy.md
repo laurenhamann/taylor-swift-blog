@@ -3,13 +3,13 @@ title: London Boy
 date: "2022-11-02"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 11
 songwriters:
   ["Taylor Swift", "Jack Antonoff", "Mark Anthony Spears", "Cautious Clay"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 16
 ---
 
 <p className="verse-one">
@@ -94,5 +94,5 @@ Ooh wooh ooh <br />
 ## Quotes from artist
 
 <blockquote>
-This is supposed to be over the course of 3 years. Like, somebody told me, ‘they think that you’re talking about one day,’ and I was like, ‘oh no, you’d never make it. You wouldn’t make it. You’d make it in 3 years.’ - Taylor Swift
+This is supposed to be over the course of 3 years. Like, somebody told me, ‘they think that you’re talking about one day,’ and I was like, ‘oh no, you’d never make it. You wouldn’t make it. You’d make it in 3 years.’ <br /><b>- Taylor Swift</b>
 </blockquote>

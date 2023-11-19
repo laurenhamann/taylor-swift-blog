@@ -4,8 +4,8 @@ date: "2012-10-22"
 description: "album-home"
 artist: Taylor Swift
 album: Red
-image: TSRed.png
-hero: ts-hero-red.jpg
+image: red.png
+hero: red-cover.png
 track: 4
 category: music
 type: post

@@ -3,13 +3,13 @@ title: "Soon You'll Get Better"
 date: "2022-11-01"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 12
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 featured: Dixie Chicks
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 2
 ---
 
 <p className="verse-one">
@@ -76,5 +76,5 @@ You'll get better soon <br />
 ## Quotes from artist
 
 <blockquote>
-here’s a song called Soon You’ll Get Better that was really really hard to write, and it was also a family decision whether to even put it on the album. And I think songs like that that are really hard for you to write emotionally, maybe they are really hard to write and hard to sing because they are really true. - Taylor Swift
+here’s a song called Soon You’ll Get Better that was really really hard to write, and it was also a family decision whether to even put it on the album. And I think songs like that that are really hard for you to write emotionally, maybe they are really hard to write and hard to sing because they are really true. <br /><b>- Taylor Swift</b>
 </blockquote>

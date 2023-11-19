@@ -4,8 +4,8 @@ date: "2022-10-21"
 description: "album-home"
 artist: Taylor Swift
 album: Midnights
-image: midnight.jpg
-hero: midnights-hero.png
+image: midnights.png
+hero: midnights-hero-.png
 genre: ["Synth-pop", "Dream Pop", "Electronica", "bedroom pop"]
 track: 12
 category: music

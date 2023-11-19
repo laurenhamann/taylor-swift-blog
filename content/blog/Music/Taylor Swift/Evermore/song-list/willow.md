@@ -3,10 +3,9 @@ title: Willow
 date: "2022-11-18"
 description: "Lyrics"
 album: Evermore
-tags: ['Lover', 'Flowy', 'Ethreal']
 track: 1
-songwriters: ['Taylor Swift', 'William Bowery', 'Justin Vernon']
-cat: 'Quill Pen'
+songwriters: ["Taylor Swift", "William Bowery", "Justin Vernon"]
+cat: "Quill Pen"
 feat: true
 ---
 
@@ -93,7 +92,6 @@ I'm begging for you to take my hand <br />
 Wreck my plans <br />
 That's my man <br />
 </p>
-
 
 ## Quotes from artist
 

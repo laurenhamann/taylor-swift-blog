@@ -3,11 +3,11 @@ title: The Man
 date: "2022-11-09"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 4
 songwriters: ["Taylor Swift", "Joel Little"]
 feat: true
 type: post
+myRank: 6
 ---
 
 <p className="verse-one">
@@ -92,12 +92,12 @@ Then I'd be the man <br />
 ## Quotes from artist
 
 <blockquote>
-[It plays with perception.] If I had made all the same choices, all the same mistakes, all the same accomplishments, how would it read? - Taylor Swift
+[It plays with perception.] If I had made all the same choices, all the same mistakes, all the same accomplishments, how would it read? <br /><b>- Taylor Swift</b>
 </blockquote>
 
 <blockquote>
 It was a song that I wrote from my personal experience, but also from a general experience that I’ve heard from women in all parts of our industry. And I think that, the more we can talk about it in a song like that, the better off we’ll be in a place to call it out when it’s happening. So many of these things are ingrained in even women, these perceptions, and it’s really about re-training your own brain to be less critical of women when we are not criticizing men for the same things. So many things that men do, you know, can be phoned-in that cannot be phoned-in for us. We have to really — God, we have to curate and cater everything, but we have to make it look like an accident. Because if we make a mistake, that’s our fault, but if we strategize so that we won’t make a mistake, we’re calculating.
 
-There is a bit of a damned-if-we-do, damned-if-we-don’t thing happening in music, and that’s why when I can, like, sit and talk and be like ‘Yeah, this sucks for me too,’ that feels good. When I go online and hear the stories of my fans talking about their experience in the working world, or even at school — the more we talk about it, the better off we’ll be. And I wanted to make it catchy for a reason — so that it would get stuck in people’s heads, so they would end up with a song about gender inequality stuck in their heads. And for me, that’s a good day. - Taylor Swift
+There is a bit of a damned-if-we-do, damned-if-we-don’t thing happening in music, and that’s why when I can, like, sit and talk and be like ‘Yeah, this sucks for me too,’ that feels good. When I go online and hear the stories of my fans talking about their experience in the working world, or even at school — the more we talk about it, the better off we’ll be. And I wanted to make it catchy for a reason — so that it would get stuck in people’s heads, so they would end up with a song about gender inequality stuck in their heads. And for me, that’s a good day. <br /><b>- Taylor Swift</b>
 
 </blockquote>

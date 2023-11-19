@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 15
 ---
 
 <p className="verse-one">
@@ -78,13 +79,3 @@ I go back to December all the time <br />
 <p className="outro">
 All the time <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-‘Back To December’ is a song that addresses a first for me, in that I’ve never apologized to someone in a song before. This is about a person who was incredible to me- just perfect in a relationship, and I was really careless with him. So, this is a song full of words that I would say to him that he deserves to hear. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-“Tay”.

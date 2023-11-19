@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 17
 ---
 
 <p className="verse-one">
@@ -64,9 +65,3 @@ They can't take what's ours <br />
 The stakes are high, the water's rough <br />
 But this love is ours <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-I’m excited about telling the beginnings of stories, like the story of this song called ‘Ours,’ where I wrote it about this guy nobody thought I should be with. So I wrote this song specifically just to play it for him, just to show him, ‘I don’t care what anyone says. I don’t care that you have tattoos. I don’t care that you have a gap between your teeth. I love you for who you are.’ And that song ended up actually making it on [Speak Now] and becoming a #1 song. - Taylor Swift
-</blockquote>

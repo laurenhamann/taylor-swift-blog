@@ -4,7 +4,6 @@ date: "2022-12-07"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Max Martin", "Shellback", "Oscar Michael Gorres"]
-tags: ["Grunge", "Smooth", "Heavy", "Gold", "Gray", "necklace"]
 track: 7
 cat: "Sharpie"
 feat: false

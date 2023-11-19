@@ -3,7 +3,7 @@ title: Take Me Home
 description: "album-home"
 artist: One Direction
 image: tmh.jpg
-hero: tmh-hero.jpg
+hero: take-me-home.png
 date: "2012-11-09"
 album: Take Me Home
 track: 2

@@ -4,8 +4,8 @@ date: "2017-06-02"
 description: "album-home"
 artist: Halsey
 album: Hopeless Fountain Kingdom
-image: hfk.png
-hero: hfk-hero.jpg
+image: hfkcover.png
+hero: hfk.png
 track: 3
 category: music
 type: post

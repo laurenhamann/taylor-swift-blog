@@ -3,12 +3,12 @@ title: Jump Then Fall
 date: "2022-11-05"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 14
 songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

@@ -3,7 +3,6 @@ title: "Tell Me Why"
 date: "2022-11-11"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 8
 songwriters: ["Taylor Swift", "Liz Rose"]
 cat: "Fountain Pen"

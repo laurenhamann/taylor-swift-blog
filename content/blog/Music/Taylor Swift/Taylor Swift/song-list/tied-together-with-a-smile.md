@@ -5,9 +5,9 @@ description: "Lyrics"
 album: Taylor Swift
 track: 7
 songwriters: ["Taylor Swift", "Liz Rose"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 feat: false
 type: post
+myRank: 5
 ---
 
 <p className="verse-one">

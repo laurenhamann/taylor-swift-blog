@@ -3,12 +3,12 @@ title: This Is Me Trying
 date: "2022-11-04"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 9
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 1
 ---
 
 <p className="verse-one">
@@ -32,7 +32,7 @@ They told me all of my cages were mental <br />
 So I got wasted like all my potential <br />
 And my words shoot to kill when I'm mad <br />
 I have a lot of regrets about that <br />
-I was so ahead of the curve, the curve became a sphere <br />
+<span id="favorite-line">I was so ahead of the curve, the curve became a sphere</span> <br />
 Fell behind all my classmates and I ended up here <br />
 Pourin' out my heart to a stranger <br />
 But I didn't pour the whiskey <br />

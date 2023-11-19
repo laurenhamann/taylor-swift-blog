@@ -3,12 +3,12 @@ title: "Fifteen (Taylor's Version)"
 date: "2022-11-17"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Pop", "Country"]
 track: 2
 songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

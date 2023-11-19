@@ -3,12 +3,12 @@ title: My Tears Ricochet
 date: "2022-11-08"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 5
 songwriter: Taylor Swift
 cat: "Quill Pen"
 feat: true
 type: post
+myRank: 4
 ---
 
 <p className="verse-one">
@@ -65,8 +65,8 @@ Look at how my tears ricochet <br />
 ## Quotes from artist
 
 <blockquote>
-I wrote ‘My Tears Ricochet’ alone and it was the first one I wrote for this album. - Taylor Swift
+I wrote ‘My Tears Ricochet’ alone and it was the first one I wrote for this album. <br /><b>- Taylor Swift</b>
 </blockquote>
 <blockquote>
-[The song is about] an embittered tormentor showing up at the funeral of his fallen object of affection. - Taylor Swift
+[The song is about] an embittered tormentor showing up at the funeral of his fallen object of affection. <br /><b>- Taylor Swift</b>
 </blockquote>

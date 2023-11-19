@@ -3,12 +3,12 @@ title: Seven
 date: "2022-11-06"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 7
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 9
 ---
 
 <p className="verse-one">

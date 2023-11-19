@@ -3,12 +3,12 @@ title: "Tell Me Why (Taylor's Version)"
 date: "2022-11-11"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 8
 songwriters: ["Taylor Swift", "Liz Rose"]
 cat: "Fountain Pen"
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

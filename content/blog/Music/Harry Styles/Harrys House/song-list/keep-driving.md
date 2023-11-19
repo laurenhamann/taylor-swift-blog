@@ -12,46 +12,46 @@ mv-img:
 ---
 
 <p className="verse-one">
-Black-and-white film camera
-Yellow sunglasses
-Ash tray, swimming pool
-Hot wax, jump off the roof
+Black-and-white film camera <br />
+Yellow sunglasses <br />
+Ash tray, swimming pool <br />
+Hot wax, jump off the roof <br />
 </p>
 <p className="chorus">
-A small concern with how the engine sounds
-We held darkness in withheld clouds
-I would ask, "Should we just keep driving?"
+A small concern with how the engine sounds <br />
+We held darkness in withheld clouds <br />
+I would ask, "Should we just keep driving?" <br />
 </p>
 <p className="verse-two">
-Maple syrup, coffee
-Pancakes for two
-Hash brown, egg yolk
-I will always love you
+Maple syrup, coffee <br />
+Pancakes for two <br />
+Hash brown, egg yolk <br />
+I will always love you <br />
 </p>
 <p className="chorus">
-A small concern with how the engine sounds
-We held darkness in withheld clouds
-I would ask, "Should we just keep driving?"
-"Should we just keep driving?"
+A small concern with how the engine sounds <br />
+We held darkness in withheld clouds <br />
+I would ask, "Should we just keep driving?" <br />
+"Should we just keep driving?" <br />
 </p>
 <p className="bridge">
-Passports in foot wells
-Kiss her and don't tells
-Wine glass, puff pass
-Tea with cyborgs
-Riot America
-Science and edibles
-Life hacks going viral in the bathroom
-Cocaine, side boob
-Choke her with a sea view
-Toothache, bad move
-Just act normal
-Moka pot Monday
-It's all good
-Hey, you
+Passports in foot wells <br />
+Kiss her and don't tells <br />
+Wine glass, puff pass <br />
+Tea with cyborgs <br />
+Riot America <br />
+Science and edibles <br />
+Life hacks going viral in the bathroom <br />
+Cocaine, side boob <br />
+Choke her with a sea view <br />
+Toothache, bad move <br />
+Just act normal <br />
+Moka pot Monday <br />
+It's all good <br />
+Hey, you <br />
 </p>
 <p className="outro">
-Should we just keep driving?
-Should we just keep driving?
-(Ooh) Should we just keep driving?
+Should we just keep driving? <br />
+Should we just keep driving? <br />
+(Ooh) Should we just keep driving? <br />
 </p>

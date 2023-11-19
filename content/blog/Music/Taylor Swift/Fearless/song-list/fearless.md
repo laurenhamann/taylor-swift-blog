@@ -3,7 +3,6 @@ title: "Fearless"
 date: "2022-11-18"
 description: "Lyrics"
 album: Fearless
-tags: ["Pop", "Country"]
 track: 1
 songwriters: ["Taylor Swift", "Hillary Lindsey", "Liz Rose"]
 feat: true

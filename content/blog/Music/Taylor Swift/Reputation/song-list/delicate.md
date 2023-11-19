@@ -4,7 +4,6 @@ date: "2022-12-09"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Max Martin", "Taylor Swift"]
-tags: ["Love", "Downtown", "Dance"]
 track: 5
 cat: "Fountain Pen"
 feat: true

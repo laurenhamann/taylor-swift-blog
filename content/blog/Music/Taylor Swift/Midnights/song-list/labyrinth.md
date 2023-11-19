@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 10
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Pop", "Electro-pop", "Synth-pop"]
 cat: "Fountain Pen"
 feat: false
 type: post

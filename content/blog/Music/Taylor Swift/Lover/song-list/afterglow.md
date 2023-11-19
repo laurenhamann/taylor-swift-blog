@@ -3,13 +3,13 @@ title: Afterglow
 date: "2022-10-29"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 15
 songwriters:
   ["Taylor Swift", "Adam King Feeney", "Louis Bell", "Matthew Tavares"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 10
 ---
 
 <p className="verse-one">

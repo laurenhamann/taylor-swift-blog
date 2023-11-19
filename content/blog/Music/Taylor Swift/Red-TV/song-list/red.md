@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 2
 songwriter: Taylor Swift
-tags: ["Heartbreak", "Reflection", "Red"]
 cat: "Quill Pen"
 feat: false
 type: post

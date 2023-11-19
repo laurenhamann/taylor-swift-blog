@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 9
 ---
 
 <p className="verse-one">
@@ -85,13 +86,3 @@ Forever the name on my lips <br />
 Just like our last <br />
  <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-The song ‘Last Kiss’ is sort of like a letter to somebody. You say all of these desperate, hopeless feelings that you have after a break-up. Going through a break-up you feel all of these different things. You feel anger, and you feel confusion, and frustration. Then there is the absolute sadness. The sadness of losing this person, losing all the memories, and the hopes you had for the future. There are times when you have this moment of truth where you just admit to yourself that you miss all these things. When I was in one of those moments I wrote this song. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-Forever and always

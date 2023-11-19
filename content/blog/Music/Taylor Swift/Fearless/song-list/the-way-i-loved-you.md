@@ -3,7 +3,6 @@ title: "The Way I Loved You"
 date: "2022-11-09"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 10
 songwriters: ["Taylor Swift", "John Rick"]
 feat: true

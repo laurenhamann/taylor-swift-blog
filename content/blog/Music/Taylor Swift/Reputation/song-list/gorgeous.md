@@ -4,7 +4,7 @@ date: "2022-12-06"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Max Martin", "Taylor Swift"]
-tags: ["Pop", "Attraction", "Love"]
+tags: love
 track: 8
 cat: "Glitter Gel Pen"
 feat: false

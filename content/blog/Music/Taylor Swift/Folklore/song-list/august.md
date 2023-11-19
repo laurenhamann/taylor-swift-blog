@@ -3,12 +3,12 @@ title: August
 date: "2022-11-05"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 8
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Fountain Pen"
 feat: true
 type: post
+myRank: 14
 ---
 
 <p className="verse-one">
@@ -47,7 +47,7 @@ Like a bottle of wine <br />
 'Cause you were never mine <br />
 </p>
 <p className="bridge">
-Back when we were still changing for the better <br />
+<span id="favorite-line">Back when we were still changing for the better</span> <br />
 Wanting was enough <br />
 For me, it was enough <br />
 To live for the hope of it all <br />
@@ -94,5 +94,5 @@ For the hope of it all <br />
 ## Quotes from artist
 
 <blockquote>
-Yeah, I wrote the outro in the vocal booth. And I’ve been kind of, in my head, calling the girl from ‘august’ either Augusta or Augustine. What happened in my head was, ‘cardigan’ is Betty’s perspective from 20 to 30 years later, looking back on this love that was this tulmutuous thing. In my head, I think Betty and James ended up together. So, in my head, she ends up with him, but he really put her through it. But, like, ‘august’ was obviously about the girl that James had this summer with, she seems like she’s a bad girl, but really she’s not, she’s a sensitive person who really fell for him and she was trying to seem cool and seem like she didn’t care because that’s what girls have to do. She was trying to let him think that she didn’t care, but she really did, and she thought they had something really real. And then he goes back to Betty. So, the idea that there’s some bad, villain girl in any type of situation who takes your man is actually a total myth because that’s not usually the case at all. Everybody has feelings, everybody wants to be seen and loved and all Augustine wanted was love. - Taylor Swift
+Yeah, I wrote the outro in the vocal booth. And I’ve been kind of, in my head, calling the girl from ‘august’ either Augusta or Augustine. What happened in my head was, ‘cardigan’ is Betty’s perspective from 20 to 30 years later, looking back on this love that was this tulmutuous thing. In my head, I think Betty and James ended up together. So, in my head, she ends up with him, but he really put her through it. But, like, ‘august’ was obviously about the girl that James had this summer with, she seems like she’s a bad girl, but really she’s not, she’s a sensitive person who really fell for him and she was trying to seem cool and seem like she didn’t care because that’s what girls have to do. She was trying to let him think that she didn’t care, but she really did, and she thought they had something really real. And then he goes back to Betty. So, the idea that there’s some bad, villain girl in any type of situation who takes your man is actually a total myth because that’s not usually the case at all. Everybody has feelings, everybody wants to be seen and loved and all Augustine wanted was love. <br /><b>- Taylor Swift</b>
 </blockquote>

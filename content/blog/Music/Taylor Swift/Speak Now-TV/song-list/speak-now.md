@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 19
 ---
 
 <p className="verse-one">
@@ -83,13 +84,3 @@ Baby, I didn't say my vows <br />
 So glad you were around <br />
 When they said, "Speak now" <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-One of my friends, the guy she had been in love with since childhood was marrying this other girl. And my first inclination was to say, ‘Well, are you gonna speak now?’ And then I started thinking about what I would do if I was still in love with someone who was marrying someone who they shouldn’t be marrying. And so I wrote this song about exactly what my game plan would be. - Taylor Swift 
-</blockquote>
-
-## Secret liner note
-
-You always regret what you don't say

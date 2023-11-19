@@ -3,7 +3,6 @@ title: "Hey Stephen"
 date: "2022-11-15"
 description: "Lyrics"
 album: Fearless
-tags: ["Pop", "Country"]
 track: 4
 songwriter: Taylor Swift
 cat: "Glitter Gel Pen"

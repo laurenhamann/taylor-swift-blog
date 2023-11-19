@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 30
 songwriters: ["Taylor Swift", "Liz Rose"]
-tags: ["Upbeat", "pesimistic"]
+tags: heartbreak
 cat: "Fountain Pen"
 feat: true
 type: post

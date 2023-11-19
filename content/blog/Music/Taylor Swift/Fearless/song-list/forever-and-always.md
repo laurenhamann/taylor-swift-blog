@@ -3,7 +3,6 @@ title: "Forever & Always"
 date: "2022-11-08"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 11
 songwriter: Taylor Swift
 feat: false

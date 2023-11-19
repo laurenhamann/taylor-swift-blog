@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 23
 songwriter: Taylor Swift
-tags: ["Upbeat", "pesimistic"]
+tags: honest
 cat: "Fountain Pen"
 feat: false
 type: post

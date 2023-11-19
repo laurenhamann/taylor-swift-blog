@@ -10,10 +10,9 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
 const albumView = path.resolve(`./src/templates/album-blog.js`)
-const SearchPostTemplate = path.resolve("./src/templates/search-post.js")
-const SongList = path.resolve("./src/templates/song-list.js")
 const BlogIndex = path.resolve("./src/templates/index-hub.js")
 const CatIndex = path.resolve("./src/templates/cat-index.js")
+const AlbumOverview = path.resolve("./src/templates/album-overview.js")
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -63,7 +62,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         post.frontmatter.album === null ? "none" : post.frontmatter.album
       const cat =
         post.frontmatter.category === null ? "none" : post.frontmatter.category
-      console.log(cat)
 
       const type =
         post.frontmatter.type === null ? "none" : post.frontmatter.type
@@ -71,7 +69,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const description = post.frontmatter.description === "home" ? true : false
 
       if (description) {
-        console.log(description, post.fields.slug)
         createPage({
           path: `/${album}`,
           component: BlogIndex,
@@ -95,6 +92,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             id: post.id,
           },
         })
+      } else if (post.frontmatter.description === "album-home") {
+        createPage({
+          path: post.fields.slug,
+          component: AlbumOverview,
+          context: {
+            id: post.id,
+            previousPostId,
+            nextPostId,
+          },
+        })
       } else {
         createPage({
           path: post.fields.slug,
@@ -105,13 +112,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             nextPostId,
           },
         })
-        // createPage({
-        //   path: `/results${post.fields.slug}`,
-        //   component: SearchPostTemplate,
-        //   context: {
-        //     id: post.id,
-        //   },
-        // })
       }
     })
   }
@@ -162,6 +162,23 @@ exports.createSchemaCustomization = ({ actions }) => {
       twitter: String
     }
 
+    type Song {
+      title: String
+      album: String
+      track: Int
+    }
+
+    type Album {
+      title: String
+      artist: String
+      songs: [Song]
+    }
+
+    type Artist {
+      name: String
+      albums: [Album]
+    }
+
     type MarkdownRemark implements Node {
       frontmatter: Frontmatter
       fields: Fields
@@ -171,7 +188,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
-      tags: [String]
+      tags: String
       album: String
       category: String
     }

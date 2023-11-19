@@ -3,12 +3,12 @@ title: Illicit Affairs
 date: "2022-11-03"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 10
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 7
 ---
 
 <p className="verse-one">
@@ -67,5 +67,5 @@ A million little times <br />
 ## Quotes from artist
 
 <blockquote cite="https://www.rollingstone.com/music/music-features/paul-mccartney-taylor-swift-musicians-on-musicians-1089058/">
-When I was making folklore, I went lyrically in a total direction of escapism and romanticism. And I wrote songs imagining I was, like, a pioneer woman in a forbidden love affair [laughs]. - Taylor Swift
+When I was making folklore, I went lyrically in a total direction of escapism and romanticism. And I wrote songs imagining I was, like, a pioneer woman in a forbidden love affair [laughs]. <br /><b>- Taylor Swift</b>
 </blockquote>

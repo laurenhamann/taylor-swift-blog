@@ -1,12 +1,13 @@
 ---
 title: I Know Places
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 12
-songwriters: ['Taylor Swift', 'Ryan Tedder']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Ryan Tedder"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="intro">
 I-I-I, I, I-I-I, I <br />
 I-I-I, I, I-I-I, I <br />
@@ -80,11 +81,14 @@ I-I-I, I, I-I-I, I (I, I, I) <br />
 </p>
 
 ## Quotes from artist
+
 <blockquote>
-I had this idea of like, you know, when you’re in love – along the lines of ‘Out of the Woods’ – it’s very precious, it’s fragile. As soon as the world gets ahold of it, whether it’s your friends or people around town hear about it … it’s kind of like the first thing people want to do when they hear that people are in love is just kind of try to ruin it […] I kind of was in a place where I was like, ‘No one is gonna sign up for this. There are just too many cameras pointed at me. There are too many ridiculous elaborations on my life. It’s just not ever gonna work.‘ But I decided to write a love song, just kind of like, ‘What would I say if I met someone really awesome and they were like, hey, I’m worried about all this attention you get?’ So I wrote this song called ‘I Know Places’ about, like, ‘Hey, I know places we can hide. We could outrun them.’ I’m so happy that it sounds like the urgency that it sings about. - Taylor Swift
+I had this idea of like, you know, when you’re in love – along the lines of ‘Out of the Woods’ – it’s very precious, it’s fragile. As soon as the world gets ahold of it, whether it’s your friends or people around town hear about it … it’s kind of like the first thing people want to do when they hear that people are in love is just kind of try to ruin it […] I kind of was in a place where I was like, ‘No one is gonna sign up for this. There are just too many cameras pointed at me. There are too many ridiculous elaborations on my life. It’s just not ever gonna work.‘ But I decided to write a love song, just kind of like, ‘What would I say if I met someone really awesome and they were like, hey, I’m worried about all this attention you get?’ So I wrote this song called ‘I Know Places’ about, like, ‘Hey, I know places we can hide. We could outrun them.’ I’m so happy that it sounds like the urgency that it sings about. 
+<br />
+<b>- Taylor Swift</b>
 
 </blockquote>
 
-
 ## Secret liner notes
+
 “And everyone was watching”.

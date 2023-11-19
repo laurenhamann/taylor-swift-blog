@@ -3,7 +3,6 @@ title: "Love Story"
 date: "2022-11-16"
 description: "Lyrics"
 album: Fearless
-tags: ["Pop", "Country"]
 track: 3
 songwriter: Taylor Swift
 cat: "Glitter Gel Pen"

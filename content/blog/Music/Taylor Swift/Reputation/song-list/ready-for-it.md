@@ -3,7 +3,7 @@ title: ...Ready for it?
 date: "2022-12-13"
 description: "Lyrics"
 album: Reputation
-tags: ["Grunge", "Fast", "Heavy", "Hesitation", "ghost"]
+tags: hype
 songwriter: Taylor Swift
 track: 1
 cat: "Sharpie"

@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 4
 songwriters: ["Taylor Swift", "Jack Antonoff", "Elizabeth Grant"]
-tags: ["Pop", "Dream Pop"]
 featured: Lana Del Ray
 cat: "Quill Pen"
 feat: false
@@ -92,4 +91,5 @@ Like snow on the beach
 
 <blockquote>
 “Snow On The Beach,” featuring Lana Del Rey, is track 4 on Midnights, and I can not get through that sentence without grinning because I am such a massive fan of Lana Del Rey, more on that later. The song is about falling in love with someone at the same time as they’re falling in love with you, in this sort of in this cataclysmic, faded moment where you realize someone feels exactly the same way that you feel, at the same moment, and you’re kind of looking around going, “Wait, is this real? Is this a dream? Is this for real? Is it really happening? Kinda like it would be if you were to see snow falling on a beach. And Lana Del Rey is, in my opinion, one of the best musical artists ever, the fact that I get to exist at the same time as her is an honor and a privilege, and the fact that she would be so generous as to collaborate with us on this song is something I’m gonna be grateful for life. Absolutely love her and I really hope you love this song as much as I do.
+<br /><b>- Taylor Swift</b>
 </blockquote>

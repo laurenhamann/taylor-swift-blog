@@ -1,12 +1,13 @@
 ---
 title: This Love
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 11
 songwriter: Taylor Swift
-cat: 'Quill Pen'
+cat: "Quill Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Clear blue water <br />
 High tide came and brought you in <br />
@@ -76,12 +77,14 @@ This love came back to me, oh, oh, oh <br />
 This love came back to me, oh, oh, oh <br />
 </p>
 
-
-
-
 ## Quotes from artist
+
 <blockquote>
-I think the one that I kept going back to, over and over and over again, is a song called ‘This Love,’ actually. It’s a song that I wrote by myself. It’s kind of like hypnotic in a way, and it kind of is somewhat romantic and wistful and relaxing. - Taylor Swift
+I think the one that I kept going back to, over and over and over again, is a song called ‘This Love,’ actually. It’s a song that I wrote by myself. It’s kind of like hypnotic in a way, and it kind of is somewhat romantic and wistful and relaxing. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
+
 ## Secret liner notes
+
 “Timing is a funny thing.”

@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 18
 songwriters: ["Taylor Swift", "Jack Antonoff", "Mark Spears", "Samuel Dew"]
-tags: ["Pop", "New Wave", "Electronica"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post

@@ -3,12 +3,12 @@ title: The Archer
 date: "2022-11-08"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 5
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 5
 ---
 
 <p className="verse-one">
@@ -84,5 +84,5 @@ I'm ready for combat<br />
 ## Quotes from artist
 
 <blockquote>
-This song is about how, maybe in our lives if we’ve been let down, or things haven’t turned out the way that we wanted to in relationships… how often times we can kind of have this phantom fear of tragedy, like phantom tragedy… where you’re like, if you ever find something really great, or a situation that is solid, or a situation where your trust isn’t being broken… sometimes you have to deal with your demons from all those times that it didn’t work. You have to stop yourself from thinking the worst is always going to happen. And this is a song that touches on anxiety, and how to break patterns and cycles that aren’t healthy, because we learn a lot in life. Some of the lessons are good, and some of the habits are good, and some of the habits are bad. So it’s a song about having to unlearn some bad lessons that you learned in the past. - Taylor Swift
+This song is about how, maybe in our lives if we’ve been let down, or things haven’t turned out the way that we wanted to in relationships… how often times we can kind of have this phantom fear of tragedy, like phantom tragedy… where you’re like, if you ever find something really great, or a situation that is solid, or a situation where your trust isn’t being broken… sometimes you have to deal with your demons from all those times that it didn’t work. You have to stop yourself from thinking the worst is always going to happen. And this is a song that touches on anxiety, and how to break patterns and cycles that aren’t healthy, because we learn a lot in life. Some of the lessons are good, and some of the habits are good, and some of the habits are bad. So it’s a song about having to unlearn some bad lessons that you learned in the past.<br /><b>- Taylor Swift</b>
 </blockquote>

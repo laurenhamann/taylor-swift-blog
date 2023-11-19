@@ -4,7 +4,7 @@ date: "2019-08-23"
 description: "album-home"
 artist: Taylor Swift
 album: Lover
-image: ./overview/Lover.png
+image: ./overview/lover.png
 hero: ./overview/lover-hero.png
 track: 7
 category: music

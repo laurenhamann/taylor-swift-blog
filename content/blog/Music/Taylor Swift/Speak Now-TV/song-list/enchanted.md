@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 7
 ---
 
 <p className="verse-one">
@@ -81,13 +82,3 @@ I was enchanted to meet you <br />
 Please don't be in love with someone else <br />
 Please don't have somebody waiting on you <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-I started writing that in the hotel room when I got back, because it was just this positive, wistful feeling of ‘I hope you understand just how much I loved meeting you.’ Using the word ‘wonderstruck’ [in the lyrics] was done on purpose, because that’s a word which that person used one time in an e-mail … so I purposely wrote it in the song, so he would know - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-Adam

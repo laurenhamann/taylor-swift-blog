@@ -5,7 +5,7 @@ description: "album-home"
 artist: Halsey
 album: "Room 93"
 image: room93.jpg
-hero: room93-hero.jpg
+hero: room93.png
 track: 1
 category: music
 type: post

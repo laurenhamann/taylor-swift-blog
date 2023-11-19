@@ -4,9 +4,9 @@ description: "Lyrics"
 album: Taylor Swift
 track: 9
 songwriter: Taylor Swift
-tags: ["Upbeat", "Bubblegum", "Pop"]
 feat: false
 type: post
+myRank: 4
 ---
 
 <p className="verse-one">

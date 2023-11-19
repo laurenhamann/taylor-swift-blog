@@ -3,12 +3,12 @@ title: Cardigan
 date: "2022-11-11"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 2
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Fountain Pen"
 feat: true
 type: post
+myRank: 10
 ---
 
 <p className="verse-one">
@@ -91,5 +91,6 @@ You put me on and said I was your favorite <br />
 ## Quotes from artist
 
 <blockquote>
-The song is about a lost romance and why young love is often fixed so permanently within our memories. Why it leaves such an indelible mark.- Taylor Swift
+The song is about a lost romance and why young love is often fixed so permanently within our memories. Why it leaves such an indelible mark.
+<br /><b>- Taylor Swift</b>
 </blockquote>

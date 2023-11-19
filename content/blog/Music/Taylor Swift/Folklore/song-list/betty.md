@@ -3,12 +3,12 @@ title: Betty
 date: "2022-10-30"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 14
 songwriters: ["Taylor Swift", "William Bowery"]
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 15
 ---
 
 <p className="verse-one">
@@ -107,5 +107,5 @@ Stopped at a streetlight, you know I miss you <br />
 ## Quotes from artist
 
 <blockquote>
-[James] has lost the love of his life basically and doesn’t understand how to get it back. I think we all have these situations in our lives where we learn to really, really give a heartfelt apology for the first time. Everybody makes mistakes, everybody really messes up sometimes and this is a song that I wrote from the perspective of a 17-year-old boy. I’ve always loved that in music you can kinda slip into different identities and you can sing from other people’s perspectives. So that’s what I did on this one. I named all the characters in this story after my friends' kids… and I hope you like it! - Taylor Swift
+[James] has lost the love of his life basically and doesn’t understand how to get it back. I think we all have these situations in our lives where we learn to really, really give a heartfelt apology for the first time. Everybody makes mistakes, everybody really messes up sometimes and this is a song that I wrote from the perspective of a 17-year-old boy. I’ve always loved that in music you can kinda slip into different identities and you can sing from other people’s perspectives. So that’s what I did on this one. I named all the characters in this story after my friends' kids… and I hope you like it!<br /><b>- Taylor Swift</b>
 </blockquote>

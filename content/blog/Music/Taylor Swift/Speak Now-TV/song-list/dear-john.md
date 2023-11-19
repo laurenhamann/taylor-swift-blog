@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 8
 ---
 
 <p className="verse-one">
@@ -81,18 +82,3 @@ You should've known <br />
 Don't you think I was too young? <br />
 You should've known <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-The song ‘Dear John’ is sort of like the last email you would ever send to someone that you used to be in a relationship with. Usually people write this venting last email to someone and they say everything that they want to say to that person, and then they usually don’t send it. I guess by putting this song on the album I am pushing send.
-- Taylor Swift
-</blockquote>
-
-<blockquote>
-I know it wasn’t good, so I don’t want to know. I put a high priority on staying happy, and I know what I can’t handle. It’s not that I’m this egomaniac and I don’t want to hear anything negative, because I do keep myself in check, but I’ve never developed that thick a skin. So I just kind of live a life, and I let all the gossip live somewhere else. If you go too far down the rabbit hole of what people think about you, it can change everything about who you are. - John Mayer
-</blockquote>
-
-## Secret liner note
-
-Loved you from the very first day

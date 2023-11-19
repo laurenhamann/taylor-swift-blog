@@ -5,7 +5,7 @@ description: "album-home"
 artist: Halsey
 album: Badlands
 image: badlands.jpg
-hero: badlands-hero.jpg
+hero: badlands.png
 track: 2
 category: music
 type: post

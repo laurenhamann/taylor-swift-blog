@@ -3,12 +3,12 @@ title: The Last Great American Dynasty
 date: "2022-11-10"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 3
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 13
 ---
 
 <p className="verse-one">
@@ -71,5 +71,5 @@ I had a marvelous time <br />
 ## Quotes from artist
 
 <blockquote>
-I’m really proud of [the lyric] ‘She had a marvelous time ruining everything’ from ‘the last great american dynasty’ because it’s about what happens when women step out of their cages and run. It can be a real pearl-clutching moment for society when a woman owns her desires and wildness. And I love the idea that the woman in question would be too joyful in her freedom to even care that she’s ruffling feathers, raising eyebrows or becoming the talk of the town. The idea that she decided there were marvelous times to be had, and that was more important. - Taylor Swift
+I’m really proud of [the lyric] ‘She had a marvelous time ruining everything’ from ‘the last great american dynasty’ because it’s about what happens when women step out of their cages and run. It can be a real pearl-clutching moment for society when a woman owns her desires and wildness. And I love the idea that the woman in question would be too joyful in her freedom to even care that she’s ruffling feathers, raising eyebrows or becoming the talk of the town. The idea that she decided there were marvelous times to be had, and that was more important. <br /><b>- Taylor Swift</b>
 </blockquote>

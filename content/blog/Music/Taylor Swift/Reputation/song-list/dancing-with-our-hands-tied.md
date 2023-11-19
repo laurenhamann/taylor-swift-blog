@@ -4,7 +4,6 @@ date: "2022-12-03"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Max Martin", "Oscar Holter", "Taylor Swift"]
-tags: ["Dance", "Secret", "Past-Love", "blue", "golden", "Hesitation"]
 track: 11
 cat: "Quill Pen"
 feat: false

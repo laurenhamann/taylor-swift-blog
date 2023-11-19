@@ -110,7 +110,9 @@ And I'll write your name <br />
 ## Quotes from Artist
 
 <blockquote cite="https://www.gq.com/story/taylor-swift-gq-cover-story">
-Some of the things I write about on a song like ‘Blank Space’ are satire. You take your creative license and create things that are larger than life. You can write things like ‘I get drunk on jealousy, but you’ll come back each time you leave, ’cause, darling, I’m a nightmare dressed like a daydream.’ That is not my approach to relationships. But is it cool to write the narrative of a girl who’s crazy but seductive but glamorous but nuts but manipulative? That was the character I felt the media had written for me, and for a long time I felt hurt by it. I took it personally. But as time went by, I realized it was kind of hilarious. - Taylor Swift
+Some of the things I write about on a song like ‘Blank Space’ are satire. You take your creative license and create things that are larger than life. You can write things like ‘I get drunk on jealousy, but you’ll come back each time you leave, ’cause, darling, I’m a nightmare dressed like a daydream.’ That is not my approach to relationships. But is it cool to write the narrative of a girl who’s crazy but seductive but glamorous but nuts but manipulative? That was the character I felt the media had written for me, and for a long time I felt hurt by it. I took it personally. But as time went by, I realized it was kind of hilarious. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 ## Secret liner notes

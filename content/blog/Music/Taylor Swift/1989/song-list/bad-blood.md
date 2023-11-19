@@ -94,7 +94,9 @@ And baby, now we got bad blood (hey) <br />
 ## Quotes from artist
 
 <blockquote>
-For years, I was never sure if we were friends or not. She would come up to me at awards shows and say something and walk away, and I would think, ‘Are we friends, or did she just give me the harshest insult of my life?‘ [In 2013] she did something so horrible. I was like, ‘Oh, we’re just straight-up enemies.’ And it wasn’t even about a guy! It had to do with business. She basically tried to sabotage an entire arena tour. She tried to hire a bunch of people out from under me. And I’m surprisingly non-confrontational – you would not believe how much I hate conflict. So now I have to avoid her. It’s awkward, and I don’t like it. - Taylor Swift
+For years, I was never sure if we were friends or not. She would come up to me at awards shows and say something and walk away, and I would think, ‘Are we friends, or did she just give me the harshest insult of my life?‘ [In 2013] she did something so horrible. I was like, ‘Oh, we’re just straight-up enemies.’ And it wasn’t even about a guy! It had to do with business. She basically tried to sabotage an entire arena tour. She tried to hire a bunch of people out from under me. And I’m surprisingly non-confrontational – you would not believe how much I hate conflict. So now I have to avoid her. It’s awkward, and I don’t like it. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 ## Secret liner notes

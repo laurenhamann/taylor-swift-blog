@@ -3,7 +3,6 @@ title: "White Horse"
 date: "2022-11-14"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 5
 songwriters: ["Taylor Swift", "Liz Rose"]
 cat: "Fountain Pen"

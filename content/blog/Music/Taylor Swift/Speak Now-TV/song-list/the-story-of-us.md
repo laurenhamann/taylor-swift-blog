@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 21
 ---
 
 <p className="verse-one">
@@ -89,14 +90,3 @@ And the story of us looks a lot like a tragedy now <br />
 <p className="outro">
 The end
 </p>
-
-## Quotes from artist
-
-<blockquote>
-I was at an awards show, and there was a guy there, obviously — it all starts there, doesn’t it? It was a guy I had been in a relationship with, falling out, then we end up at the same awards show, both trying to act like we don’t care, both like, you know, chatting up the people next to us. Afterward, I just felt so empty, like we were both fighting this silent war of pretending we didn’t care that the other was there. And I went home, and I wrote this song about it. And at that point, I had this gut feeling, and I knew the album was finished.
-- Taylor Swift
-</blockquote>
-
-<blockquote>
-‘The Story of Us’ is about running into someone I had been in a relationship with at an awards show, and we were seated a few seats away from each other. I just wanted to say to him, ‘Is this killing you? Because it’s killing me.’ But I didn’t. But I couldn’t. Because we both had these silent shields up. I went home and I sat there at the kitchen table and I said to my mom, ‘I felt like I was standing alone in a crowded room.’ Then I got up and ran into my bedroom, as she’s seen me do many times. And she probably assumed I had come up with a line in the song. - Taylor Swift
-</blockquote>

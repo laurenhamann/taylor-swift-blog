@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 7
 songwriter: Taylor Swift
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Fountain Pen"
 feat: false
 type: post

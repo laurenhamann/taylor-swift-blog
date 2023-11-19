@@ -5,9 +5,9 @@ description: "Lyrics"
 album: Taylor Swift
 track: 4
 songwriters: ["Taylor Swift", "Robert Orrall", "Angelo Gianni"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 feat: false
 type: post
+myRank: 15
 ---
 
 <p className="verse-one">

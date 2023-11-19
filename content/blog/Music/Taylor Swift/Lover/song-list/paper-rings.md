@@ -3,12 +3,13 @@ title: Paper Rings
 date: "2022-11-05"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Falling In Love", "Love"]
 track: 8
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+tags: love
+myRank: 4
 ---
 
 <p className="verse-one">
@@ -99,5 +100,5 @@ You're the one I want, one I want <br />
 ## Quotes from artist
 
 <blockquote>
-I wrote ‘Paper Rings’ with this idea of throwback sounds. We didn’t want to use any sounds that were very modern on this song. This song talks about true love and if you really find true love, you probably don’t really care what the symbolism of that love is. Material things wouldn’t matter to you anymore if you found someone that you just wanted to live your life with. - Taylor Swift
+I wrote ‘Paper Rings’ with this idea of throwback sounds. We didn’t want to use any sounds that were very modern on this song. This song talks about true love and if you really find true love, you probably don’t really care what the symbolism of that love is. Material things wouldn’t matter to you anymore if you found someone that you just wanted to live your life with. <br /><b>- Taylor Swift</b>
 </blockquote>

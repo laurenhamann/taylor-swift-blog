@@ -3,12 +3,12 @@ title: You Need To Calm Down
 date: "2022-10-30"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 14
 songwriters: ["Taylor Swift", "Joel Little"]
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+myRank: 13
 ---
 
 <p className="verse-one">
@@ -78,5 +78,5 @@ You need to calm down<br />
 ## Quotes from artist
 
 <blockquote>
-It’s about how I’ve observed a lot of different people in our society who just put so much energy and effort into negativity, and it just made me feel like, “You need to just calm down, like you’re stressing yourself out. This seems like it’s more about you than what you’re going off about. Like, just calm down.” - Taylor Swift
+It’s about how I’ve observed a lot of different people in our society who just put so much energy and effort into negativity, and it just made me feel like, “You need to just calm down, like you’re stressing yourself out. This seems like it’s more about you than what you’re going off about. Like, just calm down.”<br /><b>- Taylor Swift</b>
 </blockquote>

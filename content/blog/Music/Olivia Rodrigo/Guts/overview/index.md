@@ -4,8 +4,8 @@ date: "2023-09-08"
 description: "album-home"
 artist: Olivia Rodrigo
 album: Guts
-image: Guts.webp
-hero: guts-hero.webp
+image: guts.png
+hero: guts-hero.png
 track: 2
 category: music
 type: post

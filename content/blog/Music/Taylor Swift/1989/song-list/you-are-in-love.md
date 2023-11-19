@@ -1,10 +1,10 @@
 ---
 title: You Are In Love
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 15
-songwriters: ['Taylor Swift', 'Jack Antonoff']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Jack Antonoff"]
+cat: "Fountain Pen"
 feat: true
 ---
 
@@ -84,9 +84,10 @@ You are in love, true love <br />
 You are in love <br />
 </p>
 
-
-
 ## Quotes from artist
+
 <blockquote>
-I’ve never had that, so I wrote that song about things that Lena Dunham has told me about her and Jack Antonoff. That’s just basically stuff she’s told me. And I think that that kind of relationship – God, it sounds like it would just be so beautiful – would also be hard. It would also be mundane at times. - Taylor Swift
+I’ve never had that, so I wrote that song about things that Lena Dunham has told me about her and Jack Antonoff. That’s just basically stuff she’s told me. And I think that that kind of relationship – God, it sounds like it would just be so beautiful – would also be hard. It would also be mundane at times. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>

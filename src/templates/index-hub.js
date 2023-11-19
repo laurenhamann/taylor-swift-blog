@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 import useBlogs from "../hooks/use-blogs"
 import useMetadata from "../hooks/use-metadata"
 import Hero from "../components/hero"
+import { Breadcrumb } from "gatsby-plugin-breadcrumb"
 
 const BlogIndex = ({ location, pageContext, data }) => {
   console.log(pageContext.id)
@@ -65,6 +66,10 @@ const BlogIndex = ({ location, pageContext, data }) => {
     // })
     return (
       <Layout location={location} title={siteTitle}>
+        <Breadcrumb
+          location={location}
+          crumbLabel={data.markdownRemark.frontmatter.title}
+        />
         <Hero image={image} />
         <h1>{data.markdownRemark.frontmatter.title}</h1>
         <ol className="main-list" style={{ listStyle: `none` }}>

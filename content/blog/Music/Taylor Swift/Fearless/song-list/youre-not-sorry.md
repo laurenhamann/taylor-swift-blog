@@ -3,7 +3,6 @@ title: "You're Not Sorry"
 date: "2022-11-10"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 9
 songwriter: Taylor Swift
 cat: "Fountain Pen"

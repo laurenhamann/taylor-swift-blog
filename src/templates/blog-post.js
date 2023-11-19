@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Results from "../components/results"
+import { Breadcrumb } from "gatsby-plugin-breadcrumb"
 const cats = ["Glitter Gel Pen", "Sharpie", "Fountain Pen", "Quill Pen"]
 
 const BlogPostTemplate = ({
@@ -108,6 +109,7 @@ const BlogPostTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Breadcrumb location={location} crumbLabel={post.frontmatter.title} />
       <article
         className="blog-post"
         itemScope
@@ -117,6 +119,7 @@ const BlogPostTemplate = ({
         <section
           dangerouslySetInnerHTML={{ __html: text }}
           itemProp="articleBody"
+          className="post-body"
         />
         <hr />
         <footer>

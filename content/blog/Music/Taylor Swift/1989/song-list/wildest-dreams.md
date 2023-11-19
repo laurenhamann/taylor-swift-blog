@@ -1,12 +1,13 @@
 ---
 title: Wildest Dreams
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 9
-songwriters: ['Taylor Swift', 'Max Martin'] 
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Max Martin"]
+cat: "Fountain Pen"
 feat: true
 ---
+
 <p className="verse-one">
 He said, "Let's get out of this town <br />
 Drive out of the city, away from the crowds" <br />
@@ -85,14 +86,14 @@ Even if it's just stayed in your wildest dreams, ah-ah, ha <br />
 In your wildest dreams, ah-ah, ha <br />
 </p>
 
-
-
 ## Quotes from artist
+
 <blockquote>
 I think the way I used to approach relationships was very idealistic. I used to go into them thinking, ‘Maybe this is the one – we’ll get married and have a family, this could be forever’. Whereas now I go in thinking, ‘How long do we have on the clock – before something comes along and puts a wrench in it, or your publicist calls and says this isn’t a good idea?’
-- Taylor Swift
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
-
 ## secret liner notes
+
 “He only saw her in his dreams”.

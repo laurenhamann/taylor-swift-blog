@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 12
 songwriters: ["Taylor Swift", "William Bowery"]
-tags: ["Pop", "Dream Pop", "Ballad"]
 cat: "Fountain Pen"
 feat: false
 type: post

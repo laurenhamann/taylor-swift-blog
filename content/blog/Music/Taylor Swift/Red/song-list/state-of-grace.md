@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 1
 songwriter: Taylor Swift
-tags: ["Hopeful", "Rebound", "twin", "fire signs", "golden"]
 cat: "Fountain Pen"
 feat: false
 type: post

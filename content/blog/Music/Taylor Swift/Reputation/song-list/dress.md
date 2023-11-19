@@ -4,7 +4,6 @@ date: "2022-12-02"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Flowy", "Love", "Sexy"]
 track: 12
 cat: "Fountain Pen"
 feat: false

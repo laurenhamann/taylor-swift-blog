@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Taylor Swift
 track: 11
 songwriter: Taylor Swift
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+myRank: 11
 ---
 
 <p className="intro">

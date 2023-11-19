@@ -5,8 +5,8 @@ description: "Lyrics"
 album: Midnights
 track: 15
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Pop", "Pop Country", "Electro-pop", "Ballad"]
 cat: "Quill Pen"
+tags: sad
 feat: false
 type: post
 ---

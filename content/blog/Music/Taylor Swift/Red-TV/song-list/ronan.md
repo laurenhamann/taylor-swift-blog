@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 21
 songwriters: ["Taylor Swift", "Maya Maria Thompson"]
-tags: ["Tragic", "Sad"]
+tags: cry
 cat: "Quill Pen"
 feat: false
 type: post

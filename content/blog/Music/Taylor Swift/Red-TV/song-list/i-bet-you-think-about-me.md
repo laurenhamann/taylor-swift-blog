@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 26
 songwriters: ["Taylor Swift", "Lori Mckenna"]
-tags: ["Upbeat", "pesimistic", "Duet"]
 featured: Chris Stapleton
 cat: "Fountain Pen"
 feat: false

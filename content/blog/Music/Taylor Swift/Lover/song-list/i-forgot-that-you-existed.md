@@ -3,12 +3,12 @@ title: I Forgot That You Existed
 date: "2022-11-12"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 1
 songwriters: ["Adam King Feeney", "Louis Bell", "Taylor Swift"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 14
 ---
 
 <p className="verse-one">
@@ -78,12 +78,12 @@ It's just indifference (so yeah) <br />
 ## Quotes from artist
 
 <blockquote>
-I was writing with two writers I hadn’t ever worked with before, so I wanted to come in with an idea that was pretty much all there, melody and lyrics. So I had this idea called “I Forgot That You Existed,” and I wanted it to be really simple. I thought it might be a really fun way to open the album, like, basically kind of shrugging off a lot of things that you’ve been through that have been causing a lot of struggle and pain. And just, one day you wake up and you realize you’re indifferent to whatever caused you that pain. - Taylor Swift
+I was writing with two writers I hadn’t ever worked with before, so I wanted to come in with an idea that was pretty much all there, melody and lyrics. So I had this idea called “I Forgot That You Existed,” and I wanted it to be really simple. I thought it might be a really fun way to open the album, like, basically kind of shrugging off a lot of things that you’ve been through that have been causing a lot of struggle and pain. And just, one day you wake up and you realize you’re indifferent to whatever caused you that pain. <br /><b>- Taylor Swift</b>
 </blockquote>
 
 <blockquote>
 With the first song on this new album I wanted to bring us out the ‘reputation’ era. ‘reputation’ for me was about grieving the loss of your reputation and all of the phases you go through.
 
-This song closes the book on ‘reputation’ in resolving that whole conflict with a shrug. “Well, I guess I’m over it now, because I forgot that you existed.” - Taylor Swift
+This song closes the book on ‘reputation’ in resolving that whole conflict with a shrug. “Well, I guess I’m over it now, because I forgot that you existed.” <br /><b>- Taylor Swift</b>
 
 </blockquote>

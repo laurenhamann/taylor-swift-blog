@@ -4,7 +4,6 @@ date: "2022-12-11"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Max Martin", "Taylor Swift"]
-tags: ["Grunge", "Fast", "Witchy"]
 track: 3
 cat: "Sharpie"
 feat: false

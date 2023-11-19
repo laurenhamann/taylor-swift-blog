@@ -3,12 +3,12 @@ title: "Love Story (Taylor's Version)"
 date: "2022-11-16"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Pop", "Country"]
 track: 3
 songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

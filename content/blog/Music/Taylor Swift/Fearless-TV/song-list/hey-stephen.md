@@ -3,12 +3,12 @@ title: "Hey Stephen (Taylor's Version)"
 date: "2022-11-15"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Pop", "Country"]
 track: 4
 songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="intro">

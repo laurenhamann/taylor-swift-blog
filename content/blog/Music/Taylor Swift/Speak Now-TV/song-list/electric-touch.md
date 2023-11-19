@@ -9,82 +9,60 @@ cat: "Fountain Pen"
 feat: false
 featured: Fall Out Boy
 type: post
+myRank: 12
 ---
 
+<p className="multi">
+<em>Fall Out Boy</em>
+<span>Taylor Swift</span>
+<b>All</b>
+</p>
+
 <p className="verse-one">
-Tall, dark, and Superman <br />
-He puts papers in his briefcase and drives away <br />
-To save the world or go to work <br />
-It's the same thing to me <br />
-He's got his mothers eyes, his father's ambition <br />
-I wonder if he knows how much that I miss him <br />
-I hang on every word that you say <br />
-And you smile and say, "How are you?" <br />
-I'll say, "Just fine" <br />
-I always forget to tell you <br />
-I love you, I love you forever <br />
+Just breathe, just relax,  it'll be okay <br />
+Just an hour 'til your car's in the driveway <br />
+Just the first time ever hangin' out with you tonight <br />
+I've got my money on things goin' badly <br />
+Got a history of stories ending sadly <br />
+Still hoping that the fire won't burn me <br />
+Just one time, just one time <br />
 </p>
 <p className="chorus">
-I watch superman fly away <br />
-You've got a busy day today <br />
-Go save the world, I'll be around <br />
-And I watch superman fly away <br />
-Come back, I'll be with you someday <br />
-I'll be right here on the ground <br />
-When you come back down <br />
+All I know is this could either break my heart or bring it back to life <br />
+Got a feelin' your electric touch could fill this ghost town up with life <br />
+And I want you now, wanna need you forever <br />
+In the heat of your electric touch, mmm <br />
 </p>
 <p className="verse-two">
-Tall, dark and beautiful <br />
-He's complicated, he's irrational <br />
-But I hope someday you take me away and save the day, yeah <br />
-Something in his deep brown eyes has me singing <br />
-He's not all bad like his reputation <br />
-And I can't hear one single word they said <br />
-And you leave, got places to be and I'll be okay <br />
-I always forget to tell you I love you <br />
-I loved you from the very first day <br />
+<em>I've been left in the rain lost and pining <br />
+I'm tryin' hard not to look like I'm trying <br />
+'Cause every time I tried hard for love, it fell apart (Woah)</em> <br />
+<b>I've gotten used to no one callin' my phone <br />
+I've grown accustomed to sleepin' alone </b> <br />
+<em>Still, I know that all it takes is to get it right</em> <br />
+<b>Just one time, just one time</b> <br />
 </p>
 <p className="chorus">
-I watch superman fly away <br />
-You've got a busy day today <br />
-Go save the world I'll be around <br />
-And I watch superman fly away <br />
-Come back, I'll be with you someday <br />
-I'll be right here on the ground <br />
-When you come back down <br />
-</p>
+<em>All I know is this could either break my heart or bring it back to life <br />
+Got a feelin' your electric touch could fill this ghost town up with life <br />
+And I want you now, wanna need you forever <br />
+In the heat of your electric touch, mmm</em> <br />
+</p> 
 <p className="bridge">
-And I watch you fly around the world <br />
-And I hope you don't save some other girl <br />
-Don't forget, don't forget about me <br />
-I'm far away but I'll never let you go <br />
-I'm lovestruck and looking out the window <br />
-Don't forget, don't forget where I'll be <br />
-</p>
-<p className="breakdown">
-Right here, wishing the flowers were from you <br />
-Wishing the card was from you <br />
-Wishing the call was from you <br />
-'Cause I've loved you from the very first day <br />
+I was thinking just one time <em>(Just one time)</em> <br />
+Maybe the stars align <em>(Just one time)</em> <br />
+And maybe I call you mine <br />
+And you won't need space <br />
+Or string me along while you decide <br />
+And just one time <em>(Just one time)</em> <br />
+Maybe the moment's right <em>(The moment's right)</em> <br />
+It's 8:05 and I see two headlights <br />
 </p>
 <p className="chorus">
-I watch superman fly away <br />
-You've got a busy day today <br />
-Go save the world, I'll be around <br />
-Forever and ever here <br />
-I watch superman fly away <br />
-I swear, I'll be with you someday <br />
-I'll be right here on the ground <br />
-When you come back down <br />
+<b>All I know is this could either break my heart</b> or bring it back to life <br />
+Got a feelin' your electric touch <em>(Ooh)</em> <br />
+All I know is this could either break my heart or bring it back to life <br />
+Got a feelin' your electric touch could fill  <br />this ghost town up with life (Life) <br />
+And I want you now, wanna need you forever <br />
+In the heat of your electric touch, mmm <br />
 </p>
-<p className="outro">
-La, la, la, la, la, la <br />
-La, la, la, la, la, la <br />
-When you come back down <br />
-</p>
-
-## Quotes from artist
-
-<blockquote>
-This is about, well, a guy, as usual. This was a guy that I was sort of enamored with. This song got its title by something that I just said randomly in conversatio. When he walked out of the room, I turned to one of my friends and said, ‘It’s like watching Superman fly away.’ - Taylor Swift
-</blockquote>

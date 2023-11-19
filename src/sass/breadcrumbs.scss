@@ -1,0 +1,12 @@
+nav.breadcrumb {
+  width: 100vw;
+  flex-direction: row !important;
+  ol.breadcrumb__list {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    font-size: clamp(8px, 3vw, 14px);
+    font-style: italic;
+  }
+}

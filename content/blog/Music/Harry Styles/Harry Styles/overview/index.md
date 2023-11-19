@@ -4,8 +4,8 @@ date: "2017-05-12"
 description: "album-home"
 artist: Harry Styles
 album: Harry Styles
-image: main.jpg
-hero: hs-hero.jpg
+image: debuthh.png
+hero: debut.png
 track: 1
 category: music
 type: post

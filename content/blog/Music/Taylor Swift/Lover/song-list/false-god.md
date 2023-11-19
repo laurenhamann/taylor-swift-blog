@@ -3,12 +3,12 @@ title: False God
 date: "2022-10-31"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 13
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 8
 ---
 
 <p className="verse-one">

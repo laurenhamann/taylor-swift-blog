@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 5
 ---
 
 <p className="verse-one">
@@ -92,13 +93,3 @@ Don't you ever grow up <br />
 Oh (never grow up) <br />
 Just never grow up <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-‘Never Grow Up’ is a song about the fact that I don’t quite know how I feel about growing up. It’s tricky. Growing up happens without you knowing it. Growing up is such a crazy concept because a lot of times when you were younger you wish you were older. I look out into a crowd every night and I see a lot of girls that are my age and going through exactly the same things as I’m going through. Every once in a while I look down and I see a little girl who is seven or eight, and I wish I could tell her all of this. There she is becoming who she is going to be and forming her thoughts and dreams and opinions. I wrote this song for those little girls. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-“I moved out in July.”

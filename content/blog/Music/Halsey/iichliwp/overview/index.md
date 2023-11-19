@@ -3,7 +3,7 @@ title: If I Can't Have Love, I Want Power
 description: "album-home"
 artist: Halsey
 image: iichliwp.webp
-hero: iichliwp.jpg
+hero: Iichliwp-hero.png
 category: music
 date: "2021-08-27"
 album: If I Can't Have Love, I Want Power

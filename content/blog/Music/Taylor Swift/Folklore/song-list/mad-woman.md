@@ -3,12 +3,12 @@ title: Mad Woman
 date: "2022-11-01"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 12
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Sharpie"
 feat: false
 type: post
+myRank: 5
 ---
 
 <p className="verse-one">

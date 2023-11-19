@@ -4,10 +4,10 @@ description: "Lyrics"
 album: Taylor Swift
 track: 10
 songwriters: ["Taylor Swift", "Liz Rose", "Brian Maher"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 1
 ---
 
 <p className="verse-one">

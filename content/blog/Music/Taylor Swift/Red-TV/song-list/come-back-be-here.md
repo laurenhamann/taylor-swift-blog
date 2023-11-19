@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 18
 songwriters: ["Taylor Swift", "Daniel Dodd Wilson"]
-tags: ["Heartbroken", "Reminiscing", "Slow"]
 feat: false
 type: post
 ---

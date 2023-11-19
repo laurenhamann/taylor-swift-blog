@@ -1,12 +1,13 @@
 ---
 title: Welcome To New York
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 1
-songwriters: ['Taylor Swift', 'Ryan Tedder']
-cat: 'Glitter Gel Pen'
+songwriters: ["Taylor Swift", "Ryan Tedder"]
+cat: "Glitter Gel Pen"
 feat: false
 ---
+
 <p className="verse-one">
 Walking through a crowd, the village is aglow <br />
 Kaleidoscope of loud heartbeats under coats <br />
@@ -90,13 +91,13 @@ Welcome to New York <br />
 Welcome to New York <br />
 </p>
 
-
-
 ## Quotes from artist
-<blockquote cite="https://www.youtube.com/watch?v=xVKTOX3vMKM&t=55s">
-I wanted to start 1989 with this song because New York has been an important landscape and location for the story of my life in the last couple of years. I dreamt and obsessed over moving to New York, and then I did it. The inspiration that I found in that city is hard to describe and to compare to any other force of inspiration I’ve ever experienced in my life. It’s an electric city. - Taylor Swift
-</blockquote>
 
+<blockquote cite="https://www.youtube.com/watch?v=xVKTOX3vMKM&t=55s">
+I wanted to start 1989 with this song because New York has been an important landscape and location for the story of my life in the last couple of years. I dreamt and obsessed over moving to New York, and then I did it. The inspiration that I found in that city is hard to describe and to compare to any other force of inspiration I’ve ever experienced in my life. It’s an electric city. 
+<br />
+<b>- Taylor Swift</b>
+</blockquote>
 
 ## Secret liner notes
 

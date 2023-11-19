@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 25
 songwriters: ["Taylor Swift", "Shellback", "Max Martin"]
-tags: ["Upbeat", "pesimistic"]
 feat: true
 type: post
 ---

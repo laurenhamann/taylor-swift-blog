@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 28
 songwriters: ["Taylor Swift", "Ed Sheeran"]
-tags: ["Upbeat", "pessimistic", "Run"]
 featured: Ed Sheeran
 feat: false
 type: post

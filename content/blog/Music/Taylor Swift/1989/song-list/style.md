@@ -72,7 +72,9 @@ And when we go crashing down we come back every time <br />
 <blockquote>
 I’m pretty sure when we finished this song I knew the record was done. “Shake It Off” and “Style” were the last two songs to be written for 1989. This one has always been my secret favourite hope — “I hope it ends up being a single”, “I hope people love it”. I love how this song sounds the way that feeling felt. I love when the sound of a song matches the feeling that inspired it — This song just reminds me of driving in the middle of the night. I loved comparing these timeless visuals with a feeling that never goes out of style.
 
-This song is about my life and I’ve never revealed who it’s actually about, but the song kind of speaks for itself, and the way that this song sounds and feels, that’s all I need people to know about that story. - Taylor Swift
+This song is about my life and I’ve never revealed who it’s actually about, but the song kind of speaks for itself, and the way that this song sounds and feels, that’s all I need people to know about that story.
+<br />
+<b>- Taylor Swift</b>
 
 </blockquote>
 

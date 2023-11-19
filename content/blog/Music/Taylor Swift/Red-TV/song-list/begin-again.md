@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 16
 songwriter: Taylor Swift
-tags: ["Upbeat", "Reminiscing", "Duet"]
 cat: "Fountain Pen"
 feat: false
 type: post

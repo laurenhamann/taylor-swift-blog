@@ -13,7 +13,6 @@ songwriters:
     "Samuel Dew",
     "Zoe Kravitz",
   ]
-tags: ["Electronic", "Dream Pop", "Pop"]
 cat: "Fountain Pen"
 feat: true
 type: post
@@ -91,4 +90,5 @@ In that lavender haze
 
 <blockquote>
 “Lavender Haze” is track one on Midnights, and I happened upon the phrase “lavender haze” when I was watching Mad Men, and I looked it up, because I thought it sounded cool, and it turns out that it’s a common phrase used in the 50s where they would just describe being in love. Like, if you were in a lavender haze, that meant that you were in that all-encompassing love glow, and I thought that was really beautiful. And I guess theoretically when you’re in the lavender haze, you’ll do anything to stay there, and not let people bring you down off of that cloud. And I think a lot of people have to deal with this now, not just quote-unquote “public figures,” because we live in the era of social media and if the world finds out that you’re in love with somebody, they’re going to weigh in on it. Like my relationship, for six years we’ve had to dodge weird rumors, tabloid stuff, and we just ignore it, and so this song is about the act of ignoring that stuff to protect the real stuff. I hope you guys like it.
+<br /><b>- Taylor Swift</b>
 </blockquote>

@@ -4,8 +4,8 @@ date: "2017-11-10"
 description: "album-home"
 artist: Taylor Swift
 album: Reputation
-image: reputation.png
-hero: rep-hero.png
+image: rep.png
+hero: rep-hero-.png
 track: 6
 category: music
 type: post

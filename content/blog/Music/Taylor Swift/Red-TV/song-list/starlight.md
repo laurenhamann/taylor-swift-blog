@@ -5,7 +5,7 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 15
 songwriter: Taylor Swift
-tags: ["Upbeat", "Reminiscing", "Duet"]
+tags: Historical
 cat: "Glitter Gel Pen"
 feat: false
 type: post

@@ -3,7 +3,6 @@ title: "The Best Day"
 date: "2022-11-07"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 12
 songwriter: Taylor Swift
 cat: "Fountain Pen"

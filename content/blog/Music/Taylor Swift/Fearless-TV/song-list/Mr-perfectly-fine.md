@@ -3,11 +3,11 @@ title: Mr. Perfectly Fine
 date: "2022-11-06"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 22
 songwriter: Taylor Swift
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

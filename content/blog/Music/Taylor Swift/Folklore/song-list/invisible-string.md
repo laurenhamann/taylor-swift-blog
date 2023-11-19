@@ -3,12 +3,12 @@ title: Invisible String
 date: "2022-11-02"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 11
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 17
 ---
 
 <p className="verse-one">
@@ -81,4 +81,5 @@ Ooh <br />
 
 <blockquote>
 A single thread that, for better or for worse, ties you to your fate.
+<br /><b>- Taylor Swift</b>
 </blockquote>

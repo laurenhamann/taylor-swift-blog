@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 8
 songwriter: Taylor Swift
-tags: ["Pop", "Electro-industrial", "Dark Pop"]
 cat: "Sharpie"
 feat: false
 type: post

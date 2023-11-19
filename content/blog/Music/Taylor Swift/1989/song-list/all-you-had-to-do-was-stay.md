@@ -1,12 +1,13 @@
 ---
 title: All You Had To Do Was Stay
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 5
-songwriters: ['Taylor Swift', 'Max Martin']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Max Martin"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 People like you always want back the love they gave away <br />
 And people like me wanna believe you when you say you've changed <br />
@@ -82,14 +83,14 @@ All you had to do was (stay) ooh <br />
 All you had to do was (stay) <br />
 </p>
 
-
-
-
 ## Quotes from artist
+
 <blockquote>
-I had a dream that my ex showed up at my door, knocked on the door, and I opened it up and I was about ready to launch into, like, the perfect thing to say, and instead, all that would come out of my mouth was that high-pitched chorus of people singing “stay!” - Taylor Swift
+I had a dream that my ex showed up at my door, knocked on the door, and I opened it up and I was about ready to launch into, like, the perfect thing to say, and instead, all that would come out of my mouth was that high-pitched chorus of people singing “stay!”
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
-
 ## Secret liner note
+
 “They paid the price”.

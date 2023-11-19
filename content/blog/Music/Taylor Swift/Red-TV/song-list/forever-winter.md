@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 27
 songwriters: ["Taylor Swift", "Mark Derek Foster"]
-tags: ["Upbeat", "pessimistic"]
 cat: "Fountain Pen"
 feat: false
 type: post

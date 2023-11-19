@@ -5,9 +5,9 @@ description: "Lyrics"
 album: Taylor Swift
 track: 12
 songwriters: ["Taylor Swift", "Max Martin", "Shellback"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 feat: false
 type: post
+myRank: 14
 ---
 
 <p className="verse-one">

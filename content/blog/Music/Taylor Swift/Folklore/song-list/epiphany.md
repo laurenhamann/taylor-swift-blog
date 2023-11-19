@@ -3,12 +3,12 @@ title: Epiphany
 date: "2022-10-31"
 description: "Lyrics"
 album: Folklore
-tags: ["Slow", "Story", "Petty"]
 track: 13
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 12
 ---
 
 <p className="verse-one">
@@ -67,5 +67,5 @@ To make some sense of what you've seen <br />
 ## Quotes from artist
 
 <blockquote>
-[The song touches upon] my grandfather, Dean, landing at Guadalcanal in 1942. - Taylor Swift
+[The song touches upon] my grandfather, Dean, landing at Guadalcanal in 1942. <br /><b>- Taylor Swift</b>
 </blockquote>

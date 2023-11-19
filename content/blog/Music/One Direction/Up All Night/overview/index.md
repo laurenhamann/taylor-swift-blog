@@ -5,7 +5,7 @@ description: "album-home"
 artist: One Direction
 album: Up All Night
 image: uan.jpeg
-hero: uan-hero.webp
+hero: uan-hero.png
 track: 1
 category: music
 type: post

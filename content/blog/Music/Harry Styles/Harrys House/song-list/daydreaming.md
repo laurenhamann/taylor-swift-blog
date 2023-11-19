@@ -22,45 +22,45 @@ mv-img:
 ---
 
 <p className="intro">
-Ooh-ooh
-Ooh
+Ooh-ooh <br />
+Ooh <br />
 </p>
 <p className="verse-one">
-Livin' in a daydream
-She said, "Love me like you paid me"
-You know I’ll be gone for so long
-So give me all of your love, give me something to dream about
+Livin' in a daydream <br />
+She said, "Love me like you paid me" <br />
+You know I’ll be gone for so long <br />
+So give me all of your love, give me something to dream about <br />
 </p>
 <p className="refrain">
-Ooh-ooh
+Ooh-ooh <br />
 </p>
 <p className="verse-two">
-Stay until the morning
-'Cause, baby, lovin' you’s the real thing
-It just feels right
-When you give me all of your love, give me something to dream about
-(All of your love, give me something to dream about)
-So give me all of your love, give me something to dream about
+Stay until the morning <br />
+'Cause, baby, lovin' you’s the real thing <br />
+It just feels right <br />
+When you give me all of your love, give me something to dream about <br />
+(All of your love, give me something to dream about) <br />
+So give me all of your love, give me something to dream about <br />
 </p>
 <p className="refrain">
-Ooh-ooh
-Oh, no
-Ah
-Ah
+Ooh-ooh <br />
+Oh, no <br />
+Ah <br />
+Ah <br />
 </p>
 <p className="bridge">
-Livin' in a daydream
-Livin' in a daydream
-Livin' in a daydream
-Give me all of your love, give me something to dream about
+Livin' in a daydream <br />
+Livin' in a daydream <br />
+Livin' in a daydream <br />
+Give me all of your love, give me something to dream about <br />
 </p>
 <p className="chorus">
-Livin' in a daydream
-Livin' in a daydream (It's alright)
-Livin' in a daydream
-(Give me all of your love, give me something to dream about)
-Give me all of your love
-Ooh-ooh (Give me all of your love, give me something to dream about)
-Woo (It’s alright)
-Woo (Give me all of your love, give me something to dream about)
+Livin' in a daydream <br />
+Livin' in a daydream (It's alright) <br />
+Livin' in a daydream <br />
+(Give me all of your love, give me something to dream about) <br />
+Give me all of your love <br />
+Ooh-ooh (Give me all of your love, give me something to dream about) <br />
+Woo (It’s alright) <br />
+Woo (Give me all of your love, give me something to dream about) <br />
 </p>

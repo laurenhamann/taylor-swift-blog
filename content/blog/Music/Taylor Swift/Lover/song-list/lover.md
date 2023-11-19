@@ -3,12 +3,13 @@ title: Lover
 date: "2022-11-10"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 3
 songwriters: ["Taylor Swift", "Scott Harris", "Shawn Mendes"]
 cat: "Fountain Pen"
 feat: true
 type: post
+tags: love
+myRank: 12
 ---
 
 <p className="verse-one">
@@ -61,5 +62,5 @@ This has one of my favorite bridges. I love a bridge, and I was really able to g
 </blockquote>
 
 <blockquote>
-I chose this song as the title track because it’s such a perfect example of what I was trying to do with this album. I wanted to make music that in a lot of ways feels timeless and is really confessional. I wrote this one alone. Jack Antonoff helped produce this song and we wanted to make music that could have been played on a wedding reception stage in 1970. - Taylor Swift
+I chose this song as the title track because it’s such a perfect example of what I was trying to do with this album. I wanted to make music that in a lot of ways feels timeless and is really confessional. I wrote this one alone. Jack Antonoff helped produce this song and we wanted to make music that could have been played on a wedding reception stage in 1970. <br /><b>- Taylor Swift</b>
 </blockquote>

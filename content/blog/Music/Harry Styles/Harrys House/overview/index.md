@@ -2,8 +2,8 @@
 title: Harry's House
 description: "album-home"
 artist: Harry Styles
-image: hh-main.webp
-hero: hh-hero.jpg
+image: house.png
+hero: hh-hero.png
 category: music
 date: "2022-05-20"
 album: Harry's House

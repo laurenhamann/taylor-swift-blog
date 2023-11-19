@@ -3,11 +3,11 @@ title: "Forever & Always (Taylor's Version)"
 date: "2022-11-08"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 11
 songwriter: Taylor Swift
 feat: false
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 16
 ---
 
 <p className="verse-one">
@@ -78,17 +79,3 @@ We're gonna make it now (hold on) <br />
 And I can see it (yeah, yeah) <br />
 I can see it now <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-This is a situation where a guy that I just barely knew put his arm around me by the water, and I saw the entire relationship flash before my eyes, almost like a weird science-fiction movie. After I wrote the song, things sort of fell apart, as things so often do. And I hadn’t talked to him in a couple months. And the song came out, and that day, I got an e-mail from him. And I was like, ‘Yes!’ Because that one was sort of half-confession and half-prediction or projection of what I saw. - Taylor Swift
-</blockquote>
-
-<blockquote>
-Lately I’ve had this bad habit of running away from love. Kind of getting to the place where it’s about to commit, and then you just, like, run in the opposite direction. ‘Mine’ is about the idea that I could find someone who would be the exception to that, someone who would be so sturdy and so much of a sure thing that I wouldn’t run from it. Sometimes I look back on a lot of examples that I’ve seen of love, long term, and a lot of times it doesn’t work out. There are goodbyes and people get really hurt, so I tend to be a little ‘run-awayish.’ But I’m never past hoping that at some point that could change. This song is the first single because it has this…there was this moment between Nathan [Chapman] and I, my producer, when I brought this song in and when we made this demo in one day in his basement and we just kinda looked at each other and we were like, ‘This is it. This is the one.’ - Taylor Swift
-</blockquote>
-
-## Secret Liner Note
-
-Toby

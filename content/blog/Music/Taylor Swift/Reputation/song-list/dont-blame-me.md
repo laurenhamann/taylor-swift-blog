@@ -4,7 +4,6 @@ date: "2022-12-10"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Martin Max Sandberg", "Taylor Swift"]
-tags: ["Grunge", "Fast", "Heavy"]
 track: 4
 cat: "Sharpie"
 feat: false

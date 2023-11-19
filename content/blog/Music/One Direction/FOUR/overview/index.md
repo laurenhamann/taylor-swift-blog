@@ -3,7 +3,7 @@ title: Four
 description: "album-home"
 artist: One Direction
 image: four.jpg
-hero: four-hero.jpg
+hero: four-cover.png
 date: "2014-11-17"
 album: Four
 track: 4

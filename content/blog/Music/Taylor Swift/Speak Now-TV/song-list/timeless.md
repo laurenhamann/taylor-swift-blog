@@ -4,10 +4,11 @@ date: "2022-12-08"
 description: "Lyrics"
 album: Speak Now (Taylor's Version)
 track: 22
-songwriters: ["Taylor Swift", "Jack Antonoff"]
+songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 22
 ---
 
 <p className="verse-one">
@@ -24,7 +25,7 @@ The kind you don't put down
 And that's when I called you and it's so hard to explain <br />
 But in those photos, I saw us instead <br />
 And, somehow, I know that you and I would've found each other <br />
-In another life, you still would've turned my head even if wе'd met
+In another life, you still would've turned my head even if wе'd met <br />
 </p>
 <p className="chorus">
 On a crowded street in 1944 <br />
@@ -37,7 +38,7 @@ And you would've been fine <br />
 We would have been timeless <br />
 'Cause I believe that we were supposed to find this <br />
 So, even in a different life, you still would've been mine <br />
-We would've been timeless
+We would've been timeless <br />
 </p>
 <p className="verse-two">
 I had to smile when it caught my eye <br />

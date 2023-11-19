@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 6
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Fountain Pen"
 feat: true
 type: post

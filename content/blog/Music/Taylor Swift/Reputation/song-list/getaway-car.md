@@ -4,7 +4,7 @@ date: "2022-12-05"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Story", "Dark", "Break-up"]
+tags: Anthem
 track: 9
 cat: "Glitter Gel Pen"
 feat: false

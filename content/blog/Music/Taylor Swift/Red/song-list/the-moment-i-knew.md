@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 17
 songwriter: Taylor Swift
-tags: ["Heartbroken", "Reminiscing", "Slow"]
 cat: "Fountain Pen"
 feat: false
 type: post

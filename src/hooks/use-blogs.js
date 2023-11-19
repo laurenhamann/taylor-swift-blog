@@ -12,6 +12,7 @@ const useBlogs = () => {
         nodes {
           excerpt
           id
+          htmlAst
           fields {
             slug
           }
@@ -26,6 +27,7 @@ const useBlogs = () => {
             album
             artist
             type
+            myRank
             image {
               childImageSharp {
                 gatsbyImageData(
@@ -40,7 +42,7 @@ const useBlogs = () => {
               childImageSharp {
                 gatsbyImageData(
                   blurredOptions: { width: 1200 }
-                  height: 750
+                  height: 300
                   width: 1200
                 )
               }
@@ -78,6 +80,8 @@ const useBlogs = () => {
     category: post.frontmatter.category,
     featured: post.frontmatter.featured,
     type: post.frontmatter.type,
+    rank: post.frontmatter.myRank,
+    html: post.htmlAst,
   }))
 }
 

@@ -7,7 +7,7 @@ const Nav = () => {
     <nav>
       <Link to="/search">Search</Link>
       <Link to="/filter-page">
-        <small>Browse by filter</small>
+        <small>Browse</small>
       </Link>
     </nav>
   )

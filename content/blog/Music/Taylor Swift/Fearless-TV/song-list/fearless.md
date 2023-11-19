@@ -3,11 +3,11 @@ title: "Fearless (Taylor's Version)"
 date: "2022-11-18"
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Pop", "Country"]
 track: 1
 songwriters: ["Taylor Swift", "Hillary Lindsey", "Liz Rose"]
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

@@ -2,8 +2,8 @@
 title: Fine Line
 description: "album-home"
 artist: Harry Styles
-image: ./overview/fineline.webp
-hero: ./overview/fineline-hero.webp
+image: ./overview/fineline.png
+hero: ./overview/fineline-hero.png
 category: music
 date: "2019-12-13"
 album: Fine Line

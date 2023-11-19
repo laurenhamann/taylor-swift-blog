@@ -84,7 +84,9 @@ That's how you got the girl <br />
 ## Quotes from Artist
 
 <blockquote>
-The song ‘How You Get the Girl’ is a song that I wrote about how you get the girl back if you ruined the relationship somehow and she won’t talk to you anymore. Like, if you broke up with her and left her on her own for six months and then you realize you miss her. All the steps you have to do to edge your way back into her life, because she’s probably pretty mad at you. So it’s kind of a tutorial. If you follow the directions in the song, chances are things will work out. Or you may get a restraining order. - Taylor Swift
+The song ‘How You Get the Girl’ is a song that I wrote about how you get the girl back if you ruined the relationship somehow and she won’t talk to you anymore. Like, if you broke up with her and left her on her own for six months and then you realize you miss her. All the steps you have to do to edge your way back into her life, because she’s probably pretty mad at you. So it’s kind of a tutorial. If you follow the directions in the song, chances are things will work out. Or you may get a restraining order. 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 ## Secret liner notes

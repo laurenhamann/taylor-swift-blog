@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Midnights
 track: 19
 songwriters: ["Taylor Swift", "Aaron Dessner"]
-tags: ["Pop", "Ballad", "Soft Rock"]
 cat: "Fountain Pen"
 feat: false
 type: post
+tags: diss
 ---
 
 <p className="verse-one">

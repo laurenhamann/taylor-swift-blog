@@ -3,7 +3,7 @@ title: Made in the AM
 description: "album-home"
 artist: One Direction
 image: am-main.jpg
-hero: am.jpg
+hero: AM.png
 date: "2015-11-13"
 album: Made in the AM
 track: 5

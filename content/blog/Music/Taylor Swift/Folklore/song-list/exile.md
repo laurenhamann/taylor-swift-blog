@@ -3,13 +3,13 @@ title: Exile
 date: "2022-11-09"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 4
 songwriters: ["Taylor Swift", "Justin Vernon", "William Bowery"]
 featured: Bon Iver
 cat: "Fountain Pen"
 feat: true
 type: post
+myRank: 16
 ---
 
 <p className="verse-one">
@@ -98,9 +98,9 @@ I couldn't turn things around (so many signs) <br />
 ## Quotes from artist
 
 <blockquote cite="https://www.youtube.com/watch?v=VaRMwgmuTJA">
-‘exile’ is a song that was written about miscommunications in relationships, and in the case of this song, I imagined that the miscommunications ended the relationship. They led to the demise of this love affair, and now these two people are seeing each other out for the first time, and they keep miscommunicating with each other. They can’t quite get on the same page, they never were able to. And even in their end, even after they’ve broken up, they’re still not hearing each other. So we imagined the beginning would be his side of the story, the second verse her side of the story, and the end would be the story of them talking over each other and not hearing each other. We’re really stoked about how it turned out because it really does seem to be about the tragedy of two people, of two ships passing in the night. - Taylor Swift
+‘exile’ is a song that was written about miscommunications in relationships, and in the case of this song, I imagined that the miscommunications ended the relationship. They led to the demise of this love affair, and now these two people are seeing each other out for the first time, and they keep miscommunicating with each other. They can’t quite get on the same page, they never were able to. And even in their end, even after they’ve broken up, they’re still not hearing each other. So we imagined the beginning would be his side of the story, the second verse her side of the story, and the end would be the story of them talking over each other and not hearing each other. We’re really stoked about how it turned out because it really does seem to be about the tragedy of two people, of two ships passing in the night.<br /><b>- Taylor Swift</b>
 </blockquote>
 
 <blockquote cite="https://pitchfork.com/news/the-nationals-aaron-dessner-talks-taylor-swifts-new-album-folklore/">
-Taylor wrote that one with the singer-songwriter William Bowery. When Taylor sent it to me as a voice memo, she sang both the male and female parts—as much as she could fit in without losing her breath. We talked about who she was imagining joining her, and she loves Justin [Vernon]’s voice in Bon Iver and Big Red Machine. She was like, “Oh my god, I would die if he would do it. It would be so perfect.” I didn’t want to put pressure on Justin as his friend, so I said, “Well, it depends on if he’s inspired by the song but I know he thinks you’re rad.” Which he does. So I sent him the song and he was really into it. He tweaked some parts and added parts as well—the bridge where he says, “Step right out.” The end too, and his choral parts. It was fun because Justin and I work on a lot of stuff together, so it was very easy and natural. At some point I felt like a superfan, hearing two of my favorite singers. This was all being done remotely, but it was one of those moments where your head hits the back of the wall and you’re like, “Fuck. Okay.” - Aaron Dessner
+Taylor wrote that one with the singer-songwriter William Bowery. When Taylor sent it to me as a voice memo, she sang both the male and female parts—as much as she could fit in without losing her breath. We talked about who she was imagining joining her, and she loves Justin [Vernon]’s voice in Bon Iver and Big Red Machine. She was like, “Oh my god, I would die if he would do it. It would be so perfect.” I didn’t want to put pressure on Justin as his friend, so I said, “Well, it depends on if he’s inspired by the song but I know he thinks you’re rad.” Which he does. So I sent him the song and he was really into it. He tweaked some parts and added parts as well—the bridge where he says, “Step right out.” The end too, and his choral parts. It was fun because Justin and I work on a lot of stuff together, so it was very easy and natural. At some point I felt like a superfan, hearing two of my favorite singers. This was all being done remotely, but it was one of those moments where your head hits the back of the wall and you’re like, “Fuck. Okay.” <br /><b>- Aaron Dessner</b>
 </blockquote>

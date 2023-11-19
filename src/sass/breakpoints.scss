@@ -1,66 +1,81 @@
-@media screen and (min-width: 550px) {
-    .main-list {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        gap: 15px;
-    }
-    .album-section{
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        margin: 0 auto;
-    }
-
-    .aside-songs{
-        margin-left: 45px;
-        text-align: left;
-        li {
-            height: 50px;
-            margin-left: 5px;
-            margin-bottom: 5px;
-        }
-    }
+div.hero {
+  height: 300px;
 }
 
+main h1 {
+  text-align: center;
+}
 
+@media screen and (min-width: 550px) {
+  .main-list {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+    gap: 15px;
+    margin: auto;
+  }
+  .album-section {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin: 0 auto;
+    justify-content: space-evenly;
+  }
 
+  .aside-songs {
+    margin-left: 45px;
+    text-align: left;
+    li {
+      height: 50px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+    }
+  }
+}
+@media screen and (max-width: 700px) {
+  div.hero {
+    display: none;
+  }
+}
+@media screen and (min-width: 701px) {
+  div.hero {
+    display: block;
+  }
+}
 @media screen and (min-width: 1000px) {
-    div.hero {
-        height: 65%;
-    }
-    .main-list {
-        justify-content: center;
-        max-width: 1000px;
-        margin: 0 auto;
-    }
-    .hero {
-        height: 75vh;
-    }
+  div.hero {
+    height: 65%;
+  }
+  .main-list {
+    justify-content: space-evenly;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  // .hero {
+  //   height: 75vh;
+  // }
 
-    header {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        .header-link-home {
-            flex-grow: 4;
-        }
-        nav {
-            margin: 0 0 0 auto;
-        }
+  header:not(#album-home) {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    nav {
+      margin: 0 0 0 auto;
     }
-    form#searchForm{
-        .searchInput {
-            width: 55vw;
-            height: 2.2rem;
-        }
+  }
+  form#searchForm {
+    .searchInput {
+      width: 55vw;
+      height: 2.2rem;
     }
+  }
 
-
-    .album-section {
-        .aside-songs {
-            height: 50vh;
-            flex-grow: 4;
-        }
+  .album-section {
+    .aside-songs {
+      height: 50vh;
+      flex-grow: 4;
     }
+  }
 }

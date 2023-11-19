@@ -1,12 +1,13 @@
 ---
 title: I Wish You Would
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 7
-songwriters: ['Taylor Swift', 'Jack Antonoff']
-cat: 'Fountain Pen'
+songwriters: ["Taylor Swift", "Jack Antonoff"]
+cat: "Fountain Pen"
 feat: false
 ---
+
 <p className="verse-one">
 It's 2 A.M. in your car <br />
 Windows down, I pass my street <br />
@@ -110,10 +111,12 @@ I I I I, I I I wish, I wish, I <br />
 I I I I, I I I wish, I wish, I (I wish you would) <br />
 </p>
 
-
 ## Quotes from artist
+
 <blockquote cite="https://genius.com/Taylor-swift-i-wish-you-would-voice-memo-lyrics">
-This is another way I’ve written songs recently. This is a song I did with Jack Antonoff, and Jack is one of my friends and so were hanging out and he pulled out his phone and goes ‘I made this amazing track the other day. It’s so cool, I love these guitar sounds.’ And he played it for me and immediately I could hear this finished song in my head, and I just said ‘Please, please let me have that. Let me play with is, send it to me.’ And so he sent it to me and I was on tour and this was me playing the track on my laptop recording me singing the vocal into my phone and it ended up being a song called “I Wish You Would”, because Jack wrote back and said ‘I love that’. So this is another way of writing, it’s writing to track: - Taylor Swift
+This is another way I’ve written songs recently. This is a song I did with Jack Antonoff, and Jack is one of my friends and so were hanging out and he pulled out his phone and goes ‘I made this amazing track the other day. It’s so cool, I love these guitar sounds.’ And he played it for me and immediately I could hear this finished song in my head, and I just said ‘Please, please let me have that. Let me play with is, send it to me.’ And so he sent it to me and I was on tour and this was me playing the track on my laptop recording me singing the vocal into my phone and it ended up being a song called “I Wish You Would”, because Jack wrote back and said ‘I love that’. So this is another way of writing, it’s writing to track: 
+<br />
+<b>- Taylor Swift</b>
 </blockquote>
 
 ## secret in liner notes

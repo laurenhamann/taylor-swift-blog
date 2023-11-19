@@ -5,7 +5,7 @@ description: "album-home"
 artist: Taylor Swift
 album: Evermore
 image: evermore.png
-hero: ever-hero.png
+hero: evermore-hero.png
 track: 9
 category: music
 type: post

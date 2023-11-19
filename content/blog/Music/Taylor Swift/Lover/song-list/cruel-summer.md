@@ -3,12 +3,12 @@ title: Cruel Summer
 date: "2022-11-11"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 2
 songwriters: ["Taylor Swift", "Jack Antonoff", "Annie Clark"]
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+myRank: 1
 ---
 
 <p className="verse-one">
@@ -95,9 +95,9 @@ And I screamed for whatever it's worth <br />
 ## Quotes from artist
 
 <blockquote>
-This song is one that I wrote about the feeling of a summer romance, and how often times a summer romance can be layered with all these feelings of, like, pining away and sometimes even secrecy. It deals with the idea of being in a relationship where there’s some element of desperation and pain in it, where you’re yearning for something that you don’t quite have yet, it’s just right there, and you just, like, can’t reach it. So, this has some of my favorite lyrics on it, and it was so fun to write this. Jack and Annie [Clark] did the track and a lot of the instrumentation, and I did the topline in whatever language that is. A topline is all the notes and the lyrics you hear. So whatever you would sing, that is what I wrote on this. It was just so fun to write this one and I really love this one. Jack and I like to do ranting bridges. Like in “Out of the Woods” where the bridge is the biggest moment of the song — we revisited that concept. - Taylor Swift
+This song is one that I wrote about the feeling of a summer romance, and how often times a summer romance can be layered with all these feelings of, like, pining away and sometimes even secrecy. It deals with the idea of being in a relationship where there’s some element of desperation and pain in it, where you’re yearning for something that you don’t quite have yet, it’s just right there, and you just, like, can’t reach it. So, this has some of my favorite lyrics on it, and it was so fun to write this. Jack and Annie [Clark] did the track and a lot of the instrumentation, and I did the topline in whatever language that is. A topline is all the notes and the lyrics you hear. So whatever you would sing, that is what I wrote on this. It was just so fun to write this one and I really love this one. Jack and I like to do ranting bridges. Like in “Out of the Woods” where the bridge is the biggest moment of the song — we revisited that concept.<br /><b>- Taylor Swift</b>
 </blockquote>
 
 <blockquote>
- I wrote this song with two people I’m a huge fan of, Jack Antonoff and Annie Clark of St. Vincent. I wanted this song to feel like a desperate summer love that might be doomed from the start. My favourite line from this song is, “I love you. Ain’t that the worst thing you ever heard?” - Taylor Swift
+ I wrote this song with two people I’m a huge fan of, Jack Antonoff and Annie Clark of St. Vincent. I wanted this song to feel like a desperate summer love that might be doomed from the start. My favourite line from this song is, “I love you. Ain’t that the worst thing you ever heard?” <br /><b>- Taylor Swift</b>
 </blockquote>

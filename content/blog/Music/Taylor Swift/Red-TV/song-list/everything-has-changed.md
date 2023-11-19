@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red (Taylor's Version)
 track: 14
 songwriters: ["Taylor Swift", "Ed Sheeran"]
-tags: ["Country", "Reminiscing", "Duet"]
 featured: Ed Sheeran
 cat: "Fountain Pen"
 feat: false

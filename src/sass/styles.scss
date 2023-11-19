@@ -1,5 +1,6 @@
 @use "colors" as color;
 @use "fonts";
+@use "breadcrumbs";
 @use "global";
 @use "index-page";
 @use "album-overview";
@@ -12,12 +13,6 @@
 // index.js
 body {
   counter-reset: my-counter;
-  background-image: url("../images/lefttop.png"),
-    url("../images/right-bottom.png");
-  background-position: left top, right bottom;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 20vw 20vh;
   height: 100vh;
   overflow: scroll;
 }
@@ -35,4 +30,77 @@ nav {
 
 .global-header {
   margin-bottom: 50px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  h1 {
+    margin-left: 15px;
+    font-size: clamp(24px, 10vh, 32px);
+  }
+}
+
+.header-link-home {
+  font-size: 16px !important;
+}
+
+.non-home-header {
+  margin-top: 3px;
+  margin-left: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  nav {
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-between;
+    gap: 15px;
+    font-size: 14px;
+    margin-right: 3px;
+  }
+}
+
+.album-name {
+  width: 200px;
+  text-wrap: wrap;
+  font-size: clamp(12px, 2vw, 24px) !important;
+}
+div.post-subs {
+  width: max-content;
+}
+section.post-body {
+  width: max-content;
+  max-width: 90vw;
+  margin: 5px auto;
+}
+
+#album-home .album-art {
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.fave-line-link {
+  text-decoration: none;
+}
+.fave-line {
+  list-style: none;
+  text-decoration: none;
+  font-size: 18px;
+  span {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 14px;
+    text-align: center;
+  }
+}
+
+#album-overview {
+  display: flex;
+  flex-direction: column;
+  section {
+    min-width: fit-content;
+    width: clamp(300px, 80vw, 1200px);
+    h2 {
+      text-align: center;
+    }
+  }
 }

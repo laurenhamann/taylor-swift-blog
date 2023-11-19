@@ -3,12 +3,12 @@ title: Daylight
 date: "2022-10-27"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 18
 songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 3
 ---
 
 <p className="verse-one">
@@ -93,5 +93,5 @@ I just think that you are what you love" <br />
 ## Quotes from artist
 
 <blockquote>
-I’ve come to a realization that I need to be able to forgive myself for making the wrong choice, trusting the wrong person, or figuratively falling on my face in front of everyone. Step into the daylight and let it go. - Taylor Swift
+I’ve come to a realization that I need to be able to forgive myself for making the wrong choice, trusting the wrong person, or figuratively falling on my face in front of everyone. Step into the daylight and let it go.<br /><b>- Taylor Swift</b>
 </blockquote>

@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Midnights
 track: 20
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Pop", "Ballad", "Electro-pop"]
 cat: "Fountain Pen"
 feat: false
 type: post
+tags: honest
 ---
 
 <p className="verse-one">

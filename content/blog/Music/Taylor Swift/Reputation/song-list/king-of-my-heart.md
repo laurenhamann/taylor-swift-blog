@@ -4,7 +4,6 @@ date: "2022-12-04"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Shellback", "Max Martin", "Taylor Swift"]
-tags: ["Love", "Sexy", "Heavy"]
 track: 10
 cat: "Glitter Gel Pen"
 feat: false

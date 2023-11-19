@@ -4,7 +4,6 @@ date: "2022-11-30"
 description: "Lyrics"
 album: Reputation
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Grunge", "Dark", "Love", "liars", "November"]
 track: 14
 feat: false
 type: post

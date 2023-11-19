@@ -3,7 +3,6 @@ title: "You Belong With Me"
 date: "2022-11-13"
 description: "Lyrics"
 album: Fearless
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 6
 songwriters: ["Taylor Swift", "Liz Rose"]
 cat: "Glitter Gel Pen"

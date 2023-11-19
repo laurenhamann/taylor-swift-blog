@@ -5,10 +5,10 @@ description: "Lyrics"
 album: Midnights
 track: 16
 songwriters: ["Taylor Swift", "Jack Antonoff"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+tags: love
 ---
 
 <p className="verse-one">

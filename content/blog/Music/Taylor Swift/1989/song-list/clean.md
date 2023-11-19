@@ -1,10 +1,10 @@
 ---
 title: Clean
 description: "Lyrics"
-album: '1989'
+album: "1989"
 track: 13
-songwriters: ['Taylor Swift', 'Imogen Heap']
-cat: 'Quill Pen'
+songwriters: ["Taylor Swift", "Imogen Heap"]
+cat: "Quill Pen"
 feat: false
 ---
 
@@ -61,12 +61,10 @@ Finally clean, think I'm finally clean, ah ah <br />
 Think I'm finally clean <br />
 </p>
 
-
-
-
-
-
 ## Quotes from Artist
+
 <blockquote cite="https://www.elle.com/fashion/a28210/taylor-swift-elle-june-cover-2015/">
-‘Clean’ [was one of] the last two [songs] we wrote for the record, so it shows you where I ended up mentally. ‘Clean’ I wrote as I was walking out of Liberty in London. Someone I used to date—it hit me that I’d been in the same city as him for two weeks and I hadn’t thought about it. When it did hit me, it was like, ‘Oh, I hope he’s doing well.’ And nothing else. And you know how it is when you’re going through heartbreak. A heartbroken person is unlike any other person. Their time moves at a completely different pace than ours. It’s this mental, physical, emotional ache and feeling so conflicted. Nothing distracts you from it. Then time passes, and the more you live your life and create new habits, you get used to not having a text message every morning saying, ‘Hello, beautiful. Good morning.’ You get used to not calling someone at night to tell them how your day was. You replace these old habits with new habits, like texting your friends in a group chat all day and planning fun dinner parties and going out on adventures with your girlfriends, and then all of a sudden one day you’re in London and you realize you’ve been in the same place as your ex for two weeks and you’re fine. And you hope he’s fine. The first thought that came to my mind was, ‘I’m finally clean.’ - Taylor Swift
+‘Clean’ [was one of] the last two [songs] we wrote for the record, so it shows you where I ended up mentally. ‘Clean’ I wrote as I was walking out of Liberty in London. Someone I used to date—it hit me that I’d been in the same city as him for two weeks and I hadn’t thought about it. When it did hit me, it was like, ‘Oh, I hope he’s doing well.’ And nothing else. And you know how it is when you’re going through heartbreak. A heartbroken person is unlike any other person. Their time moves at a completely different pace than ours. It’s this mental, physical, emotional ache and feeling so conflicted. Nothing distracts you from it. Then time passes, and the more you live your life and create new habits, you get used to not having a text message every morning saying, ‘Hello, beautiful. Good morning.’ You get used to not calling someone at night to tell them how your day was. You replace these old habits with new habits, like texting your friends in a group chat all day and planning fun dinner parties and going out on adventures with your girlfriends, and then all of a sudden one day you’re in London and you realize you’ve been in the same place as your ex for two weeks and you’re fine. And you hope he’s fine. The first thought that came to my mind was, ‘I’m finally clean.’
+<br />
+<b>- Taylor Swift</b>
 </blockquote>

@@ -4,11 +4,11 @@ date: "2022-11-06"
 featured: Maren Morris
 description: "Lyrics"
 album: Fearless (Taylor's Version)
-tags: ["Lover", "Flowy", "Ethreal"]
 track: 21
 songwriters: ["Taylor Swift", "Scooter Carusoe"]
 feat: true
 type: post
+artist: Taylor Swift
 ---
 
 <p className="verse-one">

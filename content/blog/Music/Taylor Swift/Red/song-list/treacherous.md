@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 3
 songwriters: ["Taylor Swift", "Daniel Dodd Wilson"]
-tags: ["slow", "Country"]
 cat: "Fountain Pen"
 feat: false
 type: post

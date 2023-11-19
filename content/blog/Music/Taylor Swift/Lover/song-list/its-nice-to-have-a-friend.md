@@ -3,12 +3,12 @@ title: "It's Nice To Have A Friend"
 date: "2022-10-28"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 17
 songwriters: ["Taylor Swift", "Louis Bell", "Adam King Feeney"]
 cat: "Quill Pen"
 feat: false
 type: post
+myRank: 9
 ---
 
 <p className="verse-one">
@@ -62,5 +62,5 @@ It's nice to have a friend <br />
 ## Quotes from artist
 
 <blockquote>
-There’s a song on Lover about flashback and childhood, it compares childhood friendships to when you find someone to fall in love with when you’re older, called “It’s Nice To Have A Friend.” It’s very nostalgic. - Taylor Swift
+There’s a song on Lover about flashback and childhood, it compares childhood friendships to when you find someone to fall in love with when you’re older, called “It’s Nice To Have A Friend.” It’s very nostalgic.<br /><b>- Taylor Swift</b>
 </blockquote>

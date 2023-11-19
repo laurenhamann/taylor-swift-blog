@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Midnights
 track: 17
 songwriters: ["Taylor Swift", "Aaron Dessner"]
-tags: ["Pop", "Alternative", "Ballad"]
 cat: "Fountain Pen"
 feat: false
 type: post

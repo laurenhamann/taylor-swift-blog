@@ -3,12 +3,12 @@ title: Mirrorball
 date: "2022-11-07"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 6
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 2
 ---
 
 <p className="verse-one">
@@ -62,8 +62,7 @@ I'm still a believer but I don't know why <br />
 I've never been a natural <br />
 All I do is try, try, try <br />
 I'm still on that trapeze <br />
-I'm still trying everything <br />
-To keep you looking at me <br />
+<span id="favorite-line">I'm still trying everything to keep you looking at me</span> <br />
 </p>
 <p className="outro">
 Because I'm a mirrorball <br />
@@ -75,5 +74,5 @@ Tonight <br />
 ## Quotes from artist
 
 <blockquote>
-In folklore, there are a lot of songs that reference each other, or lyrical parallels, and one of the ones I like is the entire song ‘this is me trying’ then being referenced again in ‘mirrorball.’ […] It also is the first time, and one of the only times, that the time that we’re living through is actually lyrically addressed. I think that, you know, the pandemic and lockdown, and all that, runs through this album like a thread because it’s an album that allows you to feel your feelings, and it’s a product of isolation. […] This is the first time, in the bridge saying, ‘they called off the circus, burned the disco down. When they sent home the horses and the rodeo clowns.’ I wrote this song right after I found out all my [Lover] shows were canceled. So it’s like I realize, here I am writing all this music, still trying. - Taylor Swift
+In folklore, there are a lot of songs that reference each other, or lyrical parallels, and one of the ones I like is the entire song ‘this is me trying’ then being referenced again in ‘mirrorball.’ […] It also is the first time, and one of the only times, that the time that we’re living through is actually lyrically addressed. I think that, you know, the pandemic and lockdown, and all that, runs through this album like a thread because it’s an album that allows you to feel your feelings, and it’s a product of isolation. […] This is the first time, in the bridge saying, ‘they called off the circus, burned the disco down. When they sent home the horses and the rodeo clowns.’ I wrote this song right after I found out all my [Lover] shows were canceled. So it’s like I realize, here I am writing all this music, still trying. <br /><b>- Taylor Swift</b>
 </blockquote>

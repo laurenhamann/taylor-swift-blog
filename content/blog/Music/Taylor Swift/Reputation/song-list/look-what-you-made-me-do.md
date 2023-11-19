@@ -11,7 +11,7 @@ songwriters:
     "Rob Manzoli",
     "Richard Fairbrass",
   ]
-tags: ["Grunge", "Vengence", "Heavy"]
+tag: diss
 track: 6
 cat: "Sharpie"
 feat: true

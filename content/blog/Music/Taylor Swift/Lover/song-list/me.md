@@ -3,13 +3,14 @@ title: ME!
 date: "2022-10-28"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Love"]
 track: 16
 songwriters: ["Taylor Swift", "Brendon Urie", "Joel Little"]
 featured: Brendon Urie
 cat: "Glitter Gel Pen"
 feat: true
 type: post
+tags: cringe
+myRank: 17
 ---
 
 <p className="verse-one">
@@ -100,5 +101,5 @@ And I promise that nobody's gonna love you like me-e-e <br />
 ## Quotes from artist
 
 <blockquote>
-‘ME!’ is a song about embracing your individuality and really celebrating it, and owning it. I think that with a pop song, we have the ability to get a melody stuck in people’s heads, and I want it to be one that makes them feel better about - Taylor Swift
+‘ME!’ is a song about embracing your individuality and really celebrating it, and owning it. I think that with a pop song, we have the ability to get a melody stuck in people’s heads, and I want it to be one that makes them feel better about <br /><b>- Taylor Swift</b>
 </blockquote>

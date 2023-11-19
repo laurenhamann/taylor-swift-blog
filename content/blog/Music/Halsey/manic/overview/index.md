@@ -4,8 +4,8 @@ date: "2020-01-17"
 description: "album-home"
 artist: Halsey
 album: Manic
-image: manic.png
-hero: manic-hero.png
+image: manic.jpg
+hero: manic.png
 track: 4
 category: music
 type: post

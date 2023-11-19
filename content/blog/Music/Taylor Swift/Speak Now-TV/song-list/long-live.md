@@ -8,6 +8,7 @@ songwriter: Taylor Swift
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 3
 ---
 
 <p className="verse-one">
@@ -85,13 +86,3 @@ And long, long live that look on your face <br />
 And bring on all the pretenders <br />
 One day, we will be remembered <br />
 </p>
-
-## Quotes from artist
-
-<blockquote>
-This song is about my band, and my producer, and all the people who have helped us build this brick by brick. The fans, the people who I feel that we are all in this together, this song talks about the triumphant moments that we’ve had in the last two years. We’ve had times where we just jump up and down, and dance like we don’t care how we’re dancing, and just scream at the top of our lungs, “How is this happening?” And, I feel very lucky to even have had one of those moments, nonetheless all the ones that I got to have. ‘Long Live’ is about how I feel reflecting on it. - Taylor Swift
-</blockquote>
-
-## Secret liner note
-
-For you

@@ -4,8 +4,8 @@ date: "2010-10-25"
 description: "album-home"
 artist: Taylor Swift
 album: Speak Now
-image: speaknow.webp
-hero: speaknow-hero.webp
+image: sn.png
+hero: speaknow.png
 track: 3
 category: music
 type: post

@@ -5,9 +5,9 @@ description: "Lyrics"
 album: Taylor Swift
 track: 15
 songwriters: ["Taylor Swift", "Brett Cornelius", "Troy Verges"]
-tags: ["Upbeat", "Bubblegum", "Pop"]
 feat: false
 type: post
+myRank: 3
 ---
 
 <p className="chorus">

@@ -3,12 +3,12 @@ title: Cornelia Street
 date: "2022-11-04"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Falling In Love", "Love"]
 track: 9
 songwriter: "Taylor Swift"
 cat: "Fountain Pen"
 feat: false
 type: post
+myRank: 11
 ---
 
 <p className="verse-one">
@@ -86,5 +86,5 @@ I say casually in the car <br />
 ## Quotes from artist
 
 <blockquote>
-It’s about the things that took place, the memories that were made on that street. I rented an apartment there, and just wanted to write a song about all the nostalgia of, you know, sometimes in our lives we asign, you know, we kind of bond our memories to those places where those memories happened, it’s just something we do if we romantisize life, which I tend to do. And so, I wrote this song about going back over the memories of things that happened in this particular place, and it ended up being one of my favorite songs. I wrote this one alone. - Taylor Swift
+It’s about the things that took place, the memories that were made on that street. I rented an apartment there, and just wanted to write a song about all the nostalgia of, you know, sometimes in our lives we asign, you know, we kind of bond our memories to those places where those memories happened, it’s just something we do if we romantisize life, which I tend to do. And so, I wrote this song about going back over the memories of things that happened in this particular place, and it ended up being one of my favorite songs. I wrote this one alone. <br /><b>- Taylor Swift</b>
 </blockquote>

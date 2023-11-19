@@ -3,7 +3,7 @@ title: Manic
 description: "album-home"
 artist: Halsey
 image: ./overview/manic.jpg
-hero: ./overview/manic-hero.png
+hero: ./overview/manic.png
 category: music
 date: "2020-01-17"
 album: Manic

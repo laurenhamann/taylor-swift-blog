@@ -6,7 +6,6 @@ featured: Ed Sheeran, Future
 album: Reputation
 songwriters:
   ["Ed Sheeran", "Shellback", "Max Martin", "Nayvadius Wilburn", "Taylor Swift"]
-tags: ["Hip Hop", "Fast", "Rhymetic", "Gold", "Red"]
 track: 2
 cat: "Sharpie"
 feat: true

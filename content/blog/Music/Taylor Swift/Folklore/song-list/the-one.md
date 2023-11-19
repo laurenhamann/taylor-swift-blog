@@ -3,12 +3,12 @@ title: The 1
 date: "2022-11-12"
 description: "Lyrics"
 album: Folklore
-tags: ["Pop", "Sarcastic", "Petty"]
 track: 1
 songwriters: ["Taylor Swift", "Aaron Dessner"]
 cat: "Fountain Pen"
 feat: true
 type: post
+myRank: 8
 ---
 
 <p className="verse-one">

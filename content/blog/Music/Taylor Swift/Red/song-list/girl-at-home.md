@@ -5,7 +5,6 @@ description: "Lyrics"
 album: Red
 track: 19
 songwriter: Taylor Swift
-tags: ["Upbeat"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post

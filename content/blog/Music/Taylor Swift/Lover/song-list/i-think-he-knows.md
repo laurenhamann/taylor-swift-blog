@@ -3,12 +3,12 @@ title: I Think He Knows
 date: "2022-11-07"
 description: "Lyrics"
 album: Lover
-tags: ["Pop", "Falling In Love", "Love"]
 track: 6
 songwriters: ["Taylor Swift", "Jack Antonoff"]
 cat: "Glitter Gel Pen"
 feat: false
 type: post
+myRank: 18
 ---
 
 <p className="verse-one">
