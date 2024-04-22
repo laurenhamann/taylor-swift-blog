@@ -34,7 +34,6 @@ const useBlogs = () => {
                   blurredOptions: { width: 150 }
                   height: 250
                   width: 200
-                  formats: PNG
                 )
               }
             }
